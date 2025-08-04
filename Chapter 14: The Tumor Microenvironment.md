@@ -49,6 +49,10 @@ Mononuclear phagocytes are extremely plastic. In the context of interferon-drive
 
 Several studies indicate that tumor-associated macrophages (TAMs) usually have a pro-tumoral action, since they can stimulate angiogenesis, increase tumor cell invasion and motility, and have an immunosuppressive action.
 
+![Tumor-Associated Macrophages](images/chapter14/14-3.jpg)
+*Figure 14.3 Tumor-Associated Macrophages: This image of a breast cancer tumor and its microenvironment was obtained from a live mouse model using multiphoton microscopy and endogenous fluorescence. That is, the image was obtained without any fluorophores, stains, or dyes, using only the metabolic co-factors of NADH and FAD, which are already inside of cells, along with second harmonic generation to see collagen. This technique has important clinical potential for patients who require label-free imaging, and may lead to more effective diagnoses and treatments. Tumor cells display in cyan, macrophages in red, collagen fibers in green.
+source: National Cancer Institute \ Carbone Cancer Center at the Univ. of Wisconsin creators: Joseph Szulczewski, David Inman, Kevin Eliceiri, and Patricia Keely*
+
 **Macrophage Polarization in the TME**
 
 The phenotype of tumour-associated macrophages is shifted to a pro-fibrotic, pro-angiogenic phenotype, M2, characterized by production of arginase, IL-10, and TGF-β as well as IL-23.
