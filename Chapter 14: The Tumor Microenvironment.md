@@ -99,6 +99,10 @@ A microscopic population of angiogenic tumor cells will begin to modify microves
 
 The relationship between cancer cells and stromal components is bidirectional and dynamic, with both compartments influencing each other's behavior and function through complex molecular crosstalk.
 
+![Cancer cells and the stroma](images/chapter14/14-5.jpg)
+*Figure 14.5 Cancer cells and the stroma: As shown here, lung cancer is associated with a vast stromal desmoplastic reaction (the "neighborhood") in which the connective tissue, associated with the tumor, thickens similarly to scars. Cancer is in red; cell nuclei in cyan; stroma/desmoplasia in green; and an active stroma-specific marker in purple.
+source: National Cancer Institute \ Fox Chase Cancer Center creator: Neelima Shah, Edna Cukierman*
+
 ### 14.2.1 Bidirectional Signaling Mechanisms
 
 Accumulating evidence indicates that the epithelial and stromal compartments interact to enhance the aggressive nature of this disease. Pancreatic cancer cells release various factors that stimulate the stroma. Stromal cells, in turn, release mitogenic substances that stimulate tumor growth, invasion, and resistance to therapy.
