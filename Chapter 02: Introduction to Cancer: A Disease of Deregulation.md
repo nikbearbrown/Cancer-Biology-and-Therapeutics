@@ -52,7 +52,7 @@ Fewer than one-third of newly diagnosed solid tumor patients can be cured by loc
 
 #### Mechanisms of Systemic Disease
 
-**Metastatic Spread**
+##### Metastatic Spread
 
 Once the neoplasm becomes invasive, it can disseminate via the lymphatics and/or vascular channels that it induces through tumor-stimulated lymphangiogenesis and angiogenesis and other perturbations of the local microenvironment. Invasion and metastases kill hosts through two processes: local invasion and distant organ colonization and injury.
 
