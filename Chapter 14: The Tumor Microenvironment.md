@@ -11,7 +11,7 @@ Source:	National Cancer Institute (NCI)*
 
 Cancer-associated fibroblasts (CAFs) represent one of the most abundant and functionally important components of the tumor stroma. Cancer-associated fibroblasts (CAFs), a major component of the tumor microenvironment (TME), play an important role in cancer initiation, progression, and metastasis. Unlike normal fibroblasts, CAFs exhibit markedly different characteristics that promote tumorigenesis.
 
-![Fibroblast](images/chapter14/14-2.jpg)
+![Fibroblast](images/chapter14/14-1-1.jpg)
 *Figure 14.2 Fibroblasts: A confocal microscopy image of a fibroblast showing the nucleus (blue), mitochondria (red), and actin cytoskeleton (green). As is evident from their large number of mitochondria, fibroblasts are very metabolically active, continuously synthesizing elements of the extracellular matrix and collagen. Tissue damage is a major trigger for the activation of fibroblasts from fibrocytes, and so fibroblasts play an important role in wound healing. Fibroblast assays are currently being studied as a means of predicting how normal tissue may respond to radiation therapy in cancer patients and others.
 Source: NCI Center for Cancer Research. Creator: Guy Jones, Matthew Dreher, Brad Wood*
 
