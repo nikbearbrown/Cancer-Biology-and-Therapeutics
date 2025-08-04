@@ -81,6 +81,10 @@ Angiogenesis, the growth of new capillary blood vessels, is central to the growt
 
 Vascular casts of metastases in the rabbit liver reveal that tumors of up to 1 mm in diameter are usually avascular, but beyond that size are vascularized. This size limitation necessitates the "angiogenic switch" for continued tumor growth.
 
+![Tumor angiogenesis](images/chapter14/14-4.jpg)
+*Figure 14.4 Tumor angiogenesis: In this image from a mouse model of ovarian cancer, optically cleared tumor excised from a murine SKOV tumor seeded with CD63+ cells reveals a high-resolution landscape of the three-dimensional tumor-stromal interfaces that comprise the tumor microenvironment (TME). Second harmonic signal (blue) and autofluorescent /GFP signals (green) demonstrates the interplay of collagen II fibrils and vessels generated from angiogenesis. The use of optical tissue clearing has the potential to greatly improve researchers' ability to assess the anatomic, structural, and cellular constituents that govern metastatic colonization in the TME at a single-cell resolution.
+source: National Cancer Institute \ Comprehensive Cancer Center of Wake Forest Univ.  creator: Chris Booth, Kyle Cowdrick, Frank C. Marini*
+
 **Angiogenic Factors and Signaling**
 
 VEGF-A expression is greatly stimulated by tissue hypoxia and, perhaps independently, by low tissue pH, conditions that are commonly present in the tumor microenvironment.
