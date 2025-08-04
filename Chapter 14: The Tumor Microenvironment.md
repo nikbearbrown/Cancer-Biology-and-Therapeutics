@@ -49,7 +49,7 @@ Mononuclear phagocytes are extremely plastic. In the context of interferon-drive
 
 Several studies indicate that tumor-associated macrophages (TAMs) usually have a pro-tumoral action, since they can stimulate angiogenesis, increase tumor cell invasion and motility, and have an immunosuppressive action.
 
-![Tumor-Associated Macrophages](images/chapter14/14-3.jpg)
+![Tumor-Associated Macrophages](images/chapter14/14-1-2.jpg)
 *Figure 14.3 Tumor-Associated Macrophages: This image of a breast cancer tumor and its microenvironment was obtained from a live mouse model using multiphoton microscopy and endogenous fluorescence. That is, the image was obtained without any fluorophores, stains, or dyes, using only the metabolic co-factors of NADH and FAD, which are already inside of cells, along with second harmonic generation to see collagen. This technique has important clinical potential for patients who require label-free imaging, and may lead to more effective diagnoses and treatments. Tumor cells display in cyan, macrophages in red, collagen fibers in green.
 source: National Cancer Institute \ Carbone Cancer Center at the Univ. of Wisconsin creators: Joseph Szulczewski, David Inman, Kevin Eliceiri, and Patricia Keely*
 
@@ -81,7 +81,7 @@ Angiogenesis, the growth of new capillary blood vessels, is central to the growt
 
 Vascular casts of metastases in the rabbit liver reveal that tumors of up to 1 mm in diameter are usually avascular, but beyond that size are vascularized. This size limitation necessitates the "angiogenic switch" for continued tumor growth.
 
-![Tumor angiogenesis](images/chapter14/14-4.jpg)
+![Tumor angiogenesis](images/chapter14/14-1-3.jpg)
 *Figure 14.4 Tumor angiogenesis: In this image from a mouse model of ovarian cancer, optically cleared tumor excised from a murine SKOV tumor seeded with CD63+ cells reveals a high-resolution landscape of the three-dimensional tumor-stromal interfaces that comprise the tumor microenvironment (TME). Second harmonic signal (blue) and autofluorescent /GFP signals (green) demonstrates the interplay of collagen II fibrils and vessels generated from angiogenesis. The use of optical tissue clearing has the potential to greatly improve researchers' ability to assess the anatomic, structural, and cellular constituents that govern metastatic colonization in the TME at a single-cell resolution.
 source: National Cancer Institute \ Comprehensive Cancer Center of Wake Forest Univ.  creator: Chris Booth, Kyle Cowdrick, Frank C. Marini*
 
@@ -99,7 +99,7 @@ A microscopic population of angiogenic tumor cells will begin to modify microves
 
 The relationship between cancer cells and stromal components is bidirectional and dynamic, with both compartments influencing each other's behavior and function through complex molecular crosstalk.
 
-![Cancer cells and the stroma](images/chapter14/14-5.jpg)
+![Cancer cells and the stroma](images/chapter14/14-2.jpg)
 *Figure 14.5 Cancer cells and the stroma: As shown here, lung cancer is associated with a vast stromal desmoplastic reaction (the "neighborhood") in which the connective tissue, associated with the tumor, thickens similarly to scars. Cancer is in red; cell nuclei in cyan; stroma/desmoplasia in green; and an active stroma-specific marker in purple.
 source: National Cancer Institute \ Fox Chase Cancer Center creator: Neelima Shah, Edna Cukierman*
 
