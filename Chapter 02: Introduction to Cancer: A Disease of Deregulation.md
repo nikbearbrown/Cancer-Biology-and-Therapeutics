@@ -42,7 +42,39 @@ The cancerous cell is particularly characterized by a poor use of oxygen and the
 
 ### 2.1.4 Cancer as a Systemic Disease
 
-Tumors threaten an individual's life when their growth disrupts the tissues and organs needed for survival.
+## 2.1.4 Cancer as a Systemic Disease
+
+Tumors threaten an individual's life when their growth disrupts the tissues and organs needed for survival. However, cancer's impact extends far beyond the primary tumor site, manifesting as a complex systemic disease that affects multiple organ systems throughout the body.
+
+### The Systemic Nature of Cancer
+
+Invasion and metastasis are the most insidious and life-threatening aspects of cancer. The capacity for invasion may not be expressed initially or in all tumors. Those tumors with minimal or no invasion may be extirpated successfully leading to cure in some patients. However, most cancers gradually unmask their invasive potential: progressing over time to frank malignancy from preexisting carcinoma in situ, adenomas, or disorders of epithelial proliferation.
+
+Fewer than one-third of newly diagnosed solid tumor patients can be cured by local therapeutic modalities alone. This sobering statistic underscores why cancer must be understood as a systemic disease rather than merely a localized growth disorder.
+
+### Mechanisms of Systemic Disease
+
+**Metastatic Spread**
+
+Once the neoplasm becomes invasive, it can disseminate via the lymphatics and/or vascular channels that it induces through tumor-stimulated lymphangiogenesis and angiogenesis and other perturbations of the local microenvironment. Invasion and metastases kill hosts through two processes: local invasion and distant organ colonization and injury.
+
+To reach the brain, a systemic cancer must develop its own blood supply, invade local tissues, and enter the circulation either by invading venules or lymph channels that eventually reach the venous circulation. Because systemic tumors enter the venous circulation and, ultimately, the right side of the heart, the first capillary bed they encounter is in the lung.
+
+The metastatic process is complex and systematic: The process of metastasis is complex and arduous, which incorporates multiple cells, factors and stages. During the development and progression of primary tumors, certain clones of tumor cells will have the required genotypic and phenotypic characteristics to enable themselves to interact with the local microenvironment.
+
+**Common Sites of Metastasis**
+
+Cancer exhibits predictable patterns of spread to specific organ systems:
+
+- Adrenal glands are the fourth most common site of metastases in malignant disease, which is significant considering the relatively small size of adrenals. Adrenal metastasis can occur from primaries in the lung (39%), breast (35%), melanoma, gastrointestinal tract, pancreas, and kidney, among other places.
+
+- Brain metastases are a common complication of cancer and the most common type of brain tumor. Anywhere from 10% to 26% of patients who die from their cancer will develop brain metastases.
+
+- Prostate cancer posed the highest risk for bone metastases (18% to 29%) followed by lung, renal, or breast cancer.
+
+**Timeline and Progression**
+
+The median time from cancer diagnosis to the identification of adrenal metastases is about 2.5 years, although adrenal metastases have been reported up to 22 years after initial treatment of primary tumors. This demonstrates that cancer's systemic effects can manifest years after initial diagnosis and treatment.
 
 ## 2.2 History of Cancer Research
 
