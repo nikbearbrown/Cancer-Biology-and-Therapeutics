@@ -42,17 +42,15 @@ The cancerous cell is particularly characterized by a poor use of oxygen and the
 
 ### 2.1.4 Cancer as a Systemic Disease
 
-## 2.1.4 Cancer as a Systemic Disease
-
 Tumors threaten an individual's life when their growth disrupts the tissues and organs needed for survival. However, cancer's impact extends far beyond the primary tumor site, manifesting as a complex systemic disease that affects multiple organ systems throughout the body.
 
-### The Systemic Nature of Cancer
+#### The Systemic Nature of Cancer
 
 Invasion and metastasis are the most insidious and life-threatening aspects of cancer. The capacity for invasion may not be expressed initially or in all tumors. Those tumors with minimal or no invasion may be extirpated successfully leading to cure in some patients. However, most cancers gradually unmask their invasive potential: progressing over time to frank malignancy from preexisting carcinoma in situ, adenomas, or disorders of epithelial proliferation.
 
 Fewer than one-third of newly diagnosed solid tumor patients can be cured by local therapeutic modalities alone. This sobering statistic underscores why cancer must be understood as a systemic disease rather than merely a localized growth disorder.
 
-### Mechanisms of Systemic Disease
+#### Mechanisms of Systemic Disease
 
 **Metastatic Spread**
 
