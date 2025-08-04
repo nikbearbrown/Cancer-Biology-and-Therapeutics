@@ -60,7 +60,7 @@ To reach the brain, a systemic cancer must develop its own blood supply, invade 
 
 The metastatic process is complex and systematic: The process of metastasis is complex and arduous, which incorporates multiple cells, factors and stages. During the development and progression of primary tumors, certain clones of tumor cells will have the required genotypic and phenotypic characteristics to enable themselves to interact with the local microenvironment.
 
-**Common Sites of Metastasis**
+##### Common Sites of Metastasis
 
 Cancer exhibits predictable patterns of spread to specific organ systems:
 
@@ -70,7 +70,7 @@ Cancer exhibits predictable patterns of spread to specific organ systems:
 
 - Prostate cancer posed the highest risk for bone metastases (18% to 29%) followed by lung, renal, or breast cancer.
 
-**Timeline and Progression**
+ ##### Timeline and Progression
 
 The median time from cancer diagnosis to the identification of adrenal metastases is about 2.5 years, although adrenal metastases have been reported up to 22 years after initial treatment of primary tumors. This demonstrates that cancer's systemic effects can manifest years after initial diagnosis and treatment.
 
