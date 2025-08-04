@@ -4,7 +4,7 @@
 
 The tumor microenvironment (TME) is a complex, dynamic ecosystem surrounding malignant cells that plays a crucial role in cancer initiation, progression, and metastasis. The TME, the environment surrounding the cancer cells, is a heterogeneous mixture of immune cells, endothelial cells, materials secreted from cells and their organelles, and fibroblasts. The tumor microenvironment (TME) is a complex biological structure surrounding tumor cells and includes blood vessels, immune cells, fibroblasts, adipocytes, and extracellular matrix (ECM).
 ![Tumor microenvironment](images/chapter14/14-1.jpg)
-*Within a tumor, cancer cells are surrounded by a variety of immune cells, fibroblasts, molecules, and blood vessels -- what's known as the tumor microenvironment. Cancer cells can change the microenvironment, which in turn can affect how cancer grows and spreads.
+*Figure 14.1 Within a tumor, cancer cells are surrounded by a variety of immune cells, fibroblasts, molecules, and blood vessels -- what's known as the tumor microenvironment. Cancer cells can change the microenvironment, which in turn can affect how cancer grows and spreads.
 Source:	National Cancer Institute (NCI)*
 
 ### 14.1.1 Cancer-Associated Fibroblasts
@@ -12,8 +12,8 @@ Source:	National Cancer Institute (NCI)*
 Cancer-associated fibroblasts (CAFs) represent one of the most abundant and functionally important components of the tumor stroma. Cancer-associated fibroblasts (CAFs), a major component of the tumor microenvironment (TME), play an important role in cancer initiation, progression, and metastasis. Unlike normal fibroblasts, CAFs exhibit markedly different characteristics that promote tumorigenesis.
 
 ![Fibroblast](images/chapter14/14-2.jpg)
-*A confocal microscopy image of a fibroblast showing the nucleus (blue), mitochondria (red), and actin cytoskeleton (green). As is evident from their large number of mitochondria, fibroblasts are very metabolically active, continuously synthesizing elements of the extracellular matrix and collagen. Tissue damage is a major trigger for the activation of fibroblasts from fibrocytes, and so fibroblasts play an important role in wound healing. Fibroblast assays are currently being studied as a means of predicting how normal tissue may respond to radiation therapy in cancer patients and others.
-Source: NCI Center for Cancer Research. Creator: Guy Jones, Matthew Dreher, Brad Wood
+*Figure 14 2 A confocal microscopy image of a fibroblast showing the nucleus (blue), mitochondria (red), and actin cytoskeleton (green). As is evident from their large number of mitochondria, fibroblasts are very metabolically active, continuously synthesizing elements of the extracellular matrix and collagen. Tissue damage is a major trigger for the activation of fibroblasts from fibrocytes, and so fibroblasts play an important role in wound healing. Fibroblast assays are currently being studied as a means of predicting how normal tissue may respond to radiation therapy in cancer patients and others.
+Source: NCI Center for Cancer Research. Creator: Guy Jones, Matthew Dreher, Brad Wood*
 
 **Morphological and Functional Characteristics of CAFs**
 
