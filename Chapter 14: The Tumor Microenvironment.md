@@ -104,7 +104,7 @@ source: National Cancer Institute \ Comprehensive Cancer Center of Wake Forest U
 The relationship between cancer cells and stromal components is bidirectional and dynamic, with both compartments influencing each other's behavior and function through complex molecular crosstalk.
 
 ![Cancer cells and the stroma](images/chapter14/14-2.jpg)
-*Figure 14.5 Cancer cells and the stroma: As shown here, lung cancer is associated with a vast stromal desmoplastic reaction (the "neighborhood") in which the connective tissue, associated with the tumor, thickens similarly to scars. Cancer is in red; cell nuclei in cyan; stroma/desmoplasia in green; and an active stroma-specific marker in purple.
+*Figure 14.6 Cancer cells and the stroma: As shown here, lung cancer is associated with a vast stromal desmoplastic reaction (the "neighborhood") in which the connective tissue, associated with the tumor, thickens similarly to scars. Cancer is in red; cell nuclei in cyan; stroma/desmoplasia in green; and an active stroma-specific marker in purple.
 source: National Cancer Institute \ Fox Chase Cancer Center creator: Neelima Shah, Edna Cukierman*
 
 ### 14.2.1 Bidirectional Signaling Mechanisms
@@ -130,6 +130,10 @@ The metabolic interaction between cancer cells and stromal components represents
 Cancer-associated fibroblasts undergo the reverse Warburg effect and provide cancer cells with glycolytic metabolites. This metabolic reprogramming allows for efficient energy utilization within the tumor microenvironment.
 
 CAF-derived lactate is crucial in prostate cancer metabolic transformation towards OXPHOS. CAFs can transfer functional mitochondria to prostate cancer cells.
+
+![The reverse Warburg Effect](images/chapter14/14-2-2.png)
+*Figure 14.7 The reverse warburg effect: Differences in glycolysis pathways between normal cells and cancer cells. (A) In the presence of oxygen, normal cells produce carbon dioxide up to 38 ATPs per glucose molecule through glycolysis, TCA cycle, and electron transport system. In a hypoxic environment, pyruvates are accumulated without going through the TCA cycle. These accumulated pyruvates in the muscle tissue are converted to lactic acid and only produce 2 ATPs. (B) Cancer cells only use the glycolysis process, regardless of the presence or absence of oxygen; 2 ATPs are produced per glucose molecule and, therefore, compared to normal cells, more glucose is required to obtain energy.
+source: Kim, S.-H.; Baek, K.-H. Regulation of Cancer Metabolism by Deubiquitinating Enzymes: The Warburg Effect. Int. J. Mol. Sci. 2021, 22, 6173. https://doi.org/10.3390/ijms22126173 via Wikimedia Commons.*
 
 **Amino Acid and Lipid Metabolism**
 
