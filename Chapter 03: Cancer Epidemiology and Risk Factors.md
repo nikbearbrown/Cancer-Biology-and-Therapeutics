@@ -2,21 +2,37 @@
 
 ## 3.1 Global Cancer Incidence and Mortality
 
-### 3.1.1 Current Global Cancer Burden
+### 3.1.1 Current Global Cancer Burden (Enhanced)
 
-Cancer has emerged as a leading cause of death worldwide, with NCDs accounting for 72% of all deaths globally in 2016. Of the 15.2 million premature deaths from NCDs, 4.5 million (29.8%) were due to cancer. Each year, 5 million people in low- and middle-income countries die from cancer, representing about 10 percent of the 50 million deaths in those countries.
+#### Contemporary Global Cancer Statistics
 
-The most common cancer worldwide is lung cancer with 2.1 million new cases in 2018, followed by 1.8 million deaths. The global cancer burden continues to demonstrate significant variation by development level and geographic region.
+According to the latest GLOBOCAN 2022 estimates from the International Agency for Research on Cancer (IARC), there were close to 20 million new cases of cancer in the year 2022 (including nonmelanoma skin cancers) alongside 9.7 million cancer deaths worldwide. For both sexes combined, there were an estimated 20.0 million new cases worldwide (19.96 million including NMSC and 18.73 million excluding NMSC) and 9.7 million cancer deaths (9.74 million including NMSC and 9.67 million excluding NMSC) in 2022.
 
-**Leading Cancer Types Globally**
+The disease causes three in 10 global premature deaths from NCDs (30.3% in those aged 30–69 years), and it is among the three leading causes of death in this age group in 177 of 183 countries. In addition to being an important barrier to increasing life expectancy, cancer is associated with substantial societal and macroeconomic costs that vary in degree across cancer types, geography, and gender.
 
-In 2018, 45% of the estimated new cancer cases occurred in countries with very high HDI, compared with 36%, 16%, and 4% in countries with high, medium, and low HDI, respectively. The distribution of cancer types varies significantly by development level:
+#### Leading Cancer Types Globally
 
-In countries with low HDI, there is a high residual burden of infection- and poverty-related cancers, where cancers of the cervix, liver, and oesophagus are leading cancers, compared with countries with high or very high HDI, where the most frequent cancers are those of the prostate, breast, colorectum, and lung.
+In males, lung cancer was the most commonly diagnosed cancer worldwide in 2022 (1.57 million new cases [95% UI: 1.56-1.58]), followed by prostate cancer (1.47 million [1.46-1.48]). With 2.30 million (2.28-2.30) new cases estimated in 2022, breast cancer was the most diagnosed cancer in females, followed by lung cancer (0.91 million [0.90-0.91 million]) and cervical cancer (0.66 million [0.66-0.67]).
 
-**Cancer Mortality Patterns**
+In both sexes combined, lung cancer is the most commonly diagnosed cancer (11.6% of the total cases) and the leading cause of cancer death (18.4% of the total cancer deaths), closely followed by female breast cancer (11.6%). Lung cancer remained the leading cause of cancer death, with an estimated 1.8 million deaths (18%), followed by colorectal (9.4%), liver (8.3%), stomach (7.7%), and female breast (6.9%) cancers.
 
-The greatest number of cancer deaths occurred in countries with high HDI, driven by the 2.9 million cancer deaths that occurred in China. However, mortality-to-incidence ratios vary substantially by development level, with lower-resource countries experiencing poorer outcomes despite lower incidence rates.
+#### Regional Distribution of Cancer Burden
+
+Almost one half of all cases (49.2%) and the majority (56.1%) of cancer deaths globally were estimated to occur in Asia in 2022, where 59.2% of the world's population resides. The cancer mortality burden in the African and Asian regions is disproportionately greater than the corresponding incidence burden. This reflects the respective distribution of cancer types alongside comparatively higher case fatality rates on these continents in part because of late-stage diagnoses.
+
+Europe has a disproportionately higher cancer incidence and mortality burden, given that the continent has one fifth of the global cancer cases (22.4%) and cancer deaths (20.4%) yet less than 10% of the global population (9.6%).
+
+#### Human Development Index and Cancer Patterns
+
+Overall incidence was from 2-fold to 3-fold higher in transitioned versus transitioning countries for both sexes, whereas mortality varied <2-fold for men and little for women. Death rates for female breast and cervical cancers, however, were considerably higher in transitioning versus transitioned countries (15.0 vs 12.8 per 100,000 and 12.4 vs 5.2 per 100,000, respectively).
+
+Although lung cancer is the most frequent cancer type worldwide and in China, female breast cancer is the most common form of incidence at each level of HDI and in India. Colorectal cancer is among the top five leading cancers for both incidence and mortality across HDI levels (also in China but not India), as is liver cancer (although only for mortality).
+
+#### Future Projections
+
+The global cancer burden is expected to be 28.4 million cases in 2040, a 47% rise from 2020, with a larger increase in transitioning (64% to 95%) versus transitioned (32% to 56%) countries due to demographic changes, although this may be further exacerbated by increasing risk factors associated with globalization and a growing economy.
+
+One recent study illustrated the profound impact of disproportional cancer mortality in women: an estimated one million children became maternal orphans in 2020 because their mother died from cancer in that year, with close to one half of these orphans the result of maternal deaths from either female breast or cervical cancer.
 
 ### 3.1.2 Regional Variations in Cancer Burden
 
