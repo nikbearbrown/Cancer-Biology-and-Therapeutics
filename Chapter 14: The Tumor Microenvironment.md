@@ -19,7 +19,7 @@ Cancer-associated fibroblasts (CAFs) represent one of the most abundant and func
 <div align="center">
 <img src="images/chapter14/14-1-1.jpg" alt="Fibroblast" width="60%">
 <p><em><strong> Figure 14.2 Fibroblasts:</strong> A confocal microscopy image of a fibroblast showing the nucleus (blue), mitochondria (red), and actin cytoskeleton (green). As is evident from their large number of mitochondria, fibroblasts are very metabolically active, continuously synthesizing elements of the extracellular matrix and collagen. Tissue damage is a major trigger for the activation of fibroblasts from fibrocytes, and so fibroblasts play an important role in wound healing. Fibroblast assays are currently being studied as a means of predicting how normal tissue may respond to radiation therapy in cancer patients and others.</em></p>
-<p><small>ource: NCI Center for Cancer Research. Creator: Guy Jones, Matthew Dreher, Brad Wood</small></p>
+<p><small> Source: NCI Center for Cancer Research. Creator: Guy Jones, Matthew Dreher, Brad Wood</small></p>
 </div>
 
 ![Fibroblast](images/chapter14/14-1-1.jpg)
