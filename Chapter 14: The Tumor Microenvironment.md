@@ -6,8 +6,8 @@ The tumor microenvironment (TME) is a complex, dynamic ecosystem surrounding mal
 
 <div align="center">
 <img src="images/chapter14/14-1.jpg" alt="Tumor microenvironment" width="80%">
-<p><em><strong> Figure 14.1: Tumor microenvironment:</strong> Within a tumor, cancer cells are surrounded by a variety of immune cells, fibroblasts, molecules, and blood vessels -- what's known as the tumor microenvironment. Cancer cells can change the microenvironment, which in turn can affect how cancer grows and spreads. <small>Source: National Cancer Institute (NCI)</small></em></p>
 </div>
+<p style="text-align: justify;"><strong> Figure 14.1: Tumor microenvironment:</strong> Within a tumor, cancer cells are surrounded by a variety of immune cells, fibroblasts, molecules, and blood vessels -- what's known as the tumor microenvironment. Cancer cells can change the microenvironment, which in turn can affect how cancer grows and spreads. </p> <p style="font-size: 0.8em; color: #666; text-align: justify;">Source: National Cancer Institute (NCI)</small></em></p>
 
 
 ### 14.1.1 Cancer-Associated Fibroblasts
