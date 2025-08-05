@@ -81,9 +81,10 @@ Angiogenesis, the growth of new capillary blood vessels, is central to the growt
 
 Vascular casts of metastases in the rabbit liver reveal that tumors of up to 1 mm in diameter are usually avascular, but beyond that size are vascularized. This size limitation necessitates the "angiogenic switch" for continued tumor growth.
 
-![Tumor angiogenesis](images/chapter14/14-1-3.jpg)
-*Figure 14.4 Tumor angiogenesis: In this image from a mouse model of ovarian cancer, optically cleared tumor excised from a murine SKOV tumor seeded with CD63+ cells reveals a high-resolution landscape of the three-dimensional tumor-stromal interfaces that comprise the tumor microenvironment (TME). Second harmonic signal (blue) and autofluorescent /GFP signals (green) demonstrates the interplay of collagen II fibrils and vessels generated from angiogenesis. The use of optical tissue clearing has the potential to greatly improve researchers' ability to assess the anatomic, structural, and cellular constituents that govern metastatic colonization in the TME at a single-cell resolution.
-source: National Cancer Institute \ Comprehensive Cancer Center of Wake Forest Univ.  creator: Chris Booth, Kyle Cowdrick, Frank C. Marini*
+![Tumor angiogenesis](images/chapter14/14-1-3-2.jpg)
+*Figure 14.4 Steps of tumor angiogenesis: Step 1 (hypoxia): the hypoxic or inflamed tumor microenvironment (TME) induces the production of vasculogenetic growth factors. Step 2 (proteolytic degradation): VEGF-A and -D binding to VEGFR-2 induce the production of matrix metalloproteinases (MMPs), degrading the extracellular matrix (ECM). Step 3 (tip cell migration): VEGFR-2 activation induces the transformation of ECs to tip cells (brown). Step 4 (tube formation): tip cells migrate into the TME with coordinated proliferation of stalk cells, forming a new tube. Step 5 (tumor vascularization): the new vessels mature by establishing tight junctions and by the coverage by pericytes (lila).
+source: Bokhari, S.M.Z.; Hamar, P. Vascular Endothelial Growth Factor-D (VEGF-D): An Angiogenesis Bypass in Malignant Tumors. Int. J. Mol. Sci. 2023, 24, 13317. via Wikimedia Commons*
+
 
 **Angiogenic Factors and Signaling**
 
@@ -94,6 +95,9 @@ VEGF-A action induces endothelial cells to express increased amounts of tissue f
 **Tumor Vasculature Characteristics**
 
 A microscopic population of angiogenic tumor cells will begin to modify microvessels in the neighborhood by inducing an increase in vascular permeability, dilation, and tortuosity even before the induction of new vascular sprouts.
+![Tumor angiogenesis in ovarian tumor microenvironment](images/chapter14/14-1-3.jpg)
+*Figure 14.5 Tumor angiogenesis in ovarian tumor microenvironment: In this image from a mouse model of ovarian cancer, optically cleared tumor excised from a murine SKOV tumor seeded with CD63+ cells reveals a high-resolution landscape of the three-dimensional tumor-stromal interfaces that comprise the tumor microenvironment (TME). Second harmonic signal (blue) and autofluorescent /GFP signals (green) demonstrates the interplay of collagen II fibrils and vessels generated from angiogenesis. The use of optical tissue clearing has the potential to greatly improve researchers' ability to assess the anatomic, structural, and cellular constituents that govern metastatic colonization in the TME at a single-cell resolution.
+source: National Cancer Institute \ Comprehensive Cancer Center of Wake Forest Univ.  creator: Chris Booth, Kyle Cowdrick, Frank C. Marini*
 
 ## 14.2 Interaction between Cancer Cells and the Stroma
 
