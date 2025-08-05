@@ -160,7 +160,7 @@ Mismatch repair is a type of correcting mechanism that fixes mistakes in DNA aft
 
 The importance of this system is indicated by the fact that individuals who inherit one defective copy of a mismatch repair gene have a marked predisposition for certain types of cancers.
 
-### 4.4.3 Double-Strand Break Repair
+**Double-Strand Break Repair**
 
 A chromosomal double-strand break (DSB) can arise from multiple sources including ionizing radiation and DNA replication itself. The ATM kinase plays an early, pivotal role in the signaling process by detecting DSBs and relaying this information to numerous downstream transducer and effector proteins.
 
