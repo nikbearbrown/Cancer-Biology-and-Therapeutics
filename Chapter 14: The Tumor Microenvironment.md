@@ -3,6 +3,13 @@
 ## 14.1 Components of the Tumor Microenvironment
 
 The tumor microenvironment (TME) is a complex, dynamic ecosystem surrounding malignant cells that plays a crucial role in cancer initiation, progression, and metastasis. The TME, the environment surrounding the cancer cells, is a heterogeneous mixture of immune cells, endothelial cells, materials secreted from cells and their organelles, and fibroblasts. The tumor microenvironment (TME) is a complex biological structure surrounding tumor cells and includes blood vessels, immune cells, fibroblasts, adipocytes, and extracellular matrix (ECM).
+
+<div align="center">
+<img src="images/chapter14/14-1.jpg" alt="Tumor microenvironment" width="80%">
+<p><em>Figure 14.1: Tumor microenvironment components showing cancer cells surrounded by immune cells, fibroblasts, and blood vessels.</em></p>
+<p><small>Source: National Cancer Institute (NCI)</small></p>
+</div>
+
 ![Tumor microenvironment](images/chapter14/14-1.jpg)
 *Figure 14.1 Tumor microenvironment: Within a tumor, cancer cells are surrounded by a variety of immune cells, fibroblasts, molecules, and blood vessels -- what's known as the tumor microenvironment. Cancer cells can change the microenvironment, which in turn can affect how cancer grows and spreads.
 Source:	National Cancer Institute (NCI)*
