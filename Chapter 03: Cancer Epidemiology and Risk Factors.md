@@ -2,7 +2,7 @@
 
 ## 3.1 Global Cancer Incidence and Mortality
 
-### 3.1.1 Current Global Cancer Burden (Enhanced)
+### 3.1.1 Current Global Cancer Burden 
 
 #### Contemporary Global Cancer Statistics
 
@@ -54,15 +54,41 @@ The incidence of colon and rectal cancers varies about 25-fold from the high-inc
 - **Breast cancer**: Breast cancer is increasing in incidence everywhere, but more so where rates historically have been low. In China, annual increases of 3 to 4 percent are reported
 - **Liver cancer**: Although it is sixth in incidence worldwide, it is third in mortality, after lung and stomach cancers. With 5-year survival at 5 percent or less even in developed countries
 
-### 3.1.3 Temporal Trends in Cancer Incidence and Mortality
+### 3.1.3 Temporal Trends in Cancer Incidence and Mortality (Enhanced)
 
-**Changing Cancer Patterns**
+#### Overall Trends in Cancer Incidence and Mortality
 
-The ongoing cancer transition includes a reduction in infection-related cancers (for example, stomach and cervical cancer) that is offset by increases in cancers linked to a Westernization of lifestyle (for example, breast, prostate, and colorectal cancer).
+The global landscape of cancer incidence and mortality in 2022 reflects ongoing trends observed in 2020. Cancer burdens vary notably across countries with differing socioeconomic statuses. Decreases in stomach, liver, and esophageal cancer cases and deaths signify progress in cancer control efforts. The decrease in the global MIRs highlights potential improvements in cancer management.
 
-**Stomach Cancer Trends**
+#### Site-Specific Temporal Patterns
 
-A key epidemiological finding is the steady decline in incidence and mortality rates of stomach cancer (predominantly the non-cardia type of stomach cancer) that has consistently been observed over more than five decades across all world regions. In contrast to the overall decline in rates of non-cardia stomach cancer, studies have indicated an increasing incidence of cardia stomach cancer in several populations.
+##### Colorectal Cancer Trends
+
+Patterns and trends in CRC incidence and mortality correlate with present human development levels and their incremental changes might reflect the adoption of more western lifestyles. Generally, CRC incidence and mortality rates are still rising rapidly in many low-income and middle-income countries; stabilising or decreasing trends tend to be seen in highly developed countries where rates remain among the highest in the world.
+
+##### Breast Cancer Trends
+
+The global BC mortality rate increased overall by 0.23% per year (95% CI=0.20, 0.25), with statistically significant increases in the under 50 and 70 and over age groups, and in 5 out of 7 regions. Annual rates increased by 1-5% in half of examined countries. Mortality rates decreased in 29 countries with very high Human Development Index (HDI), and seven countries (for example, Belgium and Denmark) are meeting the Global Breast Cancer Initiative goal of at least a 2.5% annual reduction.
+
+The global burden of breast cancer is rising fast and varies greatly among countries. The incidence and mortality rates of breast cancer increased rapidly in China and South Korea but decreased in the USA.
+
+##### Prostate Cancer Trends
+
+According to the most recent 10-yr temporal data available, most countries experienced increases in incidence, with sharp rises in incidence rates in Asia and Northern and Western Europe. A substantial reduction in mortality rates was reported in most countries, except in some Asian countries and Eastern Europe, where mortality increased.
+
+The magnitude of increasing incidence and decreasing mortality of prostate cancer is attenuated in the recent period.
+
+#### Socioeconomic Patterns in Temporal Trends
+
+Socioeconomic patterns in all-cancer, lung, and colorectal cancer mortality changed dramatically over time. Individuals in more deprived areas or lower education and income groups had higher mortality and incidence rates than their more affluent counterparts, with excess risk being particularly marked for lung, colorectal, cervical, stomach, and liver cancer.
+
+Area socioeconomic patterns in U.S. male cancer mortality changed dramatically between 1950 and 1998. Throughout the 1950s and 1960s, there was a positive socioeconomic gradient, with higher cancer mortality rates in high area socioeconomic groups than in low area socioeconomic groups. For example, in 1950-1952, cancer mortality was 49% (95% confidence interval [CI] = 41% to 59%) greater in the highest area socioeconomic group than in the lowest.
+
+#### Factors Driving Temporal Changes
+
+Conversely, the numbers of new cancer cases and deaths from stomach and esophageal cancer decreased significantly in 2022. Noteworthy reductions in both ASMR and absolute mortality numbers were observed in liver, stomach, and esophageal cancers.
+
+Its incidence and mortality varied among countries, with the age-standardized incidence ranging from the highest of 112.3 per 100,000 population in Belgium to the lowest of 35.8 per 100,000 population in Iran, and the age-standardized mortality from the highest of 41.0 per 100,000 population in Fiji to the lowest of 6.4 per 100,000 population in South Korea.
 
 ### 3.1.4 Cancer Surveillance and Monitoring Systems
 
