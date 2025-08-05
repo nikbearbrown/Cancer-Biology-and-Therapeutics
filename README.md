@@ -182,7 +182,7 @@
 - [Biological and Genetic Factors](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#biological-and-genetic-factors)
 - [Consequences of Disparities](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#consequences-of-disparities)
 
-### [Conclusion](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#conclusion)
+### [Summary](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#summary)
 
 
 
