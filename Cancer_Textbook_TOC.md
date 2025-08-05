@@ -623,249 +623,238 @@
   - 21.7.2 Novel Radiation Modalities
   - 21.7.3 Spatial Fractionation and FLASH Therapy
 
-# Chapter 22: Surgical Oncology
+**Chapter 22: Surgical Oncology**
+- 22.1 Principles of Cancer Surgery
+  - 22.1.1 Historical Development of Surgical Oncology
+  - 22.1.2 Surgical Goals: Curative vs. Palliative Intent
+  - 22.1.3 Preoperative Assessment and Risk Stratification
+  - 22.1.4 Surgical Margins and Extent of Resection
+    - 22.1.4.1 R0, R1, and R2 Resections
+    - 22.1.4.2 Anatomical Considerations for Margins
+  - 22.1.5 Intraoperative Staging and Decision-Making
+  - 22.1.6 Lymph Node Dissection Principles
+    - 22.1.6.1 Sentinel Lymph Node Biopsy
+    - 22.1.6.2 Regional Lymphadenectomy
+  - 22.1.7 Multidisciplinary Approach to Surgical Planning
+- 22.2 Types of Surgical Procedures
+  - 22.2.1 Diagnostic Procedures
+    - 22.2.1.1 Incisional and Excisional Biopsies
+    - 22.2.1.2 Image-Guided Core Needle Biopsies
+    - 22.2.1.3 Surgical Staging Procedures
+  - 22.2.2 Curative Surgical Approaches
+    - 22.2.2.1 Wide Local Excision
+    - 22.2.2.2 Anatomical Resections
+    - 22.2.2.3 En Bloc Resections for Locally Advanced Disease
+    - 22.2.2.4 Cytoreductive Surgery
+  - 22.2.3 Palliative Surgical Procedures
+    - 22.2.3.1 Relief of Obstruction
+    - 22.2.3.2 Control of Bleeding
+    - 22.2.3.3 Pain Management
+    - 22.2.3.4 Improvement of Quality of Life
+  - 22.2.4 Salvage Surgery
+    - 22.2.4.1 Indications and Patient Selection
+    - 22.2.4.2 Technical Considerations
+    - 22.2.4.3 Outcomes and Expectations
+- 22.3 Minimally Invasive Surgery
+  - 22.3.1 Laparoscopic Approaches
+    - 22.3.1.1 Technical Considerations
+    - 22.3.1.2 Cancer-Specific Applications
+    - 22.3.1.3 Advantages and Limitations
+    - 22.3.1.4 Oncologic Outcomes Compared to Open Surgery
+  - 22.3.2 Robotic-Assisted Surgery
+    - 22.3.2.1 Technological Platforms
+    - 22.3.2.2 Applications in Cancer Surgery
+    - 22.3.2.3 Learning Curve and Training
+    - 22.3.2.4 Cost-Effectiveness and Value
+  - 22.3.3 Endoscopic Resections
+    - 22.3.3.1 Endoscopic Mucosal Resection
+    - 22.3.3.2 Endoscopic Submucosal Dissection
+    - 22.3.3.3 Natural Orifice Transluminal Endoscopic Surgery
+  - 22.3.4 Image-Guided Ablative Techniques
+    - 22.3.4.1 Radiofrequency Ablation
+    - 22.3.4.2 Microwave Ablation
+    - 22.3.4.3 Cryoablation
+    - 22.3.4.4 Irreversible Electroporation
+    - 22.3.4.5 Patient Selection and Outcomes
+- 22.4 Reconstructive Surgery
+  - 22.4.1 Principles of Oncologic Reconstruction
+    - 22.4.1.1 Timing: Immediate vs. Delayed
+    - 22.4.1.2 Functional vs. Aesthetic Priorities
+    - 22.4.1.3 Impact on Quality of Life
+  - 22.4.2 Breast Reconstruction
+    - 22.4.2.1 Implant-Based Techniques
+    - 22.4.2.2 Autologous Tissue Options
+    - 22.4.2.3 Nipple-Areolar Reconstruction
+  - 22.4.3 Head and Neck Reconstruction
+    - 22.4.3.1 Local and Regional Flaps
+    - 22.4.3.2 Microvascular Free Tissue Transfer
+    - 22.4.3.3 Functional Considerations
+  - 22.4.4 Abdominal Wall Reconstruction
+    - 22.4.4.1 Component Separation Techniques
+    - 22.4.4.2 Mesh Materials and Selection
+    - 22.4.4.3 Management of Complex Defects
+  - 22.4.5 Pelvic Reconstruction
+    - 22.4.5.1 Vaginal Reconstruction
+    - 22.4.5.2 Perineal Reconstruction
+    - 22.4.5.3 Pelvic Floor Reconstruction
+  - 22.4.6 Limb Salvage and Reconstruction
+    - 22.4.6.1 Bone and Joint Reconstruction
+    - 22.4.6.2 Soft Tissue Coverage
+    - 22.4.6.3 Functional Outcomes and Rehabilitation
+- 22.5 Perioperative Considerations in Cancer Surgery
+  - 22.5.1 Enhanced Recovery After Surgery (ERAS) Protocols
+  - 22.5.2 Perioperative Nutrition
+  - 22.5.3 Venous Thromboembolism Prophylaxis
+  - 22.5.4 Surgical Site Infection Prevention
+  - 22.5.5 Management of Surgical Complications
+  - 22.5.6 Impact of Neoadjuvant Therapy on Surgical Planning
+- 22.6 Future Directions in Surgical Oncology
+  - 22.6.1 Intraoperative Molecular Imaging
+  - 22.6.2 Tumor-Specific Fluorescence Guidance
+  - 22.6.3 Artificial Intelligence Applications
+  - 22.6.4 Novel Energy Devices and Surgical Tools
+  - 22.6.5 Integration with Precision Medicine
 
-## 22.1 Principles of Cancer Surgery
-- 22.1.1 Historical Development of Surgical Oncology
-- 22.1.2 Surgical Goals: Curative vs. Palliative Intent
-- 22.1.3 Preoperative Assessment and Risk Stratification
-- 22.1.4 Surgical Margins and Extent of Resection
-  - 22.1.4.1 R0, R1, and R2 Resections
-  - 22.1.4.2 Anatomical Considerations for Margins
-- 22.1.5 Intraoperative Staging and Decision-Making
-- 22.1.6 Lymph Node Dissection Principles
-  - 22.1.6.1 Sentinel Lymph Node Biopsy
-  - 22.1.6.2 Regional Lymphadenectomy
-- 22.1.7 Multidisciplinary Approach to Surgical Planning
+**Chapter 23: Chemotherapy**
+- 23.1 Principles of Chemotherapy: Mechanism of Action
+  - 23.1.1 Historical Development of Chemotherapy
+  - 23.1.2 Cell Cycle-Specific and Non-Specific Agents
+  - 23.1.3 DNA Damage and Repair Mechanisms
+  - 23.1.4 Interference with Mitosis and Cell Division
+  - 23.1.5 Inhibition of Protein Synthesis and Function
+  - 23.1.6 Disruption of Cellular Metabolism
+  - 23.1.7 Principles of Dose-Response Relationships
+  - 23.1.8 Log-Kill Hypothesis and Tumor Growth Kinetics
+- 23.2 Classes of Chemotherapeutic Agents
+  - 23.2.1 Alkylating Agents
+    - 23.2.1.1 Nitrogen Mustards
+    - 23.2.1.2 Nitrosoureas
+    - 23.2.1.3 Platinum Compounds
+    - 23.2.1.4 Alkylsulfonates
+    - 23.2.1.5 Triazines and Hydrazines
+  - 23.2.2 Antimetabolites
+    - 23.2.2.1 Folate Antagonists
+    - 23.2.2.2 Purine Analogues
+    - 23.2.2.3 Pyrimidine Analogues
+    - 23.2.2.4 Ribonucleotide Reductase Inhibitors
+  - 23.2.3 Antitumor Antibiotics
+    - 23.2.3.1 Anthracyclines
+    - 23.2.3.2 Bleomycin
+    - 23.2.3.3 Mitomycin
+    - 23.2.3.4 Actinomycin
+  - 23.2.4 Topoisomerase Inhibitors
+    - 23.2.4.1 Topoisomerase I Inhibitors
+    - 23.2.4.2 Topoisomerase II Inhibitors
+  - 23.2.5 Antimicrotubule Agents
+    - 23.2.5.1 Vinca Alkaloids
+    - 23.2.5.2 Taxanes
+    - 23.2.5.3 Epothilones
+  - 23.2.6 Miscellaneous Agents
+    - 23.2.6.1 L-Asparaginase
+    - 23.2.6.2 Hydroxyurea
+    - 23.2.6.3 Procarbazine
+    - 23.2.6.4 Estramustine
+- 23.3 Pharmacology and Pharmacokinetics
+  - 23.3.1 Drug Absorption and Bioavailability
+    - 23.3.1.1 Oral Administration
+    - 23.3.1.2 Parenteral Administration
+    - 23.3.1.3 Novel Delivery Systems
+  - 23.3.2 Drug Distribution
+    - 23.3.2.1 Volume of Distribution
+    - 23.3.2.2 Protein Binding
+    - 23.3.2.3 Blood-Brain Barrier Penetration
+    - 23.3.2.4 Tumor Penetration and the Enhanced Permeability and Retention Effect
+  - 23.3.3 Drug Metabolism
+    - 23.3.3.1 Phase I and Phase II Metabolism
+    - 23.3.3.2 Cytochrome P450 System
+    - 23.3.3.3 Prodrug Activation
+    - 23.3.3.4 Pharmacogenomics and Metabolic Variability
+  - 23.3.4 Drug Elimination
+    - 23.3.4.1 Renal Clearance
+    - 23.3.4.2 Hepatobiliary Elimination
+    - 23.3.4.3 Drug Interactions Affecting Elimination
+    - 23.3.4.4 Clearance in Special Populations
+  - 23.3.5 Pharmacodynamics
+    - 23.3.5.1 Dose-Response Relationships
+    - 23.3.5.2 Area Under the Curve (AUC) Concepts
+    - 23.3.5.3 Maximum Tolerated Dose
+    - 23.3.5.4 Therapeutic Drug Monitoring
+- 23.4 Drug Resistance
+  - 23.4.1 Intrinsic vs. Acquired Resistance
+  - 23.4.2 Cellular Mechanisms of Resistance
+    - 23.4.2.1 Decreased Drug Uptake
+    - 23.4.2.2 Increased Drug Efflux
+    - 23.4.2.3 Drug Inactivation
+    - 23.4.2.4 Altered Drug Targets
+    - 23.4.2.5 Enhanced DNA Repair
+    - 23.4.2.6 Apoptosis Evasion
+  - 23.4.3 Molecular Basis of Resistance
+    - 23.4.3.1 P-glycoprotein and Multidrug Resistance
+    - 23.4.3.2 Multidrug Resistance-Associated Protein (MRP)
+    - 23.4.3.3 Breast Cancer Resistance Protein (BCRP)
+    - 23.4.3.4 Dihydrofolate Reductase Amplification
+    - 23.4.3.5 Glutathione S-Transferase Overexpression
+    - 23.4.3.6 Metallothionein Overexpression
+  - 23.4.4 Tumor Microenvironment and Resistance
+    - 23.4.4.1 Hypoxia-Mediated Resistance
+    - 23.4.4.2 Acidic Microenvironment
+    - 23.4.4.3 Cell Adhesion-Mediated Resistance
+    - 23.4.4.4 Stromal Cell Interactions
+  - 23.4.5 Cancer Stem Cells and Resistance
+  - 23.4.6 Strategies to Overcome Resistance
+    - 23.4.6.1 Combination Therapy
+    - 23.4.6.2 Drug Efflux Inhibitors
+    - 23.4.6.3 Dose-Dense Scheduling
+    - 23.4.6.4 Nanoparticle Delivery Systems
+    - 23.4.6.5 Epigenetic Modifiers
+- 23.5 Side Effects and Supportive Care
+  - 23.5.1 Hematologic Toxicities
+    - 23.5.1.1 Neutropenia and Infection Risk
+    - 23.5.1.2 Anemia Management
+    - 23.5.1.3 Thrombocytopenia and Bleeding
+    - 23.5.1.4 Use of Growth Factors
+  - 23.5.2 Gastrointestinal Toxicities
+    - 23.5.2.1 Nausea and Vomiting
+    - 23.5.2.2 Mucositis
+    - 23.5.2.3 Diarrhea
+    - 23.5.2.4 Constipation
+    - 23.5.2.5 Nutrition Support
+  - 23.5.3 Organ-Specific Toxicities
+    - 23.5.3.1 Cardiotoxicity
+    - 23.5.3.2 Nephrotoxicity
+    - 23.5.3.3 Hepatotoxicity
+    - 23.5.3.4 Pulmonary Toxicity
+    - 23.5.3.5 Neurotoxicity
+  - 23.5.4 Cutaneous and Mucosal Toxicities
+    - 23.5.4.1 Alopecia
+    - 23.5.4.2 Skin Rash and Hyperpigmentation
+    - 23.5.4.3 Nail Changes
+    - 23.5.4.4 Hand-Foot Syndrome
+  - 23.5.5 Reproductive and Endocrine Toxicities
+    - 23.5.5.1 Gonadal Dysfunction
+    - 23.5.5.2 Fertility Preservation
+    - 23.5.5.3 Endocrine Disruption
+  - 23.5.6 Secondary Malignancies
+    - 23.5.6.1 Therapy-Related Myeloid Neoplasms
+    - 23.5.6.2 Solid Tumor Induction
+    - 23.5.6.3 Risk Assessment and Surveillance
+  - 23.5.7 Supportive Care Strategies
+    - 23.5.7.1 Antiemetic Protocols
+    - 23.5.7.2 Pain Management
+    - 23.5.7.3 Infection Prophylaxis
+    - 23.5.7.4 Psychosocial Support
+    - 23.5.7.5 Patient Education and Self-Management
+- 23.6 Conclusion and Clinical Significance
+  - 23.6.1 Evolution of Chemotherapy in Cancer Care
+  - 23.6.2 Integration with Other Treatment Modalities
+  - 23.6.3 Therapeutic Index and Treatment Decision-Making
+  - 23.6.4 Future Directions in Conventional Chemotherapy
+    - 23.6.4.1 Novel Formulations and Delivery Systems
+    - 23.6.4.2 Pharmacogenomic-Guided Therapy
+    - 23.6.4.3 Drug Repurposing
+  - 23.6.5 Transition to Targeted and Precision Approaches
+  - 23.6.6 Ongoing Role in the Era of Immunotherapy
 
-## 22.2 Types of Surgical Procedures
-- 22.2.1 Diagnostic Procedures
-  - 22.2.1.1 Incisional and Excisional Biopsies
-  - 22.2.1.2 Image-Guided Core Needle Biopsies
-  - 22.2.1.3 Surgical Staging Procedures
-- 22.2.2 Curative Surgical Approaches
-  - 22.2.2.1 Wide Local Excision
-  - 22.2.2.2 Anatomical Resections
-  - 22.2.2.3 En Bloc Resections for Locally Advanced Disease
-  - 22.2.2.4 Cytoreductive Surgery
-- 22.2.3 Palliative Surgical Procedures
-  - 22.2.3.1 Relief of Obstruction
-  - 22.2.3.2 Control of Bleeding
-  - 22.2.3.3 Pain Management
-  - 22.2.3.4 Improvement of Quality of Life
-- 22.2.4 Salvage Surgery
-  - 22.2.4.1 Indications and Patient Selection
-  - 22.2.4.2 Technical Considerations
-  - 22.2.4.3 Outcomes and Expectations
-
-## 22.3 Minimally Invasive Surgery
-- 22.3.1 Laparoscopic Approaches
-  - 22.3.1.1 Technical Considerations
-  - 22.3.1.2 Cancer-Specific Applications
-  - 22.3.1.3 Advantages and Limitations
-  - 22.3.1.4 Oncologic Outcomes Compared to Open Surgery
-- 22.3.2 Robotic-Assisted Surgery
-  - 22.3.2.1 Technological Platforms
-  - 22.3.2.2 Applications in Cancer Surgery
-  - 22.3.2.3 Learning Curve and Training
-  - 22.3.2.4 Cost-Effectiveness and Value
-- 22.3.3 Endoscopic Resections
-  - 22.3.3.1 Endoscopic Mucosal Resection
-  - 22.3.3.2 Endoscopic Submucosal Dissection
-  - 22.3.3.3 Natural Orifice Transluminal Endoscopic Surgery
-- 22.3.4 Image-Guided Ablative Techniques
-  - 22.3.4.1 Radiofrequency Ablation
-  - 22.3.4.2 Microwave Ablation
-  - 22.3.4.3 Cryoablation
-  - 22.3.4.4 Irreversible Electroporation
-  - 22.3.4.5 Patient Selection and Outcomes
-
-## 22.4 Reconstructive Surgery
-- 22.4.1 Principles of Oncologic Reconstruction
-  - 22.4.1.1 Timing: Immediate vs. Delayed
-  - 22.4.1.2 Functional vs. Aesthetic Priorities
-  - 22.4.1.3 Impact on Quality of Life
-- 22.4.2 Breast Reconstruction
-  - 22.4.2.1 Implant-Based Techniques
-  - 22.4.2.2 Autologous Tissue Options
-  - 22.4.2.3 Nipple-Areolar Reconstruction
-- 22.4.3 Head and Neck Reconstruction
-  - 22.4.3.1 Local and Regional Flaps
-  - 22.4.3.2 Microvascular Free Tissue Transfer
-  - 22.4.3.3 Functional Considerations
-- 22.4.4 Abdominal Wall Reconstruction
-  - 22.4.4.1 Component Separation Techniques
-  - 22.4.4.2 Mesh Materials and Selection
-  - 22.4.4.3 Management of Complex Defects
-- 22.4.5 Pelvic Reconstruction
-  - 22.4.5.1 Vaginal Reconstruction
-  - 22.4.5.2 Perineal Reconstruction
-  - 22.4.5.3 Pelvic Floor Reconstruction
-- 22.4.6 Limb Salvage and Reconstruction
-  - 22.4.6.1 Bone and Joint Reconstruction
-  - 22.4.6.2 Soft Tissue Coverage
-  - 22.4.6.3 Functional Outcomes and Rehabilitation
-
-## 22.5 Perioperative Considerations in Cancer Surgery
-- 22.5.1 Enhanced Recovery After Surgery (ERAS) Protocols
-- 22.5.2 Perioperative Nutrition
-- 22.5.3 Venous Thromboembolism Prophylaxis
-- 22.5.4 Surgical Site Infection Prevention
-- 22.5.5 Management of Surgical Complications
-- 22.5.6 Impact of Neoadjuvant Therapy on Surgical Planning
-
-## 22.6 Future Directions in Surgical Oncology
-- 22.6.1 Intraoperative Molecular Imaging
-- 22.6.2 Tumor-Specific Fluorescence Guidance
-- 22.6.3 Artificial Intelligence Applications
-- 22.6.4 Novel Energy Devices and Surgical Tools
-- 22.6.5 Integration with Precision Medicine
-
-# Chapter 23: Chemotherapy
-
-## 23.1 Principles of Chemotherapy: Mechanism of Action
-- 23.1.1 Historical Development of Chemotherapy
-- 23.1.2 Cell Cycle-Specific and Non-Specific Agents
-- 23.1.3 DNA Damage and Repair Mechanisms
-- 23.1.4 Interference with Mitosis and Cell Division
-- 23.1.5 Inhibition of Protein Synthesis and Function
-- 23.1.6 Disruption of Cellular Metabolism
-- 23.1.7 Principles of Dose-Response Relationships
-- 23.1.8 Log-Kill Hypothesis and Tumor Growth Kinetics
-
-## 23.2 Classes of Chemotherapeutic Agents
-- 23.2.1 Alkylating Agents
-  - 23.2.1.1 Nitrogen Mustards
-  - 23.2.1.2 Nitrosoureas
-  - 23.2.1.3 Platinum Compounds
-  - 23.2.1.4 Alkylsulfonates
-  - 23.2.1.5 Triazines and Hydrazines
-- 23.2.2 Antimetabolites
-  - 23.2.2.1 Folate Antagonists
-  - 23.2.2.2 Purine Analogues
-  - 23.2.2.3 Pyrimidine Analogues
-  - 23.2.2.4 Ribonucleotide Reductase Inhibitors
-- 23.2.3 Antitumor Antibiotics
-  - 23.2.3.1 Anthracyclines
-  - 23.2.3.2 Bleomycin
-  - 23.2.3.3 Mitomycin
-  - 23.2.3.4 Actinomycin
-- 23.2.4 Topoisomerase Inhibitors
-  - 23.2.4.1 Topoisomerase I Inhibitors
-  - 23.2.4.2 Topoisomerase II Inhibitors
-- 23.2.5 Antimicrotubule Agents
-  - 23.2.5.1 Vinca Alkaloids
-  - 23.2.5.2 Taxanes
-  - 23.2.5.3 Epothilones
-- 23.2.6 Miscellaneous Agents
-  - 23.2.6.1 L-Asparaginase
-  - 23.2.6.2 Hydroxyurea
-  - 23.2.6.3 Procarbazine
-  - 23.2.6.4 Estramustine
-
-## 23.3 Pharmacology and Pharmacokinetics
-- 23.3.1 Drug Absorption and Bioavailability
-  - 23.3.1.1 Oral Administration
-  - 23.3.1.2 Parenteral Administration
-  - 23.3.1.3 Novel Delivery Systems
-- 23.3.2 Drug Distribution
-  - 23.3.2.1 Volume of Distribution
-  - 23.3.2.2 Protein Binding
-  - 23.3.2.3 Blood-Brain Barrier Penetration
-  - 23.3.2.4 Tumor Penetration and the Enhanced Permeability and Retention Effect
-- 23.3.3 Drug Metabolism
-  - 23.3.3.1 Phase I and Phase II Metabolism
-  - 23.3.3.2 Cytochrome P450 System
-  - 23.3.3.3 Prodrug Activation
-  - 23.3.3.4 Pharmacogenomics and Metabolic Variability
-- 23.3.4 Drug Elimination
-  - 23.3.4.1 Renal Clearance
-  - 23.3.4.2 Hepatobiliary Elimination
-  - 23.3.4.3 Drug Interactions Affecting Elimination
-  - 23.3.4.4 Clearance in Special Populations
-- 23.3.5 Pharmacodynamics
-  - 23.3.5.1 Dose-Response Relationships
-  - 23.3.5.2 Area Under the Curve (AUC) Concepts
-  - 23.3.5.3 Maximum Tolerated Dose
-  - 23.3.5.4 Therapeutic Drug Monitoring
-
-## 23.4 Drug Resistance
-- 23.4.1 Intrinsic vs. Acquired Resistance
-- 23.4.2 Cellular Mechanisms of Resistance
-  - 23.4.2.1 Decreased Drug Uptake
-  - 23.4.2.2 Increased Drug Efflux
-  - 23.4.2.3 Drug Inactivation
-  - 23.4.2.4 Altered Drug Targets
-  - 23.4.2.5 Enhanced DNA Repair
-  - 23.4.2.6 Apoptosis Evasion
-- 23.4.3 Molecular Basis of Resistance
-  - 23.4.3.1 P-glycoprotein and Multidrug Resistance
-  - 23.4.3.2 Multidrug Resistance-Associated Protein (MRP)
-  - 23.4.3.3 Breast Cancer Resistance Protein (BCRP)
-  - 23.4.3.4 Dihydrofolate Reductase Amplification
-  - 23.4.3.5 Glutathione S-Transferase Overexpression
-  - 23.4.3.6 Metallothionein Overexpression
-- 23.4.4 Tumor Microenvironment and Resistance
-  - 23.4.4.1 Hypoxia-Mediated Resistance
-  - 23.4.4.2 Acidic Microenvironment
-  - 23.4.4.3 Cell Adhesion-Mediated Resistance
-  - 23.4.4.4 Stromal Cell Interactions
-- 23.4.5 Cancer Stem Cells and Resistance
-- 23.4.6 Strategies to Overcome Resistance
-  - 23.4.6.1 Combination Therapy
-  - 23.4.6.2 Drug Efflux Inhibitors
-  - 23.4.6.3 Dose-Dense Scheduling
-  - 23.4.6.4 Nanoparticle Delivery Systems
-  - 23.4.6.5 Epigenetic Modifiers
-
-## 23.5 Side Effects and Supportive Care
-- 23.5.1 Hematologic Toxicities
-  - 23.5.1.1 Neutropenia and Infection Risk
-  - 23.5.1.2 Anemia Management
-  - 23.5.1.3 Thrombocytopenia and Bleeding
-  - 23.5.1.4 Use of Growth Factors
-- 23.5.2 Gastrointestinal Toxicities
-  - 23.5.2.1 Nausea and Vomiting
-  - 23.5.2.2 Mucositis
-  - 23.5.2.3 Diarrhea
-  - 23.5.2.4 Constipation
-  - 23.5.2.5 Nutrition Support
-- 23.5.3 Organ-Specific Toxicities
-  - 23.5.3.1 Cardiotoxicity
-  - 23.5.3.2 Nephrotoxicity
-  - 23.5.3.3 Hepatotoxicity
-  - 23.5.3.4 Pulmonary Toxicity
-  - 23.5.3.5 Neurotoxicity
-- 23.5.4 Cutaneous and Mucosal Toxicities
-  - 23.5.4.1 Alopecia
-  - 23.5.4.2 Skin Rash and Hyperpigmentation
-  - 23.5.4.3 Nail Changes
-  - 23.5.4.4 Hand-Foot Syndrome
-- 23.5.5 Reproductive and Endocrine Toxicities
-  - 23.5.5.1 Gonadal Dysfunction
-  - 23.5.5.2 Fertility Preservation
-  - 23.5.5.3 Endocrine Disruption
-- 23.5.6 Secondary Malignancies
-  - 23.5.6.1 Therapy-Related Myeloid Neoplasms
-  - 23.5.6.2 Solid Tumor Induction
-  - 23.5.6.3 Risk Assessment and Surveillance
-- 23.5.7 Supportive Care Strategies
-  - 23.5.7.1 Antiemetic Protocols
-  - 23.5.7.2 Pain Management
-  - 23.5.7.3 Infection Prophylaxis
-  - 23.5.7.4 Psychosocial Support
-  - 23.5.7.5 Patient Education and Self-Management
-
-## 23.6 Conclusion and Clinical Significance
-- 23.6.1 Evolution of Chemotherapy in Cancer Care
-- 23.6.2 Integration with Other Treatment Modalities
-- 23.6.3 Therapeutic Index and Treatment Decision-Making
-- 23.6.4 Future Directions in Conventional Chemotherapy
-  - 23.6.4.1 Novel Formulations and Delivery Systems
-  - 23.6.4.2 Pharmacogenomic-Guided Therapy
-  - 23.6.4.3 Drug Repurposing
-- 23.6.5 Transition to Targeted and Precision Approaches
-- 23.6.6 Ongoing Role in the Era of Immunotherapy
 **Chapter 24: Targeted Therapy**
 - 24.1 Principles of Molecular Targeting
   - 24.1.1 Target Selection and Validation
