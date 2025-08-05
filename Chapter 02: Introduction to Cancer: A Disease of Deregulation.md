@@ -521,19 +521,6 @@ Though cancer was once considered to be a problem primarily in wealthy nations, 
 
 ## Summary
 
-This enhanced chapter has provided a comprehensive overview of cancer as a disease of deregulation based exclusively on verified sources from NCBI Bookshelf. The key takeaways include:
-
-**Hallmarks of Cancer**: The framework established by Hanahan and Weinberg provides an organizing principle for understanding cancer as a process involving the acquisition of specific biological capabilities, including sustaining proliferative signaling, evading growth suppressors, resisting cell death, enabling replicative immortality, inducing angiogenesis, and activating invasion and metastasis.
-
-**Cancer Classification**: Proper terminology and classification systems, including the TNM staging system, are essential for communication among healthcare providers, treatment planning, and prognosis. The distinction between benign and malignant tumors, tissue of origin classification, and grading systems all contribute to our understanding of cancer behavior.
-
-**Risk Factors**: Nearly half of cancers are attributed to modifiable risk factors, with tobacco use being the leading cause, followed by obesity, alcohol consumption, and other lifestyle factors. Understanding these risk factors provides opportunities for primary prevention.
-
-**Prevention and Screening**: Both primary prevention through risk factor modification and secondary prevention through screening programs have demonstrated significant impacts on cancer incidence and mortality. Established screening programs for breast, cervical, and colorectal cancers have shown substantial reductions in cancer deaths when properly implemented.
-
-The evidence clearly demonstrates that cancer prevention and early detection represent our most powerful tools in reducing the global burden of cancer, with the potential to prevent approximately one-third of cancer deaths worldwide through currently available interventions.
-## Summary
-
 This chapter has provided a comprehensive overview of cancer as a disease of deregulation based exclusively on verified sources from NCBI Bookshelf. Cancer cells break the most basic rules of behavior by which multicellular organisms are built and maintained, and they exploit every kind of opportunity to do so.
 
 Key principles that emerge from this exploration include:
