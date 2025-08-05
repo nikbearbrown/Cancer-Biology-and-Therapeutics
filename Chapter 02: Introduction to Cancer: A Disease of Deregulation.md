@@ -76,23 +76,149 @@ The median time from cancer diagnosis to the identification of adrenal metastase
 
 ## 2.2 History of Cancer Research
 
+### 2.2.1 Ancient Origins and Early Documentation
+
+Cancer is often wrongly considered to be a modern disease in many popular medical venues. Cancers have been known to humanity since ancient times. Recent findings support the ancient origins of cancer, with the discovery of osteosarcoma in a hominin foot bone over one million years old in South Africa—suggesting that cancer has been present as long as humanity itself.
+
 References to cancer can be found in historical records as far back as 1700 BC, including the Babylonian Code of Hammurabi, the ancient Egyptian Ebers and Smith Papyrus, and the Chinese Rites of the Zhou Dynasty. Early mentions of cancer are also documented in medieval Islamic texts and the ancient Indian Ramayana.
 
-### 2.2.1 Early Observations and Theories
+#### Ancient Egyptian Medicine
 
-Humankind has studied benign and malignant tumors since ancient times, speculating on their causes. Recent findings by Randolph-Quinney et al support the ancient origins of cancer, with the discovery of osteosarcoma in a hominin foot bone over one million years old in South Africa—suggesting that cancer has been present as long as humanity itself.
+Our oldest description of cancer (although the word cancer was not used) was discovered in Egypt and dates back to about 3000 BC. It's called the Edwin Smith Papyrus and is a copy of part of an ancient Egyptian textbook on trauma surgery. It describes 8 cases of tumors or ulcers of the breast that were removed by cauterization with a tool called the fire drill. The writing says about the disease, "There is no treatment."
 
-### 2.2.2 The Emergence of Scientific Oncology
+The first description of human cancer can be found in the Edwin Smith Papyrus dated 3000 BC that illustrated a case of breast cancer. Other documented proof includes the Ebers Papyrus dating from 1500 BC that describes several types of tumors concerning skin, uterus, stomach, and rectum. These old Egyptian documents recorded cancer as a grave incurable disease and associated it to 'the curse of the gods'.
 
-At the beginning of the 20th century, cancer was eighth among the leading causes of death. Infectious diseases were prominent, with pneumonia, influenza, tuberculosis, and gastrointestinal diseases being responsible for one-third of all deaths.
+#### Paleropathological Evidence
 
-At the beginning of the century, cases of lung cancer was so rare that it was shown to medical students as a condition that the students were unlikely to see again during their medical practices. By the 1940s, however, lung cancer was becoming quite common.
+The discipline that allows scientists to investigate the antiquity of diseases is called palaeopathology (from Greek: παλαιός = ancient, πάθος = suffering, disease, λόγος = study, research). Palaeopathology utilises both invasive and non-invasive methodologies and techniques also adopted by contemporary medicine (such as histology, radiology, genetics) that offer a complete picture of the clinical presentation of diseases in ancient populations, which are still present in the modern world.
 
-### 2.2.3 The National Cancer Institute Era
+Among the types of cancer found in Ancient Egypt are numerous malignant conditions that are well known by contemporary medical research: osteosarcoma, multiple myeloma, osteolytic metastatic carcinoma, mixed metastatic carcinoma, multiple myeloma, nasopharyngeal carcinoma, primary osteolytic tumor.
 
-In the United States, a definitive effort to combat cancer and advance scientific research began with the establishment of the National Cancer Institute in 1937. This initiative gained further momentum with the passage of the National Cancer Act in 1971.
+### 2.2.2 Greek and Roman Contributions
 
-In 1937 the National Cancer Institute Act established the National Cancer Institute (NCI) within the U.S. Public Health Service. The Act directed the Surgeon General to promote the coordination of research conducted by the Institute and similar research conducted by other agencies, organizations, and individuals.
+#### Hippocrates: The Father of Medicine
+
+Hippocrates (460 – 377 BC), considered the "father of medicine," was a Greek physician and teacher of medicine whose name today is associated with the high ethical standard of Western medicine. The origin of the word cancer is credited to the Greek physician Hippocrates (460-370 BC), who is considered the "Father of Medicine." Hippocrates used the terms carcinos and carcinoma to describe non-ulcer forming and ulcer-forming tumors. In Greek, these words refer to a crab, most likely applied to the disease because the finger-like spreading projections from a cancer called to mind the shape of a crab.
+
+The Hippocratic physicians initiated the discussion on the treatment of cancer and suggested that the most difficult cancers to treat were those of the axillae, the flank of the body, and the thigh. Nevertheless, they advised not to treat surgically cancers that had not ulcerated, because they were thought to be incurable and any interference would lead to the death of the patient, while otherwise the patient might live for a long time.
+
+Hippocrates hypothesized that this disease was correlated to an excess of black bile. He believed that cancers, and more broadly any disease, developed whenever the balance in the four body humours (blood, phlegm, yellow bile, and black bile) were lost. Whenever black bile became the dominant humours in some part of the body, this developed cancer.
+
+#### Roman Medicine and Celsus
+
+The Roman physician, Celsus (25 BC - 50 AD), later translated the Greek term into cancer, the Latin word for crab. De Medicina included writings on nutrition, pharmacology, surgery, and mental diseases. It drew largely from earlier Greek medical writers and is the source for what we know today about the medical and surgical practices of the Hellenistic period.
+
+#### Galen's Influence
+
+Galen (130-200 AD), another Greek physician, used the word oncos (Greek for swelling) to describe tumors. Although the crab analogy of Hippocrates and Celsus is still used to describe malignant tumors, Galen's term is now used as a part of the name for cancer specialists – oncologists.
+
+Claudius Galen (130-200), a Greek physician who practiced medicine in Rome, implemented the Hippocrates theory. He proposed that black bile caused incurable cancer, whereas yellow bile caused curable cancer. Galen, who made a detailed categorization of abnormal growths (he even wrote a treatise named On tumors against nature), believed that cancer may appear in any part of the body, but he had seen it more often occurring in the breasts of women whose menstruation was either abnormal or inexistent.
+
+### 2.2.3 Medieval Medicine and Islamic Contributions
+
+#### The Golden Age of Islamic Medicine
+
+From the 8th to 16th centuries A.D., Islamic physician-philosophers revived the Hippocratic philosophy that based disease causation on bodily 'humors'. Political patronage promoted these efforts: one excellent example is that of Chosroes I (also known as Khusraw) in the 6th century, who sent the Persian Zoroastrian doctor, Perzhoe, to distant lands like India to learn both philosophy and medicine so as to enrich the lives of the people in his empire.
+
+Islamic medicine is regarded as a comprehensive medical school with a long, glorious and worldwide reputation. Some of the physicians of this school are famous worldwide and have contributed valuable services to the scientific world. Islamic scholars translated their voluminous writings from Greek into Arabic and then produced new medical knowledge based on those texts. In order to make the Greek tradition more accessible, understandable, and teachable, Islamic scholars ordered and made more systematic the vast and sometimes inconsistent Greco-Roman medical knowledge by writing encyclopedias and summaries.
+
+#### Key Islamic Physicians and Cancer Understanding
+
+In this writing, we will discuss cancer and the ways to its diagnose and treatments from the viewpoint of a few of the most famous physicians before the Mongolian attack who practiced Islamic medicine. The ideas discussed here dates back to the era between the eighth and fourteenth centuries.
+
+**Rhazes (Al-Razi):** Rhazes was the most important specialist in clinical and practical medicine in the Islamic world. In his famous book, Alhawi, he has described the views of the scientists who lived before him and in between, together with his own opinions: Galen has quoted from Dioscorides that applying a poultice prepared from hedge mustard (Erysimum officinale L.) is useful for the treatment of non-ulcerative cancer.
+
+**Avicenna (Ibn Sina):** The Canon was translated into Latin by Gerardo de Cremona in the 13th century and dominated medical curriculum in European universities until the 17th century, earning the accolade of 'the most famous medical textbook ever written' by Sir William Osler.
+
+**Jorjani:** Jorjani has assigned parts of Zakhireh to cancer. In his point of view, cancer is a kind of black bile swelling which is, unlike scirrhus, accompanied by pain, pulsation, inflammation and angiogenesis. These characteristics could be applied for the differential diagnosis of cancer from scirrhus.
+
+#### Medieval Disease Concepts
+
+Cancer, the Latin word for crab, was applied to the disease by the Roman physician Celsus as a translation from the Hippocratic term karkinos. By the late medieval period, the analogy of cancer as a hungry beast was well established. In the Middle Ages, religious beliefs inhibited the advancement of knowledge, and people began to believe that cancer was an infectious disease.
+
+### 2.2.4 The Renaissance Revolution
+
+#### Challenging Ancient Authorities
+
+The Medical Renaissance started as the regular Renaissance did in the early 1400s and ended in the late 1600s. During this time great medical personalities and scholar humanists made unique advances to medicine and surgery. The Renaissance was a revolutionary period, since it stimulated medical practice; at that time physicians started to scientifically study medicine. Vesalius greatly contributed in the advancement of surgery, and he vigorously opposed Galen's doctrines.
+
+#### Andreas Vesalius and Anatomical Revolution
+
+Andreas Vesalius (1514-1564) is considered the Father of Modern Anatomy, and an authentic representative of the Renaissance. His studies, founded on dissection of human bodies, differed from Galeno, who based his work on dissection of animals, constituted a notable scientific advance. Andreas Vesalius and Ambroise Paré followed thereafter, making outstanding anatomical contributions with the publication of the "Human Factory" (1543) by Vesalius, and describing unique surgical developments with the publication of the "The Apologie and Treatise of Ambroise Paré."
+
+Vesalius' work emphasized the priority of dissection and what has come to be called the "anatomical" view of the body, seeing human internal functioning as an essentially corporeal structure filled with organs arranged in three-dimensional space. This was in stark contrast to many of the anatomical models used previously.
+
+#### William Harvey and Circulation
+
+At the end of the Renaissance and beginning of the New Science, William Harvey, noted British medical doctor and cardiovascular researcher, discovered the general circulation. He published his findings in "The Motu Cordis" in 1628. Further groundbreaking work was carried out by William Harvey, who published De Motu Cordis in 1628. Harvey made a detailed analysis of the overall structure of the heart, going on to an analysis of the arteries, showing how their pulsation depends upon the contraction of the left ventricle, while the contraction of the right ventricle propels its charge of blood into the pulmonary artery.
+
+### 2.2.5 The Rise of Scientific Pathology (19th Century)
+
+#### Rudolf Virchow and Cellular Pathology
+
+Virchow was one of the 19th century's foremost leaders in medicine and pathology. He was also a public health activist, social reformer, politician, and anthropologist. Virchow was the first to correctly link the origin of cancers from otherwise normal cells, believing that cancer is caused by severe irritation in the tissues (the 'chronic irritation theory').
+
+Rudolf Virchow (1821-1902), the great German pathologist of the 19th century, founder of the "Zellularpathologie", also dealt with principal problems of tumor pathology. His theoretical concepts concern the definition and characterization of the tumor process, the dignity and diagnosis, published especially in his 3 monographs "Die Entwicklungsgeschichte des Krebses" (1847), "Handbuch der speciellen Pathologie und Therapie" (1854) and "Die krankhaften Geschwülste" (1863-65).
+
+After graduating from Friedrich-Wilhelms University in Berlin in 1843, his major work was in pathology, becoming its professor in Pathological Anatomy and Physiology in 1854. He developed an interest in microscopy. His first scientific paper was two years after graduating, on the pathological description of leukaemia, a term he invented.
+
+#### The Impact of Microscopy
+
+In 1847, he and a colleague, Benino Reinhardt, founded the Archiv für Pathologische Anatomie und Physiologie (now known as "Virchow's Archives"), which still survives as a leading journal of pathology. He encouraged his students to use microscopes and "think microscopically." Virchow had a major impact on medical education in Germany.
+
+The years 1852 and 1854–55 were then marked by long and heated debates on these questions among the Parisian medical community. During the same period, thanks to Remak and then Virchow, the principle of cell division became an important component of the renewed cell theory.
+
+#### Cell Theory and Cancer
+
+Virchow strongly believed that the tumour, like any other physiological or pathological phenomenon, was always a part of the patient's body, being strictly subject to the laws of biology. Virchow consistently applied the concept of the cell as the place of all pathological processes even to tumour pathology.
+
+### 2.2.6 The 20th Century: Institutional Development
+
+#### Early 20th Century Context
+
+At the beginning of the 20th century, cancer was eighth among the leading causes of death. Infectious diseases were prominent, with pneumonia, influenza, tuberculosis, and gastrointestinal diseases being responsible for one-third of all deaths. At the beginning of the century, cases of lung cancer was so rare that it was shown to medical students as a condition that the students were unlikely to see again during their medical practices. By the 1940s, however, lung cancer was becoming quite common.
+
+#### The National Cancer Institute Era
+
+In the United States, a definitive effort to combat cancer and advance scientific research began with the establishment of the National Cancer Institute in 1937. This initiative gained further momentum with the passage of the National Cancer Act in 1971. In 1937 the National Cancer Institute Act established the National Cancer Institute (NCI) within the U.S. Public Health Service. The Act directed the Surgeon General to promote the coordination of research conducted by the Institute and similar research conducted by other agencies, organizations, and individuals.
+
+### 2.2.7 The War on Cancer: The National Cancer Act of 1971
+
+#### Political and Social Context
+
+The struggle against cancer took a decisive turn in 1971 when a relentless campaigning by health activists eventually led to signing of the National Cancer Act in the United States, an unprecedented event in the history of diseases. By 1970, cancer was the second leading cause of death in the U.S. and the number one health concern of the American people. Recognizing public anxiety and the need for more funding for cancer research, Mary Lasker and other advocates pushed for legislation that would substantially increase the country's commitment to making advances against the deadly disease.
+
+#### The Act's Provisions and Impact
+
+The National Cancer Act of 1971, signed into law by President Richard Nixon, established the National Cancer Institute in its current form. This sweeping legislation granted to the Director of the NCI broad authority to plan and develop an expanded, intensified and coordinated National Cancer Program that included the NCI and related programs, other research institutes and federal and nonfederal programs. The National Cancer Act also authorized the first 15 cancer centers and mandated cancer control programs.
+
+The National Cancer Act of 1971 instigated 50 years of momentum that raised the federal investment in cancer research from $500 million in 1972 to $6.5 billion in 2021. This investment has fueled basic, translational, and clinical research that has had a tremendous impact on our understanding of cancer and our ability to prevent, diagnose, and treat it.
+
+#### Key Achievements
+
+"The National Cancer Act is one of the most transformational pieces of legislation to occur in the 20th century. It is that profound," said ­Andrew C. von Eschenbach, MD, President of Samaritan Health Initiatives and Adjunct Professor at The University of Texas MD Anderson Cancer Center and former Director of the NCI from 2002 to 2005 and former Commissioner of the U.S. Food and Drug Administration (FDA) from 2005 to 2009.
+
+On Dec. 23, 1971, President Richard Nixon signed NCA into law, providing NCI with expanded authorities and responsibilities through development of a National Cancer Program. One of the most forward-thinking concepts to emerge was the modern-day NCI Cancer Centers Program, an anchor of the nation's cancer research effort. NCA initially directed NCI to establish 15 new research facilities. There are now 71 NCI-Designated Cancer Centers in 36 states and the District of Columbia.
+
+#### Scientific Infrastructure Development
+
+The act established a democratization of the scientific process. The act created several advisory boards allowing for more influence on cancer policy by physicians and scientists conducting research and treating patients. This led to more funds being disbursed to institutes and centers outside the government. It especially accelerated the use of investigator-initiated grants.
+
+Another vital mandate of NCA was collection, analysis and dissemination of data that can provide insights into the state of cancer prevention, diagnosis and treatment. That directive prompted establishment of SEER (Surveillance, Epidemiology and End Results) in 1973. SEER now covers 48 percent of the nation's population, including 22 different geographic areas, and collects data on approximately 800,000 new cancer cases (without any personally identifying information) each year.
+
+### 2.2.8 Modern Era and Future Directions
+
+#### Contemporary Achievements
+
+The NCA's passage half a century ago has contributed to the consistent decline in the overall cancer death rate in the U.S., which has gone down 31 percent since its peak in 1991. A key contributor to that decline is progress in cancer prevention, including the HPV vaccine, comprehensive tobacco control programs that have slashed smoking rates, and effective screening options for colorectal and breast cancers.
+
+The scientific advances enabled by the act have resulted in FDA approval of about 100 targeted therapies to treat cancers that harbor a specific genomic alteration, often achieving remarkable remissions in difficult-to-treat cancers, including NSCLC and metastatic melanoma, and has led to the promise of personalized medicine for all patients with cancer.
+
+#### Continuing Challenges and Opportunities
+
+Although the investment made in cancer over the past 5 decades is still paying off, as witnessed by the more than 17 million cancer survivors today—that number is expected to climb to more than 22 million over the next decade, and the 5-year survival rate is expected to increase to 70%—challenges remain.
+
+The twenty first century began with completion of the Human Genome Project that generated a treasure trove of genetic data. The second leg of the project, called the Cancer Genome Atlas, was launched by NIH in 2005 to catalogue genomic changes in all the cancers known to humans: within less than a decade, cancer research moved from Human Genome Project to "a project at least 10,000 times bigger when applied to fifty most common human cancers", as Francis Collins described it.
 
 ## 2.3 Hallmarks of Cancer
 
