@@ -49,7 +49,7 @@ Mononuclear phagocytes are extremely plastic. In the context of interferon-drive
 
 Several studies indicate that tumor-associated macrophages (TAMs) usually have a pro-tumoral action, since they can stimulate angiogenesis, increase tumor cell invasion and motility, and have an immunosuppressive action.
 
-![Tumor-Associated Macrophages](images/chapter14/14-1-2.png)
+![Tumor-Associated Macrophages](images/chapter14/14-1-2.jpg)
 *Figure 14.3 Tumor-Associated Macrophages: This image of a breast cancer tumor and its microenvironment was obtained from a live mouse model using multiphoton microscopy and endogenous fluorescence. That is, the image was obtained without any fluorophores, stains, or dyes, using only the metabolic co-factors of NADH and FAD, which are already inside of cells, along with second harmonic generation to see collagen. This technique has important clinical potential for patients who require label-free imaging, and may lead to more effective diagnoses and treatments. Tumor cells display in cyan, macrophages in red, collagen fibers in green.
 source: National Cancer Institute \ Carbone Cancer Center at the Univ. of Wisconsin creators: Joseph Szulczewski, David Inman, Kevin Eliceiri, and Patricia Keely*
 
@@ -81,7 +81,7 @@ Angiogenesis, the growth of new capillary blood vessels, is central to the growt
 
 Vascular casts of metastases in the rabbit liver reveal that tumors of up to 1 mm in diameter are usually avascular, but beyond that size are vascularized. This size limitation necessitates the "angiogenic switch" for continued tumor growth.
 
-![Tumor angiogenesis](images/chapter14/14-1-3-2.jpg)
+![Tumor angiogenesis](images/chapter14/14-1-3-2.png)
 *Figure 14.4 Steps of tumor angiogenesis: Step 1 (hypoxia): the hypoxic or inflamed tumor microenvironment (TME) induces the production of vasculogenetic growth factors. Step 2 (proteolytic degradation): VEGF-A and -D binding to VEGFR-2 induce the production of matrix metalloproteinases (MMPs), degrading the extracellular matrix (ECM). Step 3 (tip cell migration): VEGFR-2 activation induces the transformation of ECs to tip cells (brown). Step 4 (tube formation): tip cells migrate into the TME with coordinated proliferation of stalk cells, forming a new tube. Step 5 (tumor vascularization): the new vessels mature by establishing tight junctions and by the coverage by pericytes (lila).
 source: Bokhari, S.M.Z.; Hamar, P. Vascular Endothelial Growth Factor-D (VEGF-D): An Angiogenesis Bypass in Malignant Tumors. Int. J. Mol. Sci. 2023, 24, 13317. via Wikimedia Commons*
 
