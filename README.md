@@ -104,5 +104,15 @@
 ### 2.5 [Epidemiology of Cancer](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#25-epidemiology-of-cancer)
 - **2.5.1** [Global Cancer Burden](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#251-global-cancer-burden)
 - **2.5.2** [Risk Factors for Cancer](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#252-risk-factors-for-cancer)
-  - [Major Modifiable Risk Factors](./Chapter%2002:
+  - [Major Modifiable Risk Factors](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#major-modifiable-risk-factors)
+  - [Environmental and Occupational Risk Factors](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#environmental-and-occupational-risk-factors)
+  - [Non-Modifiable Risk Factors](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#non-modifiable-risk-factors)
+- **2.5.3** [Cancer Prevention and Screening](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#253-cancer-prevention-and-screening)
+  - [Primary Prevention](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#primary-prevention)
+  - [Secondary Prevention (Screening)](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#secondary-prevention-screening)
+  - [Established Screening Programs](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#established-screening-programs)
+  - [Challenges in Cancer Prevention and Screening](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#challenges-in-cancer-prevention-and-screening)
+  - [Future Directions in Cancer Prevention](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#future-directions-in-cancer-prevention)
+
+### [Summary](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#summary)
 
