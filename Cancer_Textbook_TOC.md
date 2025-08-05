@@ -904,17 +904,377 @@
   - 24.7.3 Resistance Mechanisms
   - 24.7.4 Combination Strategies
 
-**Chapter 25: Hormonal Therapies**
-- 25.1 Hormone-Sensitive Cancers
-- 25.2 Mechanisms of Hormonal Action
-- 25.3 Anti-Estrogen Therapies
-- 25.4 Aromatase Inhibitors
-- 25.5 Anti-Androgen Therapies
-- 25.6 GnRH Agonists and Antagonists
-- 25.7 Steroidogenesis Inhibitors
-- 25.8 Clinical Considerations and Patient Selection
-- 25.9 Resistance Mechanisms and Second-Line Therapies
-- 25.10 Future Directions
+# Chapter 25: Hormonal Therapies
+
+## 25.1 Hormone-Sensitive Cancers
+- 25.1.1 Breast Cancer
+  - 25.1.1.1 Estrogen and Progesterone Receptor Biology
+  - 25.1.1.2 Molecular Subtypes and Hormone Sensitivity
+  - 25.1.1.3 Prognostic and Predictive Value of Hormone Receptors
+  - 25.1.1.4 Male Breast Cancer Considerations
+- 25.1.2 Prostate Cancer
+  - 25.1.2.1 Androgen Receptor Signaling
+  - 25.1.2.2 Evolution from Hormone-Sensitive to Castration-Resistant Disease
+  - 25.1.2.3 Androgen Receptor Variants and Splice Variants
+  - 25.1.2.4 Molecular Classification of Prostate Cancer
+- 25.1.3 Endometrial Cancer
+  - 25.1.3.1 Estrogen and Progesterone Receptor Expression Patterns
+  - 25.1.3.2 Molecular Classification and Hormone Sensitivity
+  - 25.1.3.3 Fertility-Sparing Approaches
+- 25.1.4 Ovarian Cancer
+  - 25.1.4.1 Hormone Receptor Expression in Different Histologic Subtypes
+  - 25.1.4.2 Endocrine Therapy Responsiveness
+- 25.1.5 Other Hormone-Responsive Malignancies
+  - 25.1.5.1 Thyroid Cancer
+  - 25.1.5.2 Adrenocortical Carcinoma
+  - 25.1.5.3 Neuroendocrine Tumors
+
+## 25.2 Mechanisms of Hormonal Action
+- 25.2.1 Steroid Hormone Receptors as Transcription Factors
+  - 25.2.1.1 Structural Domains and Function
+  - 25.2.1.2 DNA Binding and Response Elements
+  - 25.2.1.3 Coactivators and Corepressors
+- 25.2.2 Genomic Mechanisms of Hormone Action
+  - 25.2.2.1 Classical Pathway of Receptor Activation
+  - 25.2.2.2 Receptor Dimerization and Nuclear Translocation
+  - 25.2.2.3 Gene Expression Regulation
+  - 25.2.2.4 Pioneer Factors and Chromatin Remodeling
+- 25.2.3 Non-Genomic Mechanisms of Hormone Action
+  - 25.2.3.1 Membrane-Associated Receptors
+  - 25.2.3.2 Rapid Signaling Pathways
+  - 25.2.3.3 Cross-talk with Growth Factor Pathways
+  - 25.2.3.4 Cytoplasmic and Mitochondrial Actions
+- 25.2.4 Hormone Metabolism and Bioavailability
+  - 25.2.4.1 Steroid Biosynthesis Pathways
+  - 25.2.4.2 Local Hormone Production in Tumor Tissues
+  - 25.2.4.3 Transport Proteins and Bioavailable Hormone
+  - 25.2.4.4 Metabolic Conversion and Activation
+- 25.2.5 Molecular Basis for Hormonal Therapy Resistance
+  - 25.2.5.1 Receptor Mutations and Variants
+  - 25.2.5.2 Alterations in Cofactor Expression
+  - 25.2.5.3 Bypass Pathway Activation
+  - 25.2.5.4 Epigenetic Mechanisms
+
+## 25.3 Anti-Estrogen Therapies
+- 25.3.1 Selective Estrogen Receptor Modulators (SERMs)
+  - 25.3.1.1 Tamoxifen: Mechanism of Action
+  - 25.3.1.2 Tissue-Specific Effects of Tamoxifen
+  - 25.3.1.3 Clinical Applications in Different Settings
+    - 25.3.1.3.1 Adjuvant Therapy
+    - 25.3.1.3.2 Metastatic Setting
+    - 25.3.1.3.3 Chemoprevention
+  - 25.3.1.4 Toxicity Profile and Management
+  - 25.3.1.5 Drug Interactions and Pharmacogenomics
+  - 25.3.1.6 Optimal Duration of Therapy
+- 25.3.2 Other SERMs
+  - 25.3.2.1 Raloxifene
+  - 25.3.2.2 Toremifene
+  - 25.3.2.3 Bazedoxifene
+  - 25.3.2.4 Comparative Efficacy and Toxicity
+- 25.3.3 Selective Estrogen Receptor Degraders (SERDs)
+  - 25.3.3.1 Fulvestrant: Mechanism of Action
+  - 25.3.3.2 Clinical Applications
+  - 25.3.3.3 Pharmacokinetic Considerations
+  - 25.3.3.4 Resistance Mechanisms
+  - 25.3.3.5 Combination Strategies
+- 25.3.4 Emerging Oral SERDs
+  - 25.3.4.1 Elacestrant
+  - 25.3.4.2 Amcenestrant
+  - 25.3.4.3 Camizestrant
+  - 25.3.4.4 Pharmacokinetic Advantages
+  - 25.3.4.5 Current Clinical Development
+
+## 25.4 Aromatase Inhibitors
+- 25.4.1 Mechanism of Aromatase Inhibition
+  - 25.4.1.1 Aromatase Enzyme Structure and Function
+  - 25.4.1.2 Tissue Distribution of Aromatase
+  - 25.4.1.3 Peripheral vs. Tumor Aromatase Activity
+- 25.4.2 Types of Aromatase Inhibitors
+  - 25.4.2.1 Steroidal (Type I) Inhibitors
+    - 25.4.2.1.1 Exemestane
+    - 25.4.2.1.2 Mechanism of Irreversible Inhibition
+  - 25.4.2.2 Non-Steroidal (Type II) Inhibitors
+    - 25.4.2.2.1 Letrozole
+    - 25.4.2.2.2 Anastrozole
+    - 25.4.2.2.3 Mechanism of Reversible Inhibition
+- 25.4.3 Clinical Applications of Aromatase Inhibitors
+  - 25.4.3.1 Early-Stage Breast Cancer
+    - 25.4.3.1.1 Upfront Strategy
+    - 25.4.3.1.2 Sequential Strategy after Tamoxifen
+    - 25.4.3.1.3 Extended Adjuvant Therapy
+  - 25.4.3.2 Advanced Breast Cancer
+    - 25.4.3.2.1 First-Line Therapy
+    - 25.4.3.2.2 Sequential Endocrine Therapy
+  - 25.4.3.3 Male Breast Cancer
+  - 25.4.3.4 Other Malignancies
+- 25.4.4 Toxicity Profile and Management
+  - 25.4.4.1 Musculoskeletal Symptoms
+  - 25.4.4.2 Bone Health and Fracture Risk
+  - 25.4.4.3 Cardiovascular Effects
+  - 25.4.4.4 Lipid Profile Changes
+  - 25.4.4.5 Sexual Dysfunction and Quality of Life
+  - 25.4.4.6 Supportive Care Approaches
+- 25.4.5 Resistance to Aromatase Inhibitors
+  - 25.4.5.1 Molecular Mechanisms
+  - 25.4.5.2 Biomarkers of Resistance
+  - 25.4.5.3 Therapeutic Strategies after Progression
+
+## 25.5 Anti-Androgen Therapies
+- 25.5.1 First-Generation Anti-Androgens
+  - 25.5.1.1 Bicalutamide
+  - 25.5.1.2 Flutamide
+  - 25.5.1.3 Nilutamide
+  - 25.5.1.4 Mechanism of Action
+  - 25.5.1.5 Clinical Applications
+  - 25.5.1.6 Toxicity Profiles
+- 25.5.2 Second-Generation Anti-Androgens
+  - 25.5.2.1 Enzalutamide
+    - 25.5.2.1.1 Mechanism of Action
+    - 25.5.2.1.2 Clinical Applications
+    - 25.5.2.1.3 Resistance Mechanisms
+    - 25.5.2.1.4 Toxicity Profile
+  - 25.5.2.2 Apalutamide
+    - 25.5.2.2.1 Molecular Features
+    - 25.5.2.2.2 Clinical Evidence
+    - 25.5.2.2.3 Side Effect Management
+  - 25.5.2.3 Darolutamide
+    - 25.5.2.3.1 Blood-Brain Barrier Penetration
+    - 25.5.2.3.2 Clinical Trial Data
+    - 25.5.2.3.3 Comparative Safety Profile
+- 25.5.3 Combined Androgen Blockade
+  - 25.5.3.1 Rationale for Combination Therapy
+  - 25.5.3.2 Clinical Evidence
+  - 25.5.3.3 Indications and Patient Selection
+- 25.5.4 Androgen Receptor Degraders
+  - 25.5.4.1 PROTAC Technology
+  - 25.5.4.2 Emerging AR Degraders
+  - 25.5.4.3 Clinical Development Status
+- 25.5.5 Applications in Other Cancers
+  - 25.5.5.1 AR-Positive Breast Cancer
+  - 25.5.5.2 Salivary Gland Tumors
+  - 25.5.5.3 Other AR-Driven Malignancies
+
+## 25.6 GnRH Agonists and Antagonists
+- 25.6.1 Physiology of GnRH Signaling
+  - 25.6.1.1 Hypothalamic-Pituitary-Gonadal Axis
+  - 25.6.1.2 Feedback Mechanisms
+  - 25.6.1.3 GnRH Receptor Biology
+- 25.6.2 GnRH Agonists
+  - 25.6.2.1 Mechanism of Action
+    - 25.6.2.1.1 Initial Flare Phenomenon
+    - 25.6.2.1.2 Receptor Desensitization
+  - 25.6.2.2 Available Formulations
+    - 25.6.2.2.1 Leuprolide
+    - 25.6.2.2.2 Goserelin
+    - 25.6.2.2.3 Triptorelin
+    - 25.6.2.2.4 Histrelin
+  - 25.6.2.3 Delivery Systems and Dosing Schedules
+    - 25.6.2.3.1 Monthly Formulations
+    - 25.6.2.3.2 Three-Month Formulations
+    - 25.6.2.3.3 Six-Month Formulations
+    - 25.6.2.3.4 Implantable Devices
+  - 25.6.2.4 Clinical Applications
+    - 25.6.2.4.1 Prostate Cancer
+    - 25.6.2.4.2 Breast Cancer
+    - 25.6.2.4.3 Gynecologic Malignancies
+    - 25.6.2.4.4 Fertility Preservation
+- 25.6.3 GnRH Antagonists
+  - 25.6.3.1 Mechanism of Action
+    - 25.6.3.1.1 Immediate Suppression without Flare
+    - 25.6.3.1.2 Receptor Blockade
+  - 25.6.3.2 Available Formulations
+    - 25.6.3.2.1 Degarelix
+    - 25.6.3.2.2 Relugolix
+    - 25.6.3.2.3 Elagolix
+    - 25.6.3.2.4 Injectable vs. Oral Formulations
+  - 25.6.3.3 Clinical Applications
+    - 25.6.3.3.1 Advanced Prostate Cancer
+    - 25.6.3.3.2 Early Prostate Cancer
+    - 25.6.3.3.3 Gynecologic Applications
+  - 25.6.3.4 Comparative Efficacy and Safety vs. Agonists
+- 25.6.4 Side Effects and Management
+  - 25.6.4.1 Hot Flashes
+  - 25.6.4.2 Bone Health
+  - 25.6.4.3 Metabolic Effects
+  - 25.6.4.4 Cardiovascular Considerations
+  - 25.6.4.5 Sexual Dysfunction
+  - 25.6.4.6 Cognitive Effects
+  - 25.6.4.7 Quality of Life Impact
+  - 25.6.4.8 Supportive Care Strategies
+
+## 25.7 Steroidogenesis Inhibitors
+- 25.7.1 Adrenal Steroidogenesis Pathway
+  - 25.7.1.1 Key Enzymes and Regulation
+  - 25.7.1.2 Androgen Synthesis in Prostate Cancer
+  - 25.7.1.3 Intratumoral Steroidogenesis
+- 25.7.2 CYP17 Inhibitors
+  - 25.7.2.1 Abiraterone Acetate
+    - 25.7.2.1.1 Mechanism of Action
+    - 25.7.2.1.2 Pharmacokinetics and Administration
+    - 25.7.2.1.3 Clinical Applications in HSPC and CRPC
+    - 25.7.2.1.4 Combination Strategies
+    - 25.7.2.1.5 Toxicity Profile and Management
+    - 25.7.2.1.6 Mineralocorticoid Excess and Prednisone Requirements
+  - 25.7.2.2 Orteronel and Galeterone
+    - 25.7.2.2.1 Mechanisms of Action
+    - 25.7.2.2.2 Clinical Development Status
+    - 25.7.2.2.3 Comparative Properties
+- 25.7.3 CYP11 Inhibitors
+  - 25.7.3.1 Ketoconazole
+    - 25.7.3.1.1 Mechanism and Historical Use
+    - 25.7.3.1.2 Clinical Applications
+    - 25.7.3.1.3 Toxicity Profile
+    - 25.7.3.1.4 Drug Interactions
+  - 25.7.3.2 Aminoglutethimide
+    - 25.7.3.2.1 Historical Applications
+    - 25.7.3.2.2 Limitations and Current Status
+- 25.7.4 Steroidogenesis Inhibitors in Other Cancers
+  - 25.7.4.1 Adrenocortical Carcinoma
+  - 25.7.4.2 Breast Cancer
+  - 25.7.4.3 Cushing's Syndrome
+- 25.7.5 Next-Generation Steroidogenesis Inhibitors
+  - 25.7.5.1 Seviteronel
+  - 25.7.5.2 Emerging Selective Inhibitors
+  - 25.7.5.3 Clinical Development Status
+
+## 25.8 Clinical Considerations and Patient Selection
+- 25.8.1 Biomarkers for Hormone Therapy Selection
+  - 25.8.1.1 Estrogen and Progesterone Receptor Testing
+    - 25.8.1.1.1 Immunohistochemistry Methods
+    - 25.8.1.1.2 Scoring Systems and Thresholds
+    - 25.8.1.1.3 Quality Assurance
+  - 25.8.1.2 Androgen Receptor Testing
+    - 25.8.1.2.1 AR Expression in Prostate Cancer
+    - 25.8.1.2.2 AR Mutations and Variants
+    - 25.8.1.2.3 AR in Other Malignancies
+  - 25.8.1.3 Genomic Signatures
+    - 25.8.1.3.1 Breast Cancer Gene Signatures
+    - 25.8.1.3.2 Prostate Cancer Molecular Profiling
+    - 25.8.1.3.3 Prediction of Endocrine Therapy Benefit
+  - 25.8.1.4 Emerging Predictive Biomarkers
+    - 25.8.1.4.1 ESR1 Mutations
+    - 25.8.1.4.2 Circulating Tumor DNA Analysis
+    - 25.8.1.4.3 Functional Testing Approaches
+- 25.8.2 Treatment Selection by Disease Setting
+  - 25.8.2.1 Early-Stage Disease
+    - 25.8.2.1.1 Adjuvant Therapy Guidelines
+    - 25.8.2.1.2 Risk Stratification Approaches
+    - 25.8.2.1.3 Duration of Therapy
+  - 25.8.2.2 Metastatic Disease
+    - 25.8.2.2.1 First-Line Selection
+    - 25.8.2.2.2 Sequencing Strategies
+    - 25.8.2.2.3 Combination with Targeted Therapies
+  - 25.8.2.3 Prevention Setting
+    - 25.8.2.3.1 High-Risk Individuals
+    - 25.8.2.3.2 Risk-Benefit Assessment
+    - 25.8.2.3.3 Duration of Preventive Therapy
+- 25.8.3 Special Patient Populations
+  - 25.8.3.1 Elderly Patients
+    - 25.8.3.1.1 Efficacy Considerations
+    - 25.8.3.1.2 Tolerability and Polypharmacy
+    - 25.8.3.1.3 Functional Assessment
+  - 25.8.3.2 Young Patients
+    - 25.8.3.2.1 Fertility Considerations
+    - 25.8.3.2.2 Premature Menopause Management
+    - 25.8.3.2.3 Bone Health in Young Adults
+  - 25.8.3.3 Men with Breast Cancer
+    - 25.8.3.3.1 Efficacy of Hormonal Therapies
+    - 25.8.3.3.2 Special Considerations
+  - 25.8.3.4 Patients with Comorbidities
+    - 25.8.3.4.1 Cardiovascular Disease
+    - 25.8.3.4.2 Osteoporosis
+    - 25.8.3.4.3 Thromboembolism Risk
+- 25.8.4 Quality of Life Considerations
+  - 25.8.4.1 Impact on Physical Function
+  - 25.8.4.2 Sexual Health Management
+  - 25.8.4.3 Cognitive Function
+  - 25.8.4.4 Patient-Reported Outcomes
+  - 25.8.4.5 Adherence Support Strategies
+
+## 25.9 Resistance Mechanisms and Second-Line Therapies
+- 25.9.1 Primary (De Novo) vs. Acquired Resistance
+  - 25.9.1.1 Clinical Patterns of Resistance
+  - 25.9.1.2 Predictive Factors for Primary Resistance
+  - 25.9.1.3 Time to Progression Patterns
+- 25.9.2 Molecular Mechanisms of Endocrine Resistance
+  - 25.9.2.1 Estrogen Receptor Mutations
+    - 25.9.2.1.1 ESR1 Ligand-Binding Domain Mutations
+    - 25.9.2.1.2 Impact on Therapy Selection
+    - 25.9.2.1.3 Detection Methods
+  - 25.9.2.2 Androgen Receptor Alterations
+    - 25.9.2.2.1 Point Mutations
+    - 25.9.2.2.2 Amplification
+    - 25.9.2.2.3 Splice Variants
+  - 25.9.2.3 Growth Factor Pathway Activation
+    - 25.9.2.3.1 HER2/EGFR Signaling
+    - 25.9.2.3.2 PI3K/AKT/mTOR Pathway
+    - 25.9.2.3.3 MAPK Pathway
+  - 25.9.2.4 Cell Cycle Dysregulation
+    - 25.9.2.4.1 Cyclin D1 Amplification
+    - 25.9.2.4.2 CDK4/6 Alterations
+    - 25.9.2.4.3 Rb Loss
+  - 25.9.2.5 Epigenetic Mechanisms
+    - 25.9.2.5.1 Histone Modifications
+    - 25.9.2.5.2 DNA Methylation
+    - 25.9.2.5.3 Chromatin Remodeling
+- 25.9.3 Overcoming Resistance: Combination Strategies
+  - 25.9.3.1 Endocrine Therapy with CDK4/6 Inhibitors
+    - 25.9.3.1.1 Palbociclib
+    - 25.9.3.1.2 Ribociclib
+    - 25.9.3.1.3 Abemaciclib
+    - 25.9.3.1.4 Patient Selection
+    - 25.9.3.1.5 Resistance Mechanisms
+  - 25.9.3.2 Endocrine Therapy with PI3K/AKT/mTOR Inhibitors
+    - 25.9.3.2.1 Everolimus
+    - 25.9.3.2.2 Alpelisib
+    - 25.9.3.2.3 AKT Inhibitors
+    - 25.9.3.2.4 Biomarker-Driven Selection
+  - 25.9.3.3 Endocrine Therapy with HDAC Inhibitors
+  - 25.9.3.4 Novel Combination Approaches
+    - 25.9.3.4.1 Immunotherapy Combinations
+    - 25.9.3.4.2 PARP Inhibitor Combinations
+    - 25.9.3.4.3 Antibody-Drug Conjugates
+- 25.9.4 Sequential Endocrine Therapy Strategies
+  - 25.9.4.1 Optimal Sequencing in Breast Cancer
+  - 25.9.4.2 Sequencing in Prostate Cancer
+  - 25.9.4.3 Duration of Treatment
+  - 25.9.4.4 Treatment-Free Intervals
+- 25.9.5 Monitoring Treatment Response and Resistance
+  - 25.9.5.1 Imaging Assessment
+  - 25.9.5.2 Circulating Biomarkers
+  - 25.9.5.3 Liquid Biopsy Approaches
+  - 25.9.5.4 Early Intervention Strategies
+
+## 25.10 Future Directions
+- 25.10.1 Novel Endocrine Agents in Development
+  - 25.10.1.1 New Generation SERDs
+  - 25.10.1.2 Selective Androgen Receptor Degraders
+  - 25.10.1.3 Selective AR Modulators
+  - 25.10.1.4 Novel Steroidogenesis Inhibitors
+- 25.10.2 Targeting Hormone Receptor Coregulators
+  - 25.10.2.1 SRC Family Inhibitors
+  - 25.10.2.2 Pioneer Factor Modulation
+  - 25.10.2.3 Chromatin Modifier Targeting
+- 25.10.3 Precision Endocrine Therapy
+  - 25.10.3.1 Biomarker-Driven Treatment Selection
+  - 25.10.3.2 Integrating Genomic and Transcriptomic Data
+  - 25.10.3.3 Functional Testing Approaches
+  - 25.10.3.4 Artificial Intelligence Applications
+- 25.10.4 Novel Combination Approaches
+  - 25.10.4.1 Rational Targeting of Resistance Pathways
+  - 25.10.4.2 Immunotherapy Integration
+  - 25.10.4.3 Epigenetic Modulation
+  - 25.10.4.4 Metabolic Targeting
+- 25.10.5 Extended Applications of Hormonal Therapy
+  - 25.10.5.1 Triple-Negative Breast Cancer Subsets
+  - 25.10.5.2 AR-Driven Malignancies
+  - 25.10.5.3 Hormone Receptor-Low Cancers
+  - 25.10.5.4 Novel Indications
+- 25.10.6 Addressing Treatment Toxicities
+  - 25.10.6.1 Tissue-Selective Agents
+  - 25.10.6.2 Novel Delivery Systems
+  - 25.10.6.3 Supportive Care Innovations
+  - 25.10.6.4 Quality of Life Optimization
 
 # Chapter 26: Cancer Immunotherapy (Expanded)
 
