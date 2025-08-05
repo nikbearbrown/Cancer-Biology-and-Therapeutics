@@ -114,7 +114,7 @@
   - [Challenges in Cancer Prevention and Screening](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#challenges-in-cancer-prevention-and-screening)
   - [Future Directions in Cancer Prevention](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#future-directions-in-cancer-prevention)
  
-  - ## Chapter 3: [Cancer Epidemiology and Risk Factors](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md)
+## Chapter 3: [Cancer Epidemiology and Risk Factors](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md)
 
 ### 3.1 [Global Cancer Incidence and Mortality](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#31-global-cancer-incidence-and-mortality)
 - **3.1.1** [Current Global Cancer Burden](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#311-current-global-cancer-burden)
