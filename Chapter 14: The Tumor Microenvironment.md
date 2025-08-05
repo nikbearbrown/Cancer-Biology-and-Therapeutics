@@ -87,10 +87,10 @@ Angiogenesis, the growth of new capillary blood vessels, is central to the growt
 
 Vascular casts of metastases in the rabbit liver reveal that tumors of up to 1 mm in diameter are usually avascular, but beyond that size are vascularized. This size limitation necessitates the "angiogenic switch" for continued tumor growth.
 
-![Tumor angiogenesis](images/chapter14/14-1-3-2.png)
-*Figure 14.4 Steps of tumor angiogenesis: Step 1 (hypoxia): the hypoxic or inflamed tumor microenvironment (TME) induces the production of vasculogenetic growth factors. Step 2 (proteolytic degradation): VEGF-A and -D binding to VEGFR-2 induce the production of matrix metalloproteinases (MMPs), degrading the extracellular matrix (ECM). Step 3 (tip cell migration): VEGFR-2 activation induces the transformation of ECs to tip cells (brown). Step 4 (tube formation): tip cells migrate into the TME with coordinated proliferation of stalk cells, forming a new tube. Step 5 (tumor vascularization): the new vessels mature by establishing tight junctions and by the coverage by pericytes (lila).
-source: Bokhari, S.M.Z.; Hamar, P. Vascular Endothelial Growth Factor-D (VEGF-D): An Angiogenesis Bypass in Malignant Tumors. Int. J. Mol. Sci. 2023, 24, 13317. via Wikimedia Commons*
-
+<div align="center">
+<img src="images/chapter14/14-1-3-2.png" alt="Tumor angiogenesis" width="80%">
+<p><em><strong> Figure 14.4 Steps of tumor angiogenesis:</strong> Step 1 (hypoxia): the hypoxic or inflamed tumor microenvironment (TME) induces the production of vasculogenetic growth factors. Step 2 (proteolytic degradation): VEGF-A and -D binding to VEGFR-2 induce the production of matrix metalloproteinases (MMPs), degrading the extracellular matrix (ECM). Step 3 (tip cell migration): VEGFR-2 activation induces the transformation of ECs to tip cells (brown). Step 4 (tube formation): tip cells migrate into the TME with coordinated proliferation of stalk cells, forming a new tube. Step 5 (tumor vascularization): the new vessels mature by establishing tight junctions and by the coverage by pericytes (lila). <small>Source: Bokhari, S.M.Z.; Hamar, P. Vascular Endothelial Growth Factor-D (VEGF-D): An Angiogenesis Bypass in Malignant Tumors. Int. J. Mol. Sci. 2023, 24, 13317. via Wikimedia Commons</small></em></p>
+</div>
 
 **Angiogenic Factors and Signaling**
 
