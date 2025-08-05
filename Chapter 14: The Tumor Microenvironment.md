@@ -17,13 +17,8 @@ Cancer-associated fibroblasts (CAFs) represent one of the most abundant and func
 
 <div align="center">
 <img src="images/chapter14/14-1-1.jpg" alt="Fibroblast" width="60%">
-<p><em><strong> Figure 14.2 Fibroblasts:</strong> A confocal microscopy image of a fibroblast showing the nucleus (blue), mitochondria (red), and actin cytoskeleton (green). As is evident from their large number of mitochondria, fibroblasts are very metabolically active, continuously synthesizing elements of the extracellular matrix and collagen. Tissue damage is a major trigger for the activation of fibroblasts from fibrocytes, and so fibroblasts play an important role in wound healing. Fibroblast assays are currently being studied as a means of predicting how normal tissue may respond to radiation therapy in cancer patients and others.</em></p>
-<p><small> Source: NCI Center for Cancer Research. Creator: Guy Jones, Matthew Dreher, Brad Wood</small></p>
+<p><em><strong> Figure 14.2 Fibroblasts:</strong> A confocal microscopy image of a fibroblast showing the nucleus (blue), mitochondria (red), and actin cytoskeleton (green). As is evident from their large number of mitochondria, fibroblasts are very metabolically active, continuously synthesizing elements of the extracellular matrix and collagen. Tissue damage is a major trigger for the activation of fibroblasts from fibrocytes, and so fibroblasts play an important role in wound healing. Fibroblast assays are currently being studied as a means of predicting how normal tissue may respond to radiation therapy in cancer patients and others. <small> Source: NCI Center for Cancer Research. Creator: Guy Jones, Matthew Dreher, Brad Wood</small></em></p>
 </div>
-
-![Fibroblast](images/chapter14/14-1-1.jpg)
-*Figure 14.2 Fibroblasts: A confocal microscopy image of a fibroblast showing the nucleus (blue), mitochondria (red), and actin cytoskeleton (green). As is evident from their large number of mitochondria, fibroblasts are very metabolically active, continuously synthesizing elements of the extracellular matrix and collagen. Tissue damage is a major trigger for the activation of fibroblasts from fibrocytes, and so fibroblasts play an important role in wound healing. Fibroblast assays are currently being studied as a means of predicting how normal tissue may respond to radiation therapy in cancer patients and others.
-Source: NCI Center for Cancer Research. Creator: Guy Jones, Matthew Dreher, Brad Wood*
 
 **Morphological and Functional Characteristics of CAFs**
 
@@ -59,9 +54,10 @@ Mononuclear phagocytes are extremely plastic. In the context of interferon-drive
 
 Several studies indicate that tumor-associated macrophages (TAMs) usually have a pro-tumoral action, since they can stimulate angiogenesis, increase tumor cell invasion and motility, and have an immunosuppressive action.
 
-![Tumor-Associated Macrophages](images/chapter14/14-1-2.jpg)
-*Figure 14.3 Tumor-Associated Macrophages: This image of a breast cancer tumor and its microenvironment was obtained from a live mouse model using multiphoton microscopy and endogenous fluorescence. That is, the image was obtained without any fluorophores, stains, or dyes, using only the metabolic co-factors of NADH and FAD, which are already inside of cells, along with second harmonic generation to see collagen. This technique has important clinical potential for patients who require label-free imaging, and may lead to more effective diagnoses and treatments. Tumor cells display in cyan, macrophages in red, collagen fibers in green.
-source: National Cancer Institute \ Carbone Cancer Center at the Univ. of Wisconsin creators: Joseph Szulczewski, David Inman, Kevin Eliceiri, and Patricia Keely*
+<div align="center">
+<img src="images/chapter14/14-1-2.jpg" alt="Tumor-Associated Macrophages" width="60%">
+<p><em><strong> Figure 14.3 Tumor-Associated Macrophages:</strong> This image of a breast cancer tumor and its microenvironment was obtained from a live mouse model using multiphoton microscopy and endogenous fluorescence. That is, the image was obtained without any fluorophores, stains, or dyes, using only the metabolic co-factors of NADH and FAD, which are already inside of cells, along with second harmonic generation to see collagen. This technique has important clinical potential for patients who require label-free imaging, and may lead to more effective diagnoses and treatments. Tumor cells display in cyan, macrophages in red, collagen fibers in green. <small> Source: National Cancer Institute \ Carbone Cancer Center at the Univ. of Wisconsin creators: Joseph Szulczewski, David Inman, Kevin Eliceiri, and Patricia Keely </small></em></p>
+</div>
 
 **Macrophage Polarization in the TME**
 
