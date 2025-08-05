@@ -623,20 +623,249 @@
   - 21.7.2 Novel Radiation Modalities
   - 21.7.3 Spatial Fractionation and FLASH Therapy
 
-**Chapter 22: Surgical Oncology**
-- 22.1 Principles of Cancer Surgery
-- 22.2 Types of Surgical Procedures
-- 22.3 Minimally Invasive Surgery
-- 22.4 Reconstructive Surgery
+# Chapter 22: Surgical Oncology
 
-**Chapter 23: Chemotherapy**
-- 23.1 Principles of Chemotherapy: Mechanism of Action
-- 23.2 Classes of Chemotherapeutic Agents
-- 23.3 Pharmacology and Pharmacokinetics
-- 23.4 Drug Resistance
-- 23.5 Side Effects and Supportive Care
-- 23.6 Conclusion and Clinical Significance
+## 22.1 Principles of Cancer Surgery
+- 22.1.1 Historical Development of Surgical Oncology
+- 22.1.2 Surgical Goals: Curative vs. Palliative Intent
+- 22.1.3 Preoperative Assessment and Risk Stratification
+- 22.1.4 Surgical Margins and Extent of Resection
+  - 22.1.4.1 R0, R1, and R2 Resections
+  - 22.1.4.2 Anatomical Considerations for Margins
+- 22.1.5 Intraoperative Staging and Decision-Making
+- 22.1.6 Lymph Node Dissection Principles
+  - 22.1.6.1 Sentinel Lymph Node Biopsy
+  - 22.1.6.2 Regional Lymphadenectomy
+- 22.1.7 Multidisciplinary Approach to Surgical Planning
 
+## 22.2 Types of Surgical Procedures
+- 22.2.1 Diagnostic Procedures
+  - 22.2.1.1 Incisional and Excisional Biopsies
+  - 22.2.1.2 Image-Guided Core Needle Biopsies
+  - 22.2.1.3 Surgical Staging Procedures
+- 22.2.2 Curative Surgical Approaches
+  - 22.2.2.1 Wide Local Excision
+  - 22.2.2.2 Anatomical Resections
+  - 22.2.2.3 En Bloc Resections for Locally Advanced Disease
+  - 22.2.2.4 Cytoreductive Surgery
+- 22.2.3 Palliative Surgical Procedures
+  - 22.2.3.1 Relief of Obstruction
+  - 22.2.3.2 Control of Bleeding
+  - 22.2.3.3 Pain Management
+  - 22.2.3.4 Improvement of Quality of Life
+- 22.2.4 Salvage Surgery
+  - 22.2.4.1 Indications and Patient Selection
+  - 22.2.4.2 Technical Considerations
+  - 22.2.4.3 Outcomes and Expectations
+
+## 22.3 Minimally Invasive Surgery
+- 22.3.1 Laparoscopic Approaches
+  - 22.3.1.1 Technical Considerations
+  - 22.3.1.2 Cancer-Specific Applications
+  - 22.3.1.3 Advantages and Limitations
+  - 22.3.1.4 Oncologic Outcomes Compared to Open Surgery
+- 22.3.2 Robotic-Assisted Surgery
+  - 22.3.2.1 Technological Platforms
+  - 22.3.2.2 Applications in Cancer Surgery
+  - 22.3.2.3 Learning Curve and Training
+  - 22.3.2.4 Cost-Effectiveness and Value
+- 22.3.3 Endoscopic Resections
+  - 22.3.3.1 Endoscopic Mucosal Resection
+  - 22.3.3.2 Endoscopic Submucosal Dissection
+  - 22.3.3.3 Natural Orifice Transluminal Endoscopic Surgery
+- 22.3.4 Image-Guided Ablative Techniques
+  - 22.3.4.1 Radiofrequency Ablation
+  - 22.3.4.2 Microwave Ablation
+  - 22.3.4.3 Cryoablation
+  - 22.3.4.4 Irreversible Electroporation
+  - 22.3.4.5 Patient Selection and Outcomes
+
+## 22.4 Reconstructive Surgery
+- 22.4.1 Principles of Oncologic Reconstruction
+  - 22.4.1.1 Timing: Immediate vs. Delayed
+  - 22.4.1.2 Functional vs. Aesthetic Priorities
+  - 22.4.1.3 Impact on Quality of Life
+- 22.4.2 Breast Reconstruction
+  - 22.4.2.1 Implant-Based Techniques
+  - 22.4.2.2 Autologous Tissue Options
+  - 22.4.2.3 Nipple-Areolar Reconstruction
+- 22.4.3 Head and Neck Reconstruction
+  - 22.4.3.1 Local and Regional Flaps
+  - 22.4.3.2 Microvascular Free Tissue Transfer
+  - 22.4.3.3 Functional Considerations
+- 22.4.4 Abdominal Wall Reconstruction
+  - 22.4.4.1 Component Separation Techniques
+  - 22.4.4.2 Mesh Materials and Selection
+  - 22.4.4.3 Management of Complex Defects
+- 22.4.5 Pelvic Reconstruction
+  - 22.4.5.1 Vaginal Reconstruction
+  - 22.4.5.2 Perineal Reconstruction
+  - 22.4.5.3 Pelvic Floor Reconstruction
+- 22.4.6 Limb Salvage and Reconstruction
+  - 22.4.6.1 Bone and Joint Reconstruction
+  - 22.4.6.2 Soft Tissue Coverage
+  - 22.4.6.3 Functional Outcomes and Rehabilitation
+
+## 22.5 Perioperative Considerations in Cancer Surgery
+- 22.5.1 Enhanced Recovery After Surgery (ERAS) Protocols
+- 22.5.2 Perioperative Nutrition
+- 22.5.3 Venous Thromboembolism Prophylaxis
+- 22.5.4 Surgical Site Infection Prevention
+- 22.5.5 Management of Surgical Complications
+- 22.5.6 Impact of Neoadjuvant Therapy on Surgical Planning
+
+## 22.6 Future Directions in Surgical Oncology
+- 22.6.1 Intraoperative Molecular Imaging
+- 22.6.2 Tumor-Specific Fluorescence Guidance
+- 22.6.3 Artificial Intelligence Applications
+- 22.6.4 Novel Energy Devices and Surgical Tools
+- 22.6.5 Integration with Precision Medicine
+
+# Chapter 23: Chemotherapy
+
+## 23.1 Principles of Chemotherapy: Mechanism of Action
+- 23.1.1 Historical Development of Chemotherapy
+- 23.1.2 Cell Cycle-Specific and Non-Specific Agents
+- 23.1.3 DNA Damage and Repair Mechanisms
+- 23.1.4 Interference with Mitosis and Cell Division
+- 23.1.5 Inhibition of Protein Synthesis and Function
+- 23.1.6 Disruption of Cellular Metabolism
+- 23.1.7 Principles of Dose-Response Relationships
+- 23.1.8 Log-Kill Hypothesis and Tumor Growth Kinetics
+
+## 23.2 Classes of Chemotherapeutic Agents
+- 23.2.1 Alkylating Agents
+  - 23.2.1.1 Nitrogen Mustards
+  - 23.2.1.2 Nitrosoureas
+  - 23.2.1.3 Platinum Compounds
+  - 23.2.1.4 Alkylsulfonates
+  - 23.2.1.5 Triazines and Hydrazines
+- 23.2.2 Antimetabolites
+  - 23.2.2.1 Folate Antagonists
+  - 23.2.2.2 Purine Analogues
+  - 23.2.2.3 Pyrimidine Analogues
+  - 23.2.2.4 Ribonucleotide Reductase Inhibitors
+- 23.2.3 Antitumor Antibiotics
+  - 23.2.3.1 Anthracyclines
+  - 23.2.3.2 Bleomycin
+  - 23.2.3.3 Mitomycin
+  - 23.2.3.4 Actinomycin
+- 23.2.4 Topoisomerase Inhibitors
+  - 23.2.4.1 Topoisomerase I Inhibitors
+  - 23.2.4.2 Topoisomerase II Inhibitors
+- 23.2.5 Antimicrotubule Agents
+  - 23.2.5.1 Vinca Alkaloids
+  - 23.2.5.2 Taxanes
+  - 23.2.5.3 Epothilones
+- 23.2.6 Miscellaneous Agents
+  - 23.2.6.1 L-Asparaginase
+  - 23.2.6.2 Hydroxyurea
+  - 23.2.6.3 Procarbazine
+  - 23.2.6.4 Estramustine
+
+## 23.3 Pharmacology and Pharmacokinetics
+- 23.3.1 Drug Absorption and Bioavailability
+  - 23.3.1.1 Oral Administration
+  - 23.3.1.2 Parenteral Administration
+  - 23.3.1.3 Novel Delivery Systems
+- 23.3.2 Drug Distribution
+  - 23.3.2.1 Volume of Distribution
+  - 23.3.2.2 Protein Binding
+  - 23.3.2.3 Blood-Brain Barrier Penetration
+  - 23.3.2.4 Tumor Penetration and the Enhanced Permeability and Retention Effect
+- 23.3.3 Drug Metabolism
+  - 23.3.3.1 Phase I and Phase II Metabolism
+  - 23.3.3.2 Cytochrome P450 System
+  - 23.3.3.3 Prodrug Activation
+  - 23.3.3.4 Pharmacogenomics and Metabolic Variability
+- 23.3.4 Drug Elimination
+  - 23.3.4.1 Renal Clearance
+  - 23.3.4.2 Hepatobiliary Elimination
+  - 23.3.4.3 Drug Interactions Affecting Elimination
+  - 23.3.4.4 Clearance in Special Populations
+- 23.3.5 Pharmacodynamics
+  - 23.3.5.1 Dose-Response Relationships
+  - 23.3.5.2 Area Under the Curve (AUC) Concepts
+  - 23.3.5.3 Maximum Tolerated Dose
+  - 23.3.5.4 Therapeutic Drug Monitoring
+
+## 23.4 Drug Resistance
+- 23.4.1 Intrinsic vs. Acquired Resistance
+- 23.4.2 Cellular Mechanisms of Resistance
+  - 23.4.2.1 Decreased Drug Uptake
+  - 23.4.2.2 Increased Drug Efflux
+  - 23.4.2.3 Drug Inactivation
+  - 23.4.2.4 Altered Drug Targets
+  - 23.4.2.5 Enhanced DNA Repair
+  - 23.4.2.6 Apoptosis Evasion
+- 23.4.3 Molecular Basis of Resistance
+  - 23.4.3.1 P-glycoprotein and Multidrug Resistance
+  - 23.4.3.2 Multidrug Resistance-Associated Protein (MRP)
+  - 23.4.3.3 Breast Cancer Resistance Protein (BCRP)
+  - 23.4.3.4 Dihydrofolate Reductase Amplification
+  - 23.4.3.5 Glutathione S-Transferase Overexpression
+  - 23.4.3.6 Metallothionein Overexpression
+- 23.4.4 Tumor Microenvironment and Resistance
+  - 23.4.4.1 Hypoxia-Mediated Resistance
+  - 23.4.4.2 Acidic Microenvironment
+  - 23.4.4.3 Cell Adhesion-Mediated Resistance
+  - 23.4.4.4 Stromal Cell Interactions
+- 23.4.5 Cancer Stem Cells and Resistance
+- 23.4.6 Strategies to Overcome Resistance
+  - 23.4.6.1 Combination Therapy
+  - 23.4.6.2 Drug Efflux Inhibitors
+  - 23.4.6.3 Dose-Dense Scheduling
+  - 23.4.6.4 Nanoparticle Delivery Systems
+  - 23.4.6.5 Epigenetic Modifiers
+
+## 23.5 Side Effects and Supportive Care
+- 23.5.1 Hematologic Toxicities
+  - 23.5.1.1 Neutropenia and Infection Risk
+  - 23.5.1.2 Anemia Management
+  - 23.5.1.3 Thrombocytopenia and Bleeding
+  - 23.5.1.4 Use of Growth Factors
+- 23.5.2 Gastrointestinal Toxicities
+  - 23.5.2.1 Nausea and Vomiting
+  - 23.5.2.2 Mucositis
+  - 23.5.2.3 Diarrhea
+  - 23.5.2.4 Constipation
+  - 23.5.2.5 Nutrition Support
+- 23.5.3 Organ-Specific Toxicities
+  - 23.5.3.1 Cardiotoxicity
+  - 23.5.3.2 Nephrotoxicity
+  - 23.5.3.3 Hepatotoxicity
+  - 23.5.3.4 Pulmonary Toxicity
+  - 23.5.3.5 Neurotoxicity
+- 23.5.4 Cutaneous and Mucosal Toxicities
+  - 23.5.4.1 Alopecia
+  - 23.5.4.2 Skin Rash and Hyperpigmentation
+  - 23.5.4.3 Nail Changes
+  - 23.5.4.4 Hand-Foot Syndrome
+- 23.5.5 Reproductive and Endocrine Toxicities
+  - 23.5.5.1 Gonadal Dysfunction
+  - 23.5.5.2 Fertility Preservation
+  - 23.5.5.3 Endocrine Disruption
+- 23.5.6 Secondary Malignancies
+  - 23.5.6.1 Therapy-Related Myeloid Neoplasms
+  - 23.5.6.2 Solid Tumor Induction
+  - 23.5.6.3 Risk Assessment and Surveillance
+- 23.5.7 Supportive Care Strategies
+  - 23.5.7.1 Antiemetic Protocols
+  - 23.5.7.2 Pain Management
+  - 23.5.7.3 Infection Prophylaxis
+  - 23.5.7.4 Psychosocial Support
+  - 23.5.7.5 Patient Education and Self-Management
+
+## 23.6 Conclusion and Clinical Significance
+- 23.6.1 Evolution of Chemotherapy in Cancer Care
+- 23.6.2 Integration with Other Treatment Modalities
+- 23.6.3 Therapeutic Index and Treatment Decision-Making
+- 23.6.4 Future Directions in Conventional Chemotherapy
+  - 23.6.4.1 Novel Formulations and Delivery Systems
+  - 23.6.4.2 Pharmacogenomic-Guided Therapy
+  - 23.6.4.3 Drug Repurposing
+- 23.6.5 Transition to Targeted and Precision Approaches
+- 23.6.6 Ongoing Role in the Era of Immunotherapy
 **Chapter 24: Targeted Therapy**
 - 24.1 Principles of Molecular Targeting
   - 24.1.1 Target Selection and Validation
@@ -687,13 +916,161 @@
 - 25.9 Resistance Mechanisms and Second-Line Therapies
 - 25.10 Future Directions
 
-**Chapter 26: Cancer Immunotherapy**
-- 26.1 Fundamentals of Cancer Immunology
-- 26.2 Immune Checkpoint Inhibitors
-- 26.3 CAR T-cell Therapy and Other Adoptive Cell Therapies
-- 26.4 Cancer Vaccines
-- 26.5 Cytokine Therapy
-- 26.6 Immune-Related Adverse Events
+# Chapter 26: Cancer Immunotherapy (Expanded)
+
+## 26.1 Fundamentals of Cancer Immunology
+- 26.1.1 Historical Development of Cancer Immunotherapy
+- 26.1.2 Immune Surveillance and Evasion
+  - 26.1.2.1 Cancer Immunoediting Concept
+  - 26.1.2.2 Mechanisms of Immune Escape
+- 26.1.3 Innate and Adaptive Immune Responses to Cancer
+- 26.1.4 Tumor Antigens and Neoantigens
+- 26.1.5 Tumor Microenvironment and Immune Suppression
+
+## 26.2 Immune Checkpoint Inhibitors
+- 26.2.1 Mechanism of Action
+  - 26.2.1.1 CTLA-4 Pathway
+  - 26.2.1.2 PD-1/PD-L1 Pathway
+  - 26.2.1.3 Other Checkpoint Pathways (LAG-3, TIM-3, TIGIT)
+- 26.2.2 Approved Checkpoint Inhibitors
+  - 26.2.2.1 Anti-CTLA-4 Antibodies
+  - 26.2.2.2 Anti-PD-1 Antibodies
+  - 26.2.2.3 Anti-PD-L1 Antibodies
+  - 26.2.2.4 Combination Approaches
+- 26.2.3 Clinical Applications and Efficacy
+  - 26.2.3.1 Melanoma
+  - 26.2.3.2 Non-Small Cell Lung Cancer
+  - 26.2.3.3 Renal Cell Carcinoma
+  - 26.2.3.4 Urothelial Carcinoma
+  - 26.2.3.5 Hematologic Malignancies
+  - 26.2.3.6 Other Solid Tumors
+- 26.2.4 Biomarkers for Response
+  - 26.2.4.1 PD-L1 Expression
+  - 26.2.4.2 Tumor Mutational Burden
+  - 26.2.4.3 Microsatellite Instability
+  - 26.2.4.4 Tumor-Infiltrating Lymphocytes
+  - 26.2.4.5 Emerging Biomarkers
+- 26.2.5 Resistance Mechanisms
+  - 26.2.5.1 Primary Resistance
+  - 26.2.5.2 Acquired Resistance
+  - 26.2.5.3 Strategies to Overcome Resistance
+
+## 26.3 CAR T-cell Therapy and Other Adoptive Cell Therapies
+- 26.3.1 Chimeric Antigen Receptor (CAR) T-cell Therapy
+  - 26.3.1.1 CAR Design and Generations
+  - 26.3.1.2 Manufacturing Process
+  - 26.3.1.3 Approved CAR T-cell Products
+  - 26.3.1.4 Clinical Applications in Hematologic Malignancies
+  - 26.3.1.5 Challenges in Solid Tumors
+  - 26.3.1.6 Toxicity Management (CRS, ICANS)
+  - 26.3.1.7 Resistance Mechanisms
+- 26.3.2 Tumor-Infiltrating Lymphocyte (TIL) Therapy
+  - 26.3.2.1 TIL Isolation and Expansion
+  - 26.3.2.2 Clinical Applications
+  - 26.3.2.3 Patient Selection
+  - 26.3.2.4 Toxicity Profile
+- 26.3.3 T-Cell Receptor (TCR) Engineered T Cells
+  - 26.3.3.1 TCR Discovery and Engineering
+  - 26.3.3.2 Clinical Development
+  - 26.3.3.3 Advantages and Limitations
+- 26.3.4 Natural Killer (NK) Cell Therapies
+  - 26.3.4.1 Allogeneic NK Cell Approaches
+  - 26.3.4.2 CAR NK Cells
+  - 26.3.4.3 NK Cell Engagers
+- 26.3.5 Next-Generation Cell Therapies
+  - 26.3.5.1 Universal/Allogeneic Approaches
+  - 26.3.5.2 Logic-Gated CAR T Cells
+  - 26.3.5.3 In Vivo Engineering
+  - 26.3.5.4 Combination with Other Immunotherapies
+
+## 26.4 Cancer Vaccines
+- 26.4.1 Principles of Therapeutic Cancer Vaccines
+- 26.4.2 Vaccine Platforms
+  - 26.4.2.1 Peptide-Based Vaccines
+  - 26.4.2.2 Dendritic Cell Vaccines
+  - 26.4.2.3 Viral Vector Vaccines
+  - 26.4.2.4 Tumor Cell Vaccines
+  - 26.4.2.5 Genetic Vaccines (DNA, mRNA)
+- 26.4.3 Personalized Neoantigen Vaccines
+  - 26.4.3.1 Neoantigen Discovery
+  - 26.4.3.2 Vaccine Manufacturing
+  - 26.4.3.3 Clinical Development
+- 26.4.4 Approved Cancer Vaccines
+  - 26.4.4.1 Sipuleucel-T for Prostate Cancer
+  - 26.4.4.2 Oncolytic Viral Vaccines
+- 26.4.5 Combination with Checkpoint Inhibitors
+- 26.4.6 Challenges and Future Directions
+
+## 26.5 Cytokine Therapy
+- 26.5.1 Historical Context of Cytokine Therapy
+- 26.5.2 Interferon Therapy
+  - 26.5.2.1 Mechanism of Action
+  - 26.5.2.2 Clinical Applications
+  - 26.5.2.3 Toxicity Management
+- 26.5.3 Interleukin-2 Therapy
+  - 26.5.3.1 High-Dose IL-2
+  - 26.5.3.2 Low-Dose Regimens
+  - 26.5.3.3 Modified IL-2 Formulations
+- 26.5.4 Emerging Cytokine Approaches
+  - 26.5.4.1 IL-15 and IL-15 Superagonists
+  - 26.5.4.2 IL-12 Based Therapies
+  - 26.5.4.3 Engineered Cytokines
+  - 26.5.4.4 Targeted Cytokine Delivery
+
+## 26.6 Immune-Related Adverse Events
+- 26.6.1 Pathophysiology of Immune-Related Adverse Events
+- 26.6.2 Organ-Specific Toxicities
+  - 26.6.2.1 Dermatologic Toxicities
+  - 26.6.2.2 Gastrointestinal Toxicities
+  - 26.6.2.3 Endocrine Toxicities
+  - 26.6.2.4 Pulmonary Toxicities
+  - 26.6.2.5 Hepatic Toxicities
+  - 26.6.2.6 Neurologic Toxicities
+  - 26.6.2.7 Cardiac Toxicities
+  - 26.6.2.8 Rheumatologic Toxicities
+  - 26.6.2.9 Rare Toxicities
+- 26.6.3 Management Guidelines
+  - 26.6.3.1 Grading Systems
+  - 26.6.3.2 Treatment Algorithms
+  - 26.6.3.3 Corticosteroid Use
+  - 26.6.3.4 Steroid-Refractory Cases
+- 26.6.4 Long-Term Management and Surveillance
+- 26.6.5 Impact on Treatment Outcomes
+
+## 26.7 Biomarkers and Patient Selection
+- 26.7.1 Predictive Biomarkers
+  - 26.7.1.1 Tumor-Intrinsic Factors
+  - 26.7.1.2 Immune Microenvironment Factors
+  - 26.7.1.3 Host Factors
+- 26.7.2 Monitoring Biomarkers
+  - 26.7.2.1 Liquid Biopsy Approaches
+  - 26.7.2.2 Imaging Biomarkers
+  - 26.7.2.3 Immune Cell Monitoring
+- 26.7.3 Resistance Biomarkers
+- 26.7.4 Toxicity Prediction
+
+## 26.8 Combination Strategies
+- 26.8.1 Rationale for Combination Approaches
+- 26.8.2 Immunotherapy Combinations
+  - 26.8.2.1 Dual Checkpoint Blockade
+  - 26.8.2.2 Checkpoint Inhibitors with Cytokines
+  - 26.8.2.3 Checkpoint Inhibitors with Vaccines
+- 26.8.3 Immunotherapy with Conventional Therapies
+  - 26.8.3.1 Chemotherapy Combinations
+  - 26.8.3.2 Radiotherapy Combinations
+  - 26.8.3.3 Targeted Therapy Combinations
+- 26.8.4 Novel Combination Approaches
+  - 26.8.4.1 Microbiome Modulation
+  - 26.8.4.2 Metabolic Reprogramming
+  - 26.8.4.3 Epigenetic Modifiers
+
+## 26.9 Future Directions in Cancer Immunotherapy
+- 26.9.1 Novel Immune Targets
+- 26.9.2 Engineering Immune Cells
+- 26.9.3 Microbiome Modulation
+- 26.9.4 Immunotherapy in Special Populations
+- 26.9.5 Cost and Access Considerations
+
 
 **Chapter 27: Gene Therapy and Oncolytic Virotherapy**
 - 27.1 Principles of Gene Therapy for Cancer
@@ -1156,6 +1533,207 @@
   - 41.6.3 Futility Considerations
   - 41.6.4 Moral Distress
   
-  
+  # Chapter 42: Psycho-Oncology (New Chapter)
+
+## 42.1 Psychological Impact of Cancer
+- 42.1.1 Prevalence of Psychological Distress in Cancer
+- 42.1.2 Cancer-Specific Stressors
+- 42.1.3 Trajectory of Psychological Response
+- 42.1.4 Risk Factors for Psychological Distress
+- 42.1.5 Impact on Treatment Adherence and Outcomes
+
+## 42.2 Assessment of Psychological Distress
+- 42.2.1 Screening Tools and Approaches
+- 42.2.2 Diagnostic Considerations
+- 42.2.3 Integration into Cancer Care
+- 42.2.4 Special Populations Assessment
+- 42.2.5 Barriers to Assessment
+
+## 42.3 Common Psychological Disorders in Cancer
+- 42.3.1 Adjustment Disorders
+- 42.3.2 Depression in Cancer Patients
+- 42.3.3 Anxiety Disorders
+- 42.3.4 Post-Traumatic Stress
+- 42.3.5 Delirium and Cognitive Disorders
+- 42.3.6 Substance Use Disorders
+
+## 42.4 Interventional Approaches
+- 42.4.1 Psychotherapeutic Interventions
+- 42.4.2 Pharmacological Management
+- 42.4.3 Integrated Psycho-Social Support
+- 42.4.4 Digital Mental Health Interventions
+- 42.4.5 Crisis Management
+
+## 42.5 Family and Caregiver Support
+- 42.5.1 Caregiver Burden and Distress
+- 42.5.2 Family Systems Approach
+- 42.5.3 Interventions for Families and Caregivers
+- 42.5.4 Bereavement Support
+
+## 42.6 Existential and Spiritual Dimensions
+- 42.6.1 Meaning-Making in Cancer
+- 42.6.2 Spiritual Distress Assessment
+- 42.6.3 Existential Interventions
+- 42.6.4 Integration of Spiritual Care
+
+## 42.7 Implementation of Psycho-Oncology Services
+- 42.7.1 Models of Care Delivery
+- 42.7.2 Interdisciplinary Collaboration
+- 42.7.3 Training Healthcare Providers
+- 42.7.4 Telehealth Applications
+- 42.7.5 Resource-Limited Settings
+
+# Chapter 43: Digital Health in Oncology (New Chapter)
+
+## 43.1 Foundations of Digital Health in Cancer Care
+- 43.1.1 Evolution of Digital Health Technologies
+- 43.1.2 Current Landscape of Digital Oncology
+- 43.1.3 Regulatory Framework for Digital Health Tools
+- 43.1.4 Data Security and Privacy Considerations
+- 43.1.5 Ethical Issues in Digital Oncology
+
+## 43.2 Telehealth and Virtual Care Models
+- 43.2.1 Synchronous Telehealth Models
+- 43.2.2 Asynchronous Platforms
+- 43.2.3 Virtual Multidisciplinary Tumor Boards
+- 43.2.4 Remote Patient Monitoring
+- 43.2.5 Evidence for Telehealth Interventions
+- 43.2.6 Implementation Considerations
+
+## 43.3 Mobile Health Applications
+- 43.3.1 Symptom Monitoring Applications
+- 43.3.2 Treatment Adherence Tools
+- 43.3.3 Survivorship Support Applications
+- 43.3.4 Lifestyle Modification Apps
+- 43.3.5 Integration with Electronic Health Records
+- 43.3.6 Quality Assessment of Cancer Apps
+
+## 43.4 Wearable Technologies and Sensors
+- 43.4.1 Activity Monitoring Devices
+- 43.4.2 Physiologic Parameter Monitoring
+- 43.4.3 Implantable Sensors
+- 43.4.4 Applications in Treatment Monitoring
+- 43.4.5 Clinical Validation and Implementation
+
+## 43.5 Artificial Intelligence in Cancer Care
+- 43.5.1 Machine Learning for Cancer Diagnosis
+- 43.5.2 AI in Imaging Analysis
+- 43.5.3 Predictive Analytics for Treatment Response
+- 43.5.4 AI-Assisted Clinical Decision Support
+- 43.5.5 Natural Language Processing Applications
+- 43.5.6 Validation and Clinical Integration
+
+## 43.6 Digital Pathology and Molecular Diagnostics
+- 43.6.1 Digital Pathology Platforms
+- 43.6.2 AI-Assisted Pathology
+- 43.6.3 Remote Molecular Tumor Boards
+- 43.6.4 Digital Genomics Platforms
+- 43.6.5 Integration with Clinical Workflows
+
+## 43.7 Virtual and Augmented Reality Applications
+- 43.7.1 Surgical Planning and Guidance
+- 43.7.2 Radiation Therapy Planning
+- 43.7.3 Patient Education Tools
+- 43.7.4 Symptom Management Applications
+- 43.7.5 Clinical Training Applications
+
+## 43.8 Digital Health in Clinical Trials
+- 43.8.1 Patient Recruitment and Enrollment
+- 43.8.2 Electronic Patient-Reported Outcomes
+- 43.8.3 Remote Data Collection
+- 43.8.4 Decentralized Trial Models
+- 43.8.5 Real-World Evidence Generation
+
+## 43.9 Implementation Science and Barriers
+- 43.9.1 Implementation Frameworks
+- 43.9.2 Digital Health Literacy
+- 43.9.3 Healthcare Provider Adoption
+- 43.9.4 Health System Integration
+- 43.9.5 Reimbursement and Financial Models
+- 43.9.6 Digital Divide and Health Equity
+
+## 43.10 Future Directions
+- 43.10.1 Integration of Multi-Modal Digital Tools
+- 43.10.2 Digital Twins in Oncology
+- 43.10.3 Blockchain Applications
+- 43.10.4 Novel Sensor Technologies
+- 43.10.5 Global Digital Health Initiatives
+
+# Chapter 44: Integrative Oncology (New Chapter)
+
+## 44.1 Foundations of Integrative Oncology
+- 44.1.1 Definition and Scope
+- 44.1.2 Historical Development and Current Practice
+- 44.1.3 Evidence-Based Framework
+- 44.1.4 Integration with Conventional Cancer Care
+- 44.1.5 Prevalence of Use Among Cancer Patients
+
+## 44.2 Mind-Body Interventions
+- 44.2.1 Meditation and Mindfulness-Based Stress Reduction
+- 44.2.2 Yoga for Cancer Patients
+- 44.2.3 Tai Chi and Qigong
+- 44.2.4 Guided Imagery and Hypnosis
+- 44.2.5 Biofeedback
+- 44.2.6 Evidence Base and Clinical Applications
+
+## 44.3 Nutritional Approaches
+- 44.3.1 Dietary Patterns in Cancer Care
+- 44.3.2 Specific Nutritional Interventions
+- 44.3.3 Fasting and Caloric Restriction
+- 44.3.4 Ketogenic Diet
+- 44.3.5 Dietary Supplements
+- 44.3.6 Evidence Base and Interaction Concerns
+
+## 44.4 Physical Activity and Exercise
+- 44.4.1 Exercise Physiology in Cancer
+- 44.4.2 Aerobic Exercise Interventions
+- 44.4.3 Resistance Training
+- 44.4.4 Exercise During Active Treatment
+- 44.4.5 Survivorship Exercise Programs
+- 44.4.6 Evidence Base and Implementation
+
+## 44.5 Botanical and Natural Products
+- 44.5.1 Common Botanicals Used in Cancer Care
+- 44.5.2 Mechanisms of Action
+- 44.5.3 Drug-Herb Interactions
+- 44.5.4 Quality Control and Standardization
+- 44.5.5 Evidence Base for Specific Products
+- 44.5.6 Clinical Considerations
+
+## 44.6 Acupuncture and Traditional Medicine Systems
+- 44.6.1 Acupuncture Principles and Techniques
+- 44.6.2 Applications in Symptom Management
+- 44.6.3 Traditional Chinese Medicine Approaches
+- 44.6.4 Ayurvedic Medicine in Cancer Care
+- 44.6.5 Evidence Base and Integration Models
+
+## 44.7 Manual Therapies
+- 44.7.1 Massage Therapy
+- 44.7.2 Lymphatic Drainage
+- 44.7.3 Chiropractic Care
+- 44.7.4 Reflexology
+- 44.7.5 Evidence Base and Precautions
+
+## 44.8 Energy Therapies
+- 44.8.1 Reiki and Therapeutic Touch
+- 44.8.2 Biofield Therapies
+- 44.8.3 Electromagnetic Field Therapies
+- 44.8.4 Evidence Evaluation
+- 44.8.5 Integration Considerations
+
+## 44.9 Patient Communication and Decision Support
+- 44.9.1 Discussing Integrative Approaches
+- 44.9.2 Evaluating Evidence with Patients
+- 44.9.3 Navigating Unproven Therapies
+- 44.9.4 Documentation and Coordination
+- 44.9.5 Shared Decision-Making Tools
+
+## 44.10 Implementation and Future Directions
+- 44.10.1 Models of Integrative Oncology Services
+- 44.10.2 Provider Education and Training
+- 44.10.3 Research Priorities
+- 44.10.4 Reimbursement and Access Issues
+- 44.10.5 Policy Considerations
+
   
   
