@@ -54,7 +54,7 @@ The incidence of colon and rectal cancers varies about 25-fold from the high-inc
 - **Breast cancer**: Breast cancer is increasing in incidence everywhere, but more so where rates historically have been low. In China, annual increases of 3 to 4 percent are reported
 - **Liver cancer**: Although it is sixth in incidence worldwide, it is third in mortality, after lung and stomach cancers. With 5-year survival at 5 percent or less even in developed countries
 
-### 3.1.3 Temporal Trends in Cancer Incidence and Mortality (Enhanced)
+### 3.1.3 Temporal Trends in Cancer Incidence and Mortality
 
 #### Overall Trends in Cancer Incidence and Mortality
 
@@ -144,19 +144,41 @@ Major genes are typically considered those that are involved in single-gene diso
 
 The polymorphic susceptibility genes or genetic variants are generally associated with low penetrance and low relative and absolute risks, but they are very common in the population (more than 1 percent) and may be involved in a high proportion of cancers through biologic interactions with environmental or endogenous exposures.
 
-### 3.2.3 Evidence for Environmental Contributions
+### 3.2.3 Evidence for Environmental Contributions 
 
-**Migration Studies**
+#### Gene-Environment Interaction Framework
+
+Recent investigations have pointed out that gene–environmental interactions represent one of the major risk factors associated with cancer etiology. Scientific studies have indicated that genetic polymorphisms are involved in the activation of several biological processes, such as apoptosis, DNA synthesis and methylation, cell cycle regulation, and transcription.
 
 A growing body of knowledge dramatically illustrates the influence of the environment, genes, and their interactions in the international variation reported in cancer incidence. A variety of linkages clearly exist between environmental exposures, diet, lifestyle factors, and cancer.
 
-**Population Attributable Fractions**
+#### Environmental Exposure Significance
 
-The population attributable fraction (PAF) is a standard measure used to quantify the proportion of disease burden attributable to a risk factor. It is calculated using information on the prevalence of a risk factor in a population and the relative risk that the risk factor poses for development of disease.
+Environmental exposures are responsible for 70%–90% of disease risk. While genetic studies commonly estimate heritability, defined as the proportion of phenotypic variation due to genetic variability, estimating the proportion of variability due to the exposome is challenging because of issues with direct exposure measurements.
 
-**Environmental Carcinogen Evidence**
+Multiple, often interacting, genetic and environmental risk factors contribute to the development of diseases, with an estimated 50%–80% of overall disease etiology based on environmental factors.
 
-The available epidemiologic evidence indicates that while environmental exposures drive the demographic patterns for most cancers, there are growing indications that gene variants may have a sizable impact on cancer development by modifying the effects of exogenous or endogenous risk factors.
+#### Mechanistic Understanding
+
+An increase in the amount of carcinogens in the environment has contributed to a global increase in cancer incidence. When carcinogens directly contribute to tumor development, often through a combination of somatic mutations and epigenetic modifications, these changes can directly result in genotype-dependent alterations impacting DNA repair mechanisms or gene regulatory mechanisms.
+
+Much of the work on identifying functional polymorphisms that influence an individual's cancer risk has focused on gene products involved in the activation and detoxification of carcinogens and, more recently, on DNA repair.
+
+#### Complex Interaction Patterns
+
+Several epidemiological and experimental studies have demonstrated that many human diseases are not only caused by specific genetic and environmental factors but also by gene–environment interactions. Scientific evidence suggests that the etiology of many chronic illnesses is caused by the joint effect between genetics and the environment.
+
+While lifestyle choices or behavioral patterns remain the most significant factors influencing cancer risk, environmental exposure to certain chemicals, both manufactured and natural, may also contribute to an individual's likelihood of developing cancer. This interplay of factors, coupled with an aging demographic and shifting lifestyle patterns, has led to an increasing prevalence of cancer in recent years.
+
+#### Examples of Gene-Environment Interactions
+
+Such gene–environment interactions have been identified for bladder cancer, where smokers carrying variants in two carcinogen-metabolising genes (NAT2 and GSTM1) are at higher risk of disease compared with non-smokers, as well as for oesophageal squamous cell carcinoma, where alcohol users carrying variants in the alcohol-metabolising pathway (ADH1B and ALDH2) are at higher risk compared with non-users.
+
+Lesseur et al. performed a study in New Hampshire to examine the interactions between genes and the environment. Specifically, they investigated the effects of genetic variations and low levels of arsenic exposure on a community. The researchers highlighted that the likelihood of developing bladder cancer may be linked to the genetic variation in a gene responsible for arsenic metabolism and oxidative stress.
+
+#### Air Pollution and Cancer
+
+The World Health Organization (WHO) has estimated that exposure to ozone and ambient air pollution, defined in their global burden estimates as particulate matter with a diameter less than or equal to 2.5 µm (PM2.5), can be attributed to 4 to 9 million global deaths annually. Studies investigating the associations between PM2.5 and adverse health outcomes have implicated the particulate matter in the initiation and progression of multiple diseases including cardiovascular disease, asthma, and lung cancer, with the International Agency for Research on Cancer classifying both outdoor pollution and its relevant constituents as carcinogenic to humans.
 
 ### 3.2.4 Integrating Genetic and Environmental Factors
 
@@ -214,59 +236,87 @@ The global network of World Cancer Research Fund (WCRF) International comprises 
 
 Discoveries that both essential and nonessential dietary nutrients can markedly influence several key biological events—including cell cycle regulation, processes involved in replication or transcription, immunocompetence, and factors involved with apoptosis, or programmed cell death—have strengthened convictions that specific foods or components may markedly influence cancer risk.
 
-## 3.4 Environmental and Occupational Cancer Risks
+## 3.4 Environmental and Occupational Cancer Risks 
 
-### 3.4.1 Environmental Carcinogens
+### Scope of Environmental and Occupational Carcinogens
 
-**Environmental Pollution**
+As of 2007, the International Agency for Research on Cancer (IARC) identified 415 known or suspected carcinogens. Cancer arises through an extremely complicated web of multiple causes, and we will likely never know the full range of agents or combinations of agents.
 
-Environmental pollution of air, water and soil with carcinogenic chemicals accounts for 1–4% of all cancers. Exposure to carcinogenic chemicals in the environment can occur through drinking water or pollution of indoor and ambient air. In Bangladesh, 5–10% of all cancer deaths in an arsenic-contaminated region were attributable to arsenic exposure.
+The recognition of occupational carcinogens is important for primary prevention, compensation and surveillance of exposed workers, as well as identifying causes of cancer in the general population. A total of 120 agents were substances, mixtures or types of radiation classified in IARC Group 1 with 'sufficient evidence of carcinogenicity' in humans from studies of exposed workers and evidence of occupational exposure documented in the apposite monograph.
 
-**Indoor Air Pollution**
+### Global Burden of Occupational Cancer
 
-Indoor air pollution from coal fires doubles the risk of lung cancer, particularly among non-smoking women. Worldwide, indoor air pollution from domestic coal fires is responsible for approximately 1.5% of all lung cancer deaths. Coal use in households is particularly widespread in Asia.
+Occupational exposure to carcinogens is a major cause of death and disability worldwide, with an estimated occurrence of 666 000 fatal work-related cancers annually. Occupational carcinogens have been shown to cause a considerable disease burden at a national and global level. The WHO Comparative Risk Assessment project was the first attempt to produce comprehensive global estimates of the nature and extent of the burden of cancer arising from occupational exposures.
 
-### 3.4.2 Occupational Carcinogens
+### Environmental Carcinogen Burden
 
-**Occupational Exposures**
+Despite small relative risks of cancer from exposure to environmental carcinogens, attributable risks have the potential to be large because of the high prevalence of exposure. The World Health Organization (WHO) estimates that 20% of cancers worldwide are attributable to environmental risks, predominantly air pollution, management of chemicals, radiation, and workers' protection.
 
-More than 40 agents, mixtures and exposure circumstances in the working environment are carcinogenic to humans and are classified as occupational carcinogens. That occupational carcinogens are causally related to cancer of the lung, bladder, larynx and skin, leukaemia and nasopharyngeal cancer is well documented. Mesothelioma (cancer of the outer lining of the lung or chest cavity) is to a large extent caused by work-related exposure to asbestos.
+The cancer burden from environmental agents varies by the degree of industrialization of the country. A unifying characteristic of these agents is the involuntary nature of their exposure from environmental and occupational settings.
 
-**High-Risk Occupations**
+### Specific Occupational Carcinogens
 
-Examples of exposures that increase risk for hematologic malignancies include benzene (and other organic solvents), pesticides, radiation, and chemotherapy. The latency period between initial exposure and diagnosis of a secondary HM is 2 to 3 years for patients who were exposed to topoisomerase II inhibitors and 5 to 7 years for those who were exposed to alkylating agents or radiation therapy.
+Table 2.10.1 lists 50 occupational agents, occupations, and industries that have been classified as carcinogenic to humans (Group 1). The table explicitly distinguishes between 38 chemical or physical agents and 12 occupations and industries that involve an increased risk of cancer but for which the responsible agent has not been specified.
 
-## 3.5 Cancer Health Disparities and Social Determinants
+Because tobacco smoking is a potent carcinogen, secondary causes of lung cancer are often diminished in perceived importance. The goal of this review is to describe the occurrence and recent findings of the 27 agents currently listed by the International Agency for Research on Cancer (IARC) as lung carcinogens.
 
-### 3.5.1 Conceptualizing Cancer Disparities
+### Environmental Exposure Routes and Sources
 
-**Human Development and Cancer**
+Risk of cancer can increase through exposure to cancer-causing agents, also referred to as "carcinogens". These agents may be biological (specific viruses or bacteria), physical (ultraviolet light, X-rays) or chemical. Chemicals related to environmental pollution appear to be of critical importance. Of major concern are: outdoor air pollution by carbon particles associated with polycyclic aromatic hydrocarbons; indoor air pollution by environmental tobacco smoke.
 
-Human development plays a critical role in understanding the shifting scale and profile of cancer globally. The Human Development Index (HDI), with a four-tier categorization of countries as having low, medium, high, or very high HDI, provides a useful framework for assessing the global cancer burden geographically and over time.
+The EPA's Integrated Risk Information System (IRIS) program created in 1985 identifies and characterizes human health hazards associated with chemicals found in the environment. To date, the IRIS's weight-of-evidence approach has identified over 150 of such chemicals as carcinogenic, likely to be carcinogenic, or suggestive evidence of carcinogenic potential.
 
-**Epidemiological Transition**
+### Challenges in Environmental Carcinogen Research
 
-Omran's theory of epidemiological transition focused on how changing health and disease patterns interact with societal, economic, and demographic factors. In the third stage of the transition, the model describes how chronic diseases increase as life expectancy rises beyond age 70 years and mortality from degenerative diseases is postponed to older ages.
+Since our 2005 review, over one-hundred epidemiological studies have been published investigating the link between environmental and/or occupational exposures and cancer, based on our MEDLINE search. However, we as a society have repeatedly failed to act on this body of evidence to reduce and/or eliminate exposure to carcinogens wherever possible.
 
-### 3.5.2 Global Cancer Disparities
+We argue for a new cancer prevention paradigm, one that is based on an understanding that cancer is ultimately caused by multiple interacting factors rather than a paradigm based on dubious attributable fractions. This new cancer prevention paradigm demands that we limit exposures to avoidable environmental and occupational carcinogens in combination with additional important risk factors such as diet and lifestyle.
 
-**Development Level Disparities**
+### Complex Mixtures and Emerging Concerns
 
-When assessed by specific types of cancers, YLL was observed to be the main contributor to DALYs overall. In general, individuals in countries with higher HDI were observed to live a greater number of years with disability, whereas individuals in countries with lower HDI were observed to have a greater burden of premature mortality.
+The family of polycyclic aromatic hydrocarbons poses a particular challenge. This class of chemicals includes several potent experimental carcinogens, such as benzo[a]pyrene. However, humans are always exposed to mixtures of polycyclic aromatic hydrocarbons; several sources of such mixtures are indicated in Tables 2.10.1 and 2.10.2, including coal tars, soot, and creosotes.
 
-**Resource Disparities**
+Although the risk fraction attributable to environmental factors is still unknown, this long list of carcinogenic and especially mutagenic factors supports our working hypothesis according to which numerous cancers may in fact be caused by the recent modification of our environment.
 
-The developed countries are barely able to cope up with the exponential increase in the cancer-related services, and the current situation in developing countries, that is, low- and middle-income countries (LMIC) is much worse.
+## 3.5 Cancer Health Disparities and Social Determinants 
 
-### 3.5.3 Healthcare Access and Cancer Disparities
+### Framework for Understanding Cancer Disparities
 
-**Healthcare System Factors**
+Although cancer mortality rates declined in the United States in recent decades, some populations experienced little benefit from advances in cancer prevention, early detection, treatment, and survivorship care. In fact, some cancer disparities between populations of low and high socioeconomic status widened during this period.
 
-Cancer genetics risk assessment and genetic counseling includes family history, psychosocial assessments, and education on hereditary cancer syndromes, testing, and risk. Individuals are considered to be candidates for cancer risk assessment if they have a personal and/or family history or clinical characteristics with features suggestive of hereditary cancer.
+Cancer disparities reflect the interplay among many factors, including social determinants of health, behavior, biology, and genetics—all of which can have profound effects on health, including cancer risk and outcomes. The Department of Health and Human Services defines social determinants of health as the conditions in the environments where people are born, live, learn, work, play, worship, and age that affect health, functioning, and quality of life.
 
-**Data and Surveillance Disparities**
+### Racial and Ethnic Disparities
 
-Data on the medically underserved population are not usually included in cancer statistics reports. The information could be obtained by revision of the source documents to include the necessary data or by special studies. Implementation of the required changes will take time, but the revision of source documents would have a more permanent effect.
+There are well-established disparities in cancer incidence and outcomes by race/ethnicity that result from the interplay between structural, socioeconomic, socio-environmental, behavioural and biological factors. However, large research studies designed to investigate factors contributing to cancer aetiology and progression have mainly focused on populations of European origin.
+
+Black/African American people have higher death rates than all other racial/ethnic groups for many, although not all, cancer types. Despite having slightly lower incidence rates of breast cancer than those of White women, Black/African American women are more likely than White women to die of the disease.
+
+Substantial disparities in the incidence and mortality rates for colorectal cancer (CRC) exist in the USA among racially and ethnically diverse populations. AA/Bs have the highest incidence rates of CRC (45.7/100,000) as compared with AI/ANs (43.3), NHWs (38.6), Hispanics/Latinos (34.1) and some Asian populations (30.0).
+
+### Social Determinants of Health
+
+Disparities in cancer care and outcomes between racial and ethnic groups, urban and rural populations, and socioeconomic classes are well documented and represent one of the greatest forms of injustice throughout the United States. Despite the development of increasingly efficacious treatments, survival disparities have widened over time, with known impacts based on both medical factors and social determinants of health including education, neighborhood, factors, and access to care, among others.
+
+Freeman's health disparities cancer model provides a framework for organizing racial and ethnic disparities in cancer research. The model is based on the premise that social setting contributes to disease outcome and considers 3 major variables, ie, poverty, culture, and social justice, and posits an important connection between the social determinants of health and health inequities.
+
+### Healthcare Access and Quality
+
+Socioeconomic factors and physician supply are key predictors of CRC screening. Adjustment for socioeconomic determinants explained black-white disparities; further adjustment for physician supply explained Hispanic-white disparities. Physician distribution is a potentially remediable contributor to ethnic/racial disparities in CRC screening.
+
+Research suggests that cancer disparities are driven by a combination of inequities within and beyond the health system that are rooted in racism and discrimination. People of color are more likely than their White counterparts to be uninsured and to face other barriers to accessing health care that may limit access to cancer screening, care, and treatment.
+
+### Biological and Genetic Factors
+
+For example, some evidence suggests that there are differences in the genetics, tumor biology, and immune environment of several cancers that arise in Black/African Americans compared with those that arise in people of other racial/ethnic groups. These differences may contribute to disparities in incidence, cancer growth rate, and response to treatment of these cancers.
+
+As an example of the link between genetic ancestry and burden of cancer, Black women in the U.S. have a disproportionately higher rate of developing TNBC, a particularly aggressive type of breast cancer, compared to White women. Researchers have found that TNBC is more prevalent in Black women who trace their ancestry to West Africa, and more specifically to Ghana.
+
+### Consequences of Disparities
+
+Racial disparities in breast cancer mortality have been widely documented for several decades and persist despite advances in receipt of mammography across racial groups. This persistence leads to questions about the roles of biological, social, and health system determinants of poor outcomes.
+
+Many potentially preventable cancer deaths continue to occur, and disadvantaged populations bear a disproportionate burden. Reducing the burden of cancer and eliminating cancer-related disparities will require more focused and coordinated action across multiple sectors and in partnership with communities.
 
 ## Conclusion
 
