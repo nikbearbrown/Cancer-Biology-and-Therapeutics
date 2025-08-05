@@ -318,7 +318,7 @@ Racial disparities in breast cancer mortality have been widely documented for se
 
 Many potentially preventable cancer deaths continue to occur, and disadvantaged populations bear a disproportionate burden. Reducing the burden of cancer and eliminating cancer-related disparities will require more focused and coordinated action across multiple sectors and in partnership with communities.
 
-## Conclusion
+## Summary
 
 The global cancer burden continues to evolve in response to demographic transitions, changing risk factor patterns, and varying levels of healthcare infrastructure. Changing fertility patterns and increasing life expectancy are leading to major changes in the scale of the cancer problem worldwide for populations at all levels of human development. A cancer transition is clearly underway in countries transiting to high levels of income and development whereby reductions in infection-related cancers are offset by concomitant increases in cancers linked to a "Westernization" of lifestyle.
 
