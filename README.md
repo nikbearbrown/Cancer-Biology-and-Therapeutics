@@ -2923,3 +2923,75 @@
 - [View Summary](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#summary)
 
 </details>
+
+## Chapter 32: Central Nervous System Tumors
+
+<details>
+<summary><strong>32.1 Glioblastoma Multiforme</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#321-glioblastoma-multiforme)
+- **32.1.1** [Epidemiology and Risk Factors](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3211-epidemiology-and-risk-factors)
+- **32.1.2** [Pathophysiology and Molecular Biology](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3212-pathophysiology-and-molecular-biology)
+- **32.1.3** [Clinical Presentation](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3213-clinical-presentation)
+- **32.1.4** [Diagnostic Approaches](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3214-diagnostic-approaches)
+- **32.1.5** [Treatment Strategies](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3215-treatment-strategies)
+- **32.1.6** [Prognosis and Complications](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3216-prognosis-and-complications)
+- **32.1.7** [Pediatric Considerations](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3217-pediatric-considerations)
+
+</details>
+
+<details>
+<summary><strong>32.2 Meningiomas</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#322-meningiomas)
+- **32.2.1** [Epidemiology and Risk Factors](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3221-epidemiology-and-risk-factors)
+- **32.2.2** [Pathophysiology and Classification](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3222-pathophysiology-and-classification)
+- **32.2.3** [Clinical Presentation](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3223-clinical-presentation)
+- **32.2.4** [Diagnostic Approaches](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3224-diagnostic-approaches)
+- **32.2.5** [Treatment Strategies](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3225-treatment-strategies)
+- **32.2.6** [Prognosis and Follow-up](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3226-prognosis-and-follow-up)
+
+</details>
+
+<details>
+<summary><strong>32.3 Multidisciplinary Management</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#323-multidisciplinary-management)
+- **32.3.1** [Team-Based Approach](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3231-team-based-approach)
+- **32.3.2** [Advanced Techniques](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3232-advanced-techniques)
+- **32.3.3** [Patient Education and Counseling](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3233-patient-education-and-counseling)
+
+</details>
+
+<details>
+<summary><strong>32.4 Future Directions and Research</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#324-future-directions-and-research)
+- **32.4.1** [Molecular Therapeutics](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3241-molecular-therapeutics)
+- **32.4.2** [Precision Medicine](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3242-precision-medicine)
+- **32.4.3** [Prevention and Risk Reduction](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3243-prevention-and-risk-reduction)
+
+</details>
+
+<details>
+<summary><strong>32.5 Clinical Implications for Healthcare Providers</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#325-clinical-implications-for-healthcare-providers)
+- **32.5.1** [Early Recognition](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3251-early-recognition)
+- **32.5.2** [Prognostic Communication](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3252-prognostic-communication)
+- **32.5.3** [Interprofessional Collaboration](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#3253-interprofessional-collaboration)
+
+</details>
+
+<details>
+<summary><strong>Summary</strong></summary>
+<br>
+
+- [View Summary](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#summary)
+
+</details>
