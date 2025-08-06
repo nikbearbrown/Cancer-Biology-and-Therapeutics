@@ -2056,3 +2056,85 @@
 - **21.5.8** [Summary](./Chapter%2021:%20Radiation%20Oncology.md#2158-summary)
 
 </details>
+
+## Chapter 22: Chemotherapy
+
+<details>
+<summary><strong>22.1 Principles of Chemotherapy: Mechanism of Action</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2022:%20Chemotherapy.md#221-principles-of-chemotherapy-mechanism-of-action)
+- **22.1.1** [Historical Development and Basic Principles](./Chapter%2022:%20Chemotherapy.md#2211-historical-development-and-basic-principles)
+- **22.1.2** [Fundamental Mechanisms of Cytotoxicity](./Chapter%2022:%20Chemotherapy.md#2212-fundamental-mechanisms-of-cytotoxicity)
+- **22.1.3** [Combination Chemotherapy Principles](./Chapter%2022:%20Chemotherapy.md#2213-combination-chemotherapy-principles)
+- **22.1.4** [Cellular Targets and Mechanisms](./Chapter%2022:%20Chemotherapy.md#2214-cellular-targets-and-mechanisms)
+
+</details>
+
+<details>
+<summary><strong>22.2 Classes of Chemotherapeutic Agents</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2022:%20Chemotherapy.md#222-classes-of-chemotherapeutic-agents)
+- **22.2.1** [Alkylating Agents](./Chapter%2022:%20Chemotherapy.md#2221-alkylating-agents)
+- **22.2.2** [Antimetabolites](./Chapter%2022:%20Chemotherapy.md#2222-antimetabolites)
+- **22.2.3** [Topoisomerase Inhibitors](./Chapter%2022:%20Chemotherapy.md#2223-topoisomerase-inhibitors)
+- **22.2.4** [Antimicrotubule Agents](./Chapter%2022:%20Chemotherapy.md#2224-antimicrotubule-agents)
+- **22.2.5** [Antitumor Antibiotics](./Chapter%2022:%20Chemotherapy.md#2225-antitumor-antibiotics)
+
+</details>
+
+<details>
+<summary><strong>22.3 Pharmacology and Pharmacokinetics</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2022:%20Chemotherapy.md#223-pharmacology-and-pharmacokinetics)
+- **22.3.1** [Drug Administration and Absorption](./Chapter%2022:%20Chemotherapy.md#2231-drug-administration-and-absorption)
+- **22.3.2** [Distribution and Metabolism](./Chapter%2022:%20Chemotherapy.md#2232-distribution-and-metabolism)
+- **22.3.3** [Drug-Drug Interactions](./Chapter%2022:%20Chemotherapy.md#2233-drug-drug-interactions)
+- **22.3.4** [Pharmacokinetic Principles](./Chapter%2022:%20Chemotherapy.md#2234-pharmacokinetic-principles)
+
+</details>
+
+<details>
+<summary><strong>22.4 Drug Resistance</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2022:%20Chemotherapy.md#224-drug-resistance)
+- **22.4.1** [Types of Drug Resistance](./Chapter%2022:%20Chemotherapy.md#2241-types-of-drug-resistance)
+- **22.4.2** [Mechanisms of Drug Resistance](./Chapter%2022:%20Chemotherapy.md#2242-mechanisms-of-drug-resistance)
+- **22.4.3** [Multidrug Resistance (MDR)](./Chapter%2022:%20Chemotherapy.md#2243-multidrug-resistance-mdr)
+- **22.4.4** [Clinical Implications and Strategies](./Chapter%2022:%20Chemotherapy.md#2244-clinical-implications-and-strategies)
+
+</details>
+
+<details>
+<summary><strong>22.5 Side Effects and Supportive Care</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2022:%20Chemotherapy.md#225-side-effects-and-supportive-care)
+- **22.5.1** [General Principles of Chemotherapy Toxicity](./Chapter%2022:%20Chemotherapy.md#2251-general-principles-of-chemotherapy-toxicity)
+- **22.5.2** [Hematologic Toxicity](./Chapter%2022:%20Chemotherapy.md#2252-hematologic-toxicity)
+- **22.5.3** [Gastrointestinal Toxicity](./Chapter%2022:%20Chemotherapy.md#2253-gastrointestinal-toxicity)
+- **22.5.4** [Organ-Specific Toxicities](./Chapter%2022:%20Chemotherapy.md#2254-organ-specific-toxicities)
+- **22.5.5** [Neurologic Toxicity](./Chapter%2022:%20Chemotherapy.md#2255-neurologic-toxicity)
+- **22.5.6** [Secondary Malignancies](./Chapter%2022:%20Chemotherapy.md#2256-secondary-malignancies)
+- **22.5.7** [Reproductive and Endocrine Effects](./Chapter%2022:%20Chemotherapy.md#2257-reproductive-and-endocrine-effects)
+- **22.5.8** [Supportive Care Measures](./Chapter%2022:%20Chemotherapy.md#2258-supportive-care-measures)
+- **22.5.9** [Management of Specific Toxicities](./Chapter%2022:%20Chemotherapy.md#2259-management-of-specific-toxicities)
+
+</details>
+
+<details>
+<summary><strong>22.6 Conclusion and Clinical Significance</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2022:%20Chemotherapy.md#226-conclusion-and-clinical-significance)
+- **22.6.1** [Evolution of Cancer Chemotherapy](./Chapter%2022:%20Chemotherapy.md#2261-evolution-of-cancer-chemotherapy)
+- **22.6.2** [Principles of Rational Drug Design](./Chapter%2022:%20Chemotherapy.md#2262-principles-of-rational-drug-design)
+- **22.6.3** [Contemporary Clinical Applications](./Chapter%2022:%20Chemotherapy.md#2263-contemporary-clinical-applications)
+- **22.6.4** [Future Directions](./Chapter%2022:%20Chemotherapy.md#2264-future-directions)
+- **22.6.5** [Multidisciplinary Care](./Chapter%2022:%20Chemotherapy.md#2265-multidisciplinary-care)
+- **22.6.6** [Quality and Safety Considerations](./Chapter%2022:%20Chemotherapy.md#2266-quality-and-safety-considerations)
+
+</details>
