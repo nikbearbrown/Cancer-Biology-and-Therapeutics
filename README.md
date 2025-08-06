@@ -2753,3 +2753,59 @@
 
 # Part VII: Specific Cancer Types
 
+## Chapter 30: Principles of Cancer Classification
+
+<details>
+<summary><strong>30.1 Histopathological Classification</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#301-histopathological-classification)
+- **30.1.1** [Foundations of Histopathological Classification](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3011-foundations-of-histopathological-classification)
+- **30.1.2** [WHO Classification System](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3012-who-classification-system)
+- **30.1.3** [Tissue-Specific Classification Systems](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3013-tissue-specific-classification-systems)
+- **30.1.4** [Differentiation Assessment](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3014-differentiation-assessment)
+- **30.1.5** [Specialized Grading Systems](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3015-specialized-grading-systems)
+- **30.1.6** [Morphological Patterns and Architectural Features](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3016-morphological-patterns-and-architectural-features)
+- **30.1.7** [Limitations and Challenges](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3017-limitations-and-challenges)
+
+</details>
+
+<details>
+<summary><strong>30.2 Anatomical Classification</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#302-anatomical-classification)
+- **30.2.1** [TNM Classification System](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3021-tnm-classification-system)
+- **30.2.2** [International Standardization](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3022-international-standardization)
+- **30.2.3** [Staging Categories](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3023-staging-categories)
+- **30.2.4** [Site-Specific Modifications](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3024-site-specific-modifications)
+- **30.2.5** [Clinical vs. Pathological Staging](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3025-clinical-vs-pathological-staging)
+- **30.2.6** [Prognostic Significance](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3026-prognostic-significance)
+- **30.2.7** [Limitations and Future Directions](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3027-limitations-and-future-directions)
+
+</details>
+
+<details>
+<summary><strong>30.3 Molecular and Genomic Classification</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#303-molecular-and-genomic-classification)
+- **30.3.1** [Evolution Toward Molecular Classification](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3031-evolution-toward-molecular-classification)
+- **30.3.2** [Gene Expression Profiling](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3032-gene-expression-profiling)
+- **30.3.3** [Molecular Subtypes in Specific Cancers](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3033-molecular-subtypes-in-specific-cancers)
+- **30.3.4** [Genomic Biomarkers and Prognostic Signatures](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3034-genomic-biomarkers-and-prognostic-signatures)
+- **30.3.5** [Tumor Mutational Burden and Microsatellite Instability](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3035-tumor-mutational-burden-and-microsatellite-instability)
+- **30.3.6** [Companion Diagnostics and Precision Medicine](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3036-companion-diagnostics-and-precision-medicine)
+- **30.3.7** [Molecular Classification in Specific Tumor Types](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3037-molecular-classification-in-specific-tumor-types)
+- **30.3.8** [Integration of Classification Systems](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3038-integration-of-classification-systems)
+- **30.3.9** [Challenges and Future Directions](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#3039-challenges-and-future-directions)
+
+</details>
+
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
+
+- [View Conclusion](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#conclusion)
+
+</details>
