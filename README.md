@@ -603,3 +603,30 @@
 - **9.7.2** [CDK Inhibitors as Cancer Therapeutics](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#972-cdk-inhibitors-as-cancer-therapeutics)
 
 ### [Conclusion](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#conclusion)
+
+## Chapter 10: [Apoptosis and Programmed Cell Death in Cancer](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md)
+
+### 10.1 [Pathways of Apoptosis: Intrinsic and Extrinsic](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#101-pathways-of-apoptosis-intrinsic-and-extrinsic)
+- **10.1.1** [The Intrinsic Apoptotic Pathway](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1011-the-intrinsic-apoptotic-pathway)
+- **10.1.2** [The Extrinsic Apoptotic Pathway](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1012-the-extrinsic-apoptotic-pathway)
+- **10.1.3** [Convergence and Cross-talk Between Pathways](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1013-convergence-and-cross-talk-between-pathways)
+
+### 10.2 [Evasion of Apoptosis by Cancer Cells](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#102-evasion-of-apoptosis-by-cancer-cells)
+- **10.2.1** [Dysregulation of Bcl-2 Family Proteins](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1021-dysregulation-of-bcl-2-family-proteins)
+  - [Mechanisms of Bcl-2 Dysregulation](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#mechanisms-of-bcl-2-dysregulation)
+- **10.2.2** [p53 Mutations and Apoptosis Evasion](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1022-p53-mutations-and-apoptosis-evasion)
+  - [p53-Mediated Apoptosis](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#p53-mediated-apoptosis)
+- **10.2.3** [Inhibitor of Apoptosis Proteins (IAPs)](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1023-inhibitor-of-apoptosis-proteins-iaps)
+- **10.2.4** [Death Receptor Pathway Resistance](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1024-death-receptor-pathway-resistance)
+
+### 10.3 [Therapeutic Targeting of Apoptosis](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#103-therapeutic-targeting-of-apoptosis)
+- **10.3.1** [BCL-2 Inhibitors and BH3 Mimetics](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1031-bcl-2-inhibitors-and-bh3-mimetics)
+  - [Clinical Development](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#clinical-development)
+- **10.3.2** [IAP Antagonists](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1032-iap-antagonists)
+- **10.3.3** [TRAIL and Death Receptor Agonists](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1033-trail-and-death-receptor-agonists)
+- **10.3.4** [p53 Restoration Strategies](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1034-p53-restoration-strategies)
+  - [Therapeutic Approaches](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#therapeutic-approaches)
+- **10.3.5** [Combination Therapies and Resistance](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1035-combination-therapies-and-resistance)
+  - [Clinical Significance](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#clinical-significance)
+
+### [Summary](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#summary)
