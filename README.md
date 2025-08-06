@@ -2138,3 +2138,142 @@
 - **22.6.6** [Quality and Safety Considerations](./Chapter%2022:%20Chemotherapy.md#2266-quality-and-safety-considerations)
 
 </details>
+
+## Chapter 23: Hormonal Therapies
+
+<details>
+<summary><strong>Introduction</strong></summary>
+<br>
+
+- [View Introduction](./Chapter%2023:%20Hormonal%20Therapies.md#introduction)
+
+</details>
+
+<details>
+<summary><strong>23.1 Hormone-Sensitive Cancers</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2023:%20Hormonal%20Therapies.md#231-hormone-sensitive-cancers)
+- **23.1.1** [Breast Cancer](./Chapter%2023:%20Hormonal%20Therapies.md#2311-breast-cancer)
+- **23.1.2** [Prostate Cancer](./Chapter%2023:%20Hormonal%20Therapies.md#2312-prostate-cancer)
+- **23.1.3** [Endometrial Cancer](./Chapter%2023:%20Hormonal%20Therapies.md#2313-endometrial-cancer)
+- **23.1.4** [Other Hormone-Sensitive Cancers](./Chapter%2023:%20Hormonal%20Therapies.md#2314-other-hormone-sensitive-cancers)
+
+</details>
+
+<details>
+<summary><strong>23.2 Mechanisms of Hormonal Action</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2023:%20Hormonal%20Therapies.md#232-mechanisms-of-hormonal-action)
+- **23.2.1** [Estrogen Signaling Pathway](./Chapter%2023:%20Hormonal%20Therapies.md#2321-estrogen-signaling-pathway)
+- **23.2.2** [Androgen Signaling Pathway](./Chapter%2023:%20Hormonal%20Therapies.md#2322-androgen-signaling-pathway)
+- **23.2.3** [Coregulator Proteins and Tissue Specificity](./Chapter%2023:%20Hormonal%20Therapies.md#2323-coregulator-proteins-and-tissue-specificity)
+
+</details>
+
+<details>
+<summary><strong>23.3 Anti-Estrogen Therapies</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2023:%20Hormonal%20Therapies.md#233-anti-estrogen-therapies)
+- **23.3.1** [Selective Estrogen Receptor Modulators (SERMs)](./Chapter%2023:%20Hormonal%20Therapies.md#2331-selective-estrogen-receptor-modulators-serms)
+  - [Tamoxifen](./Chapter%2023:%20Hormonal%20Therapies.md#tamoxifen)
+  - [Other SERMs](./Chapter%2023:%20Hormonal%20Therapies.md#other-serms)
+- **23.3.2** [Selective Estrogen Receptor Degraders (SERDs)](./Chapter%2023:%20Hormonal%20Therapies.md#2332-selective-estrogen-receptor-degraders-serds)
+
+</details>
+
+<details>
+<summary><strong>23.4 Aromatase Inhibitors</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2023:%20Hormonal%20Therapies.md#234-aromatase-inhibitors)
+- **23.4.1** [Mechanism of Action](./Chapter%2023:%20Hormonal%20Therapies.md#2341-mechanism-of-action)
+- **23.4.2** [Classification](./Chapter%2023:%20Hormonal%20Therapies.md#2342-classification)
+- **23.4.3** [Clinical Applications](./Chapter%2023:%20Hormonal%20Therapies.md#2343-clinical-applications)
+- **23.4.4** [Dosing and Administration](./Chapter%2023:%20Hormonal%20Therapies.md#2344-dosing-and-administration)
+- **23.4.5** [Comparative Efficacy](./Chapter%2023:%20Hormonal%20Therapies.md#2345-comparative-efficacy)
+- **23.4.6** [Side Effects](./Chapter%2023:%20Hormonal%20Therapies.md#2346-side-effects)
+
+</details>
+
+<details>
+<summary><strong>23.5 Anti-Androgen Therapies</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2023:%20Hormonal%20Therapies.md#235-anti-androgen-therapies)
+- **23.5.1** [Androgen Receptor Antagonists](./Chapter%2023:%20Hormonal%20Therapies.md#2351-androgen-receptor-antagonists)
+  - [Enzalutamide](./Chapter%2023:%20Hormonal%20Therapies.md#enzalutamide)
+- **23.5.2** [Combined Androgen Blockade](./Chapter%2023:%20Hormonal%20Therapies.md#2352-combined-androgen-blockade)
+
+</details>
+
+<details>
+<summary><strong>23.6 GnRH Agonists and Antagonists</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2023:%20Hormonal%20Therapies.md#236-gnrh-agonists-and-antagonists)
+- **23.6.1** [Mechanism of Action](./Chapter%2023:%20Hormonal%20Therapies.md#2361-mechanism-of-action)
+- **23.6.2** [Available Agents](./Chapter%2023:%20Hormonal%20Therapies.md#2362-available-agents)
+- **23.6.3** [Clinical Applications](./Chapter%2023:%20Hormonal%20Therapies.md#2363-clinical-applications)
+- **23.6.4** [Dosing and Administration](./Chapter%2023:%20Hormonal%20Therapies.md#2364-dosing-and-administration)
+- **23.6.5** [Side Effects](./Chapter%2023:%20Hormonal%20Therapies.md#2365-side-effects)
+
+</details>
+
+<details>
+<summary><strong>23.7 Steroidogenesis Inhibitors</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2023:%20Hormonal%20Therapies.md#237-steroidogenesis-inhibitors)
+- **23.7.1** [Abiraterone Acetate](./Chapter%2023:%20Hormonal%20Therapies.md#2371-abiraterone-acetate)
+- **23.7.2** [Combination Therapy](./Chapter%2023:%20Hormonal%20Therapies.md#2372-combination-therapy)
+- **23.7.3** [Hepatotoxicity](./Chapter%2023:%20Hormonal%20Therapies.md#2373-hepatotoxicity)
+
+</details>
+
+<details>
+<summary><strong>23.8 Clinical Considerations and Patient Selection</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2023:%20Hormonal%20Therapies.md#238-clinical-considerations-and-patient-selection)
+- **23.8.1** [Biomarker Testing](./Chapter%2023:%20Hormonal%20Therapies.md#2381-biomarker-testing)
+- **23.8.2** [Menopausal Status](./Chapter%2023:%20Hormonal%20Therapies.md#2382-menopausal-status)
+- **23.8.3** [Cardiovascular Considerations](./Chapter%2023:%20Hormonal%20Therapies.md#2383-cardiovascular-considerations)
+- **23.8.4** [Bone Health](./Chapter%2023:%20Hormonal%20Therapies.md#2384-bone-health)
+- **23.8.5** [Quality of Life](./Chapter%2023:%20Hormonal%20Therapies.md#2385-quality-of-life)
+
+</details>
+
+<details>
+<summary><strong>23.9 Resistance Mechanisms and Second-Line Therapies</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2023:%20Hormonal%20Therapies.md#239-resistance-mechanisms-and-second-line-therapies)
+- **23.9.1** [Endocrine Resistance in Breast Cancer](./Chapter%2023:%20Hormonal%20Therapies.md#2391-endocrine-resistance-in-breast-cancer)
+- **23.9.2** [Castration-Resistant Prostate Cancer](./Chapter%2023:%20Hormonal%20Therapies.md#2392-castration-resistant-prostate-cancer)
+- **23.9.3** [Sequential Therapy](./Chapter%2023:%20Hormonal%20Therapies.md#2393-sequential-therapy)
+
+</details>
+
+<details>
+<summary><strong>23.10 Future Directions</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2023:%20Hormonal%20Therapies.md#2310-future-directions)
+- **23.10.1** [Selective Androgen Receptor Modulators (SARMs)](./Chapter%2023:%20Hormonal%20Therapies.md#23101-selective-androgen-receptor-modulators-sarms)
+- **23.10.2** [Novel Therapeutic Targets](./Chapter%2023:%20Hormonal%20Therapies.md#23102-novel-therapeutic-targets)
+- **23.10.3** [Combination Strategies](./Chapter%2023:%20Hormonal%20Therapies.md#23103-combination-strategies)
+
+</details>
+
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
+
+- [View Conclusion](./Chapter%2023:%20Hormonal%20Therapies.md#conclusion)
+
+</details>
+
+# Part VI: Advanced and Emerging Cancer Treatments
