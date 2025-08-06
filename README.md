@@ -2277,3 +2277,147 @@
 </details>
 
 # Part VI: Advanced and Emerging Cancer Treatments
+
+## Chapter 24: Targeted Therapies
+
+<details>
+<summary><strong>Introduction</strong></summary>
+<br>
+
+- [View Introduction](./Chapter%2024:%20Targeted%20Therapies.md#introduction)
+
+</details>
+
+<details>
+<summary><strong>24.1 Principles of Molecular Targeted Therapy</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2024:%20Targeted%20Therapies.md#241-principles-of-molecular-targeted-therapy)
+- **24.1.1** [Fundamental Concepts](./Chapter%2024:%20Targeted%20Therapies.md#2411-fundamental-concepts)
+- **24.1.2** [Target Validation and Selection](./Chapter%2024:%20Targeted%20Therapies.md#2412-target-validation-and-selection)
+- **24.1.3** [Therapeutic Window and Selectivity](./Chapter%2024:%20Targeted%20Therapies.md#2413-therapeutic-window-and-selectivity)
+
+</details>
+
+<details>
+<summary><strong>24.2 Tyrosine Kinase Inhibitors (TKIs)</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2024:%20Targeted%20Therapies.md#242-tyrosine-kinase-inhibitors-tkis)
+- **24.2.1** [Overview and Classification](./Chapter%2024:%20Targeted%20Therapies.md#2421-overview-and-classification)
+- **24.2.2** [Mechanism of Action](./Chapter%2024:%20Targeted%20Therapies.md#2422-mechanism-of-action)
+- **24.2.3** [Major Classes of TKIs](./Chapter%2024:%20Targeted%20Therapies.md#2423-major-classes-of-tkis)
+- **24.2.4** [Clinical Applications](./Chapter%2024:%20Targeted%20Therapies.md#2424-clinical-applications)
+- **24.2.5** [Resistance Mechanisms](./Chapter%2024:%20Targeted%20Therapies.md#2425-resistance-mechanisms)
+
+</details>
+
+<details>
+<summary><strong>24.3 Monoclonal Antibodies</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2024:%20Targeted%20Therapies.md#243-monoclonal-antibodies)
+- **24.3.1** [Overview and Development](./Chapter%2024:%20Targeted%20Therapies.md#2431-overview-and-development)
+- **24.3.2** [Mechanisms of Action](./Chapter%2024:%20Targeted%20Therapies.md#2432-mechanisms-of-action)
+- **24.3.3** [Major Classes of Therapeutic Antibodies](./Chapter%2024:%20Targeted%20Therapies.md#2433-major-classes-of-therapeutic-antibodies)
+- **24.3.4** [Clinical Applications](./Chapter%2024:%20Targeted%20Therapies.md#2434-clinical-applications)
+- **24.3.5** [Resistance Mechanisms](./Chapter%2024:%20Targeted%20Therapies.md#2435-resistance-mechanisms)
+
+</details>
+
+<details>
+<summary><strong>24.4 PARP Inhibitors</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2024:%20Targeted%20Therapies.md#244-parp-inhibitors)
+- **24.4.1** [Overview and Mechanism](./Chapter%2024:%20Targeted%20Therapies.md#2441-overview-and-mechanism)
+- **24.4.2** [Clinical Applications](./Chapter%2024:%20Targeted%20Therapies.md#2442-clinical-applications)
+- **24.4.3** [Resistance Mechanisms](./Chapter%2024:%20Targeted%20Therapies.md#2443-resistance-mechanisms)
+
+</details>
+
+<details>
+<summary><strong>24.5 CDK Inhibitors</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2024:%20Targeted%20Therapies.md#245-cdk-inhibitors)
+- **24.5.1** [Overview and Cell Cycle Regulation](./Chapter%2024:%20Targeted%20Therapies.md#2451-overview-and-cell-cycle-regulation)
+- **24.5.2** [CDK4/6 Inhibitors](./Chapter%2024:%20Targeted%20Therapies.md#2452-cdk46-inhibitors)
+- **24.5.3** [Mechanism of Action](./Chapter%2024:%20Targeted%20Therapies.md#2453-mechanism-of-action)
+- **24.5.4** [Clinical Applications](./Chapter%2024:%20Targeted%20Therapies.md#2454-clinical-applications)
+- **24.5.5** [Resistance Mechanisms](./Chapter%2024:%20Targeted%20Therapies.md#2455-resistance-mechanisms)
+
+</details>
+
+<details>
+<summary><strong>24.6 Angiogenesis Inhibitors</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2024:%20Targeted%20Therapies.md#246-angiogenesis-inhibitors)
+- **24.6.1** [Overview and Rationale](./Chapter%2024:%20Targeted%20Therapies.md#2461-overview-and-rationale)
+- **24.6.2** [VEGF Pathway Inhibitors](./Chapter%2024:%20Targeted%20Therapies.md#2462-vegf-pathway-inhibitors)
+- **24.6.3** [Small Molecule VEGFR Inhibitors](./Chapter%2024:%20Targeted%20Therapies.md#2463-small-molecule-vegfr-inhibitors)
+- **24.6.4** [Clinical Efficacy and Limitations](./Chapter%2024:%20Targeted%20Therapies.md#2464-clinical-efficacy-and-limitations)
+- **24.6.5** [Toxicity Profile](./Chapter%2024:%20Targeted%20Therapies.md#2465-toxicity-profile)
+
+</details>
+
+<details>
+<summary><strong>24.7 Resistance Mechanisms to Targeted Therapies</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2024:%20Targeted%20Therapies.md#247-resistance-mechanisms-to-targeted-therapies)
+- **24.7.1** [Overview of Resistance](./Chapter%2024:%20Targeted%20Therapies.md#2471-overview-of-resistance)
+- **24.7.2** [Intrinsic vs. Acquired Resistance](./Chapter%2024:%20Targeted%20Therapies.md#2472-intrinsic-vs-acquired-resistance)
+- **24.7.3** [Molecular Mechanisms of Resistance](./Chapter%2024:%20Targeted%20Therapies.md#2473-molecular-mechanisms-of-resistance)
+- **24.7.4** [Tumor Microenvironment and Resistance](./Chapter%2024:%20Targeted%20Therapies.md#2474-tumor-microenvironment-and-resistance)
+- **24.7.5** [Tumor Cell Plasticity](./Chapter%2024:%20Targeted%20Therapies.md#2475-tumor-cell-plasticity)
+- **24.7.6** [Pharmacokinetic Resistance](./Chapter%2024:%20Targeted%20Therapies.md#2476-pharmacokinetic-resistance)
+- **24.7.7** [Strategies to Overcome Resistance](./Chapter%2024:%20Targeted%20Therapies.md#2477-strategies-to-overcome-resistance)
+
+</details>
+
+<details>
+<summary><strong>24.8 Clinical Considerations and Patient Selection</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2024:%20Targeted%20Therapies.md#248-clinical-considerations-and-patient-selection)
+- **24.8.1** [Biomarker-Driven Therapy](./Chapter%2024:%20Targeted%20Therapies.md#2481-biomarker-driven-therapy)
+- **24.8.2** [Toxicity Management](./Chapter%2024:%20Targeted%20Therapies.md#2482-toxicity-management)
+- **24.8.3** [Resistance Monitoring](./Chapter%2024:%20Targeted%20Therapies.md#2483-resistance-monitoring)
+- **24.8.4** [Economic Considerations](./Chapter%2024:%20Targeted%20Therapies.md#2484-economic-considerations)
+
+</details>
+
+<details>
+<summary><strong>24.9 Future Directions</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2024:%20Targeted%20Therapies.md#249-future-directions)
+- **24.9.1** [Novel Targets and Pathways](./Chapter%2024:%20Targeted%20Therapies.md#2491-novel-targets-and-pathways)
+- **24.9.2** [Combination Strategies](./Chapter%2024:%20Targeted%20Therapies.md#2492-combination-strategies)
+- **24.9.3** [Precision Medicine Advances](./Chapter%2024:%20Targeted%20Therapies.md#2493-precision-medicine-advances)
+- **24.9.4** [Overcoming Resistance](./Chapter%2024:%20Targeted%20Therapies.md#2494-overcoming-resistance)
+- **24.9.5** [Drug Delivery Innovations](./Chapter%2024:%20Targeted%20Therapies.md#2495-drug-delivery-innovations)
+
+</details>
+
+<details>
+<summary><strong>24.10 Challenges and Limitations</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2024:%20Targeted%20Therapies.md#2410-challenges-and-limitations)
+- **24.10.1** [Tumor Heterogeneity](./Chapter%2024:%20Targeted%20Therapies.md#24101-tumor-heterogeneity)
+- **24.10.2** [Resistance Development](./Chapter%2024:%20Targeted%20Therapies.md#24102-resistance-development)
+- **24.10.3** [Limited Efficacy in Some Cancers](./Chapter%2024:%20Targeted%20Therapies.md#24103-limited-efficacy-in-some-cancers)
+- **24.10.4** [Accessibility and Cost](./Chapter%2024:%20Targeted%20Therapies.md#24104-accessibility-and-cost)
+
+</details>
+
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
+
+- [View Conclusion](./Chapter%2024:%20Targeted%20Therapies.md#conclusion)
+
+</details>
