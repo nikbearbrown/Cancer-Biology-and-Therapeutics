@@ -2490,3 +2490,64 @@
 - **25.6.4** [Special Considerations](./Chapter%2025:%20Cancer%20Immunotherapy.md#2564-special-considerations)
 
 </details>
+
+## Chapter 26: Gene Therapy and Oncolytic Virotherapy
+
+<details>
+<summary><strong>26.1 Principles of Gene Therapy for Cancer</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#261-principles-of-gene-therapy-for-cancer)
+- **26.1.1** [Fundamental Concepts](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#2611-fundamental-concepts)
+- **26.1.2** [Therapeutic Mechanisms](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#2612-therapeutic-mechanisms)
+
+</details>
+
+<details>
+<summary><strong>26.2 Gene Editing Technologies</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#262-gene-editing-technologies)
+- **26.2.1** [CRISPR/Cas9 System](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#2621-crisprcas9-system)
+- **26.2.2** [Zinc Finger Nucleases (ZFNs) and TALENs](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#2622-zinc-finger-nucleases-zfns-and-talens)
+- **26.2.3** [Safety Considerations and Off-Target Effects](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#2623-safety-considerations-and-off-target-effects)
+
+</details>
+
+<details>
+<summary><strong>26.3 Viral Vectors: Mechanisms of Action and Safety</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#263-viral-vectors-mechanisms-of-action-and-safety)
+- **26.3.1** [Retroviral Vectors](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#2631-retroviral-vectors)
+- **26.3.2** [Adenoviral Vectors](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#2632-adenoviral-vectors)
+- **26.3.3** [Adeno-Associated Virus (AAV) Vectors](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#2633-adeno-associated-virus-aav-vectors)
+- **26.3.4** [Herpes Simplex Virus (HSV) Vectors](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#2634-herpes-simplex-virus-hsv-vectors)
+
+</details>
+
+<details>
+<summary><strong>26.4 Oncolytic Virotherapy</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#264-oncolytic-virotherapy)
+- **26.4.1** [Principles of Viral Oncolysis](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#2641-principles-of-viral-oncolysis)
+- **26.4.2** [Engineered Oncolytic Viruses](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#2642-engineered-oncolytic-viruses)
+- **26.4.3** [Transcriptionally Targeted Oncolytic Viruses](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#2643-transcriptionally-targeted-oncolytic-viruses)
+- **26.4.4** [Safety Considerations and Clinical Applications](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#2644-safety-considerations-and-clinical-applications)
+
+</details>
+
+<details>
+<summary><strong>26.5 Current Trials and Clinical Use</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#265-current-trials-and-clinical-use)
+- **26.5.1** [Approved Gene Therapies](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#2651-approved-gene-therapies)
+- **26.5.2** [Gene Therapies in Advanced Development](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#2652-gene-therapies-in-advanced-development)
+- **26.5.3** [CRISPR-Based Clinical Trials](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#2653-crispr-based-clinical-trials)
+- **26.5.4** [Economic and Implementation Considerations](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#2654-economic-and-implementation-considerations)
+- **26.5.5** [Future Directions and Emerging Technologies](./Chapter%2026:%20Gene%20Therapy%20and%20Oncolytic%20Virotherapy.md#2655-future-directions-and-emerging-technologies)
+
+</details>
+
