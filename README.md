@@ -2551,3 +2551,52 @@
 
 </details>
 
+## Chapter 27: Nanotechnology in Cancer
+
+<details>
+<summary><strong>27.1 Nanoparticles for Drug Delivery</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#271-nanoparticles-for-drug-delivery)
+- **27.1.1** [Fundamentals of Nanoparticle Drug Delivery](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#2711-fundamentals-of-nanoparticle-drug-delivery)
+  - [Enhanced Permeability and Retention Effect](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#enhanced-permeability-and-retention-effect)
+  - [Passive vs. Active Targeting](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#passive-vs-active-targeting)
+- **27.1.2** [Types of Nanoparticle Drug Delivery Systems](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#2712-types-of-nanoparticle-drug-delivery-systems)
+  - [Liposomal Drug Delivery Systems](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#liposomal-drug-delivery-systems)
+  - [Polymeric Nanoparticles](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#polymeric-nanoparticles)
+  - [Carbon-Based Nanoparticles](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#carbon-based-nanoparticles)
+  - [Inorganic Nanoparticles](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#inorganic-nanoparticles)
+- **27.1.3** [Overcoming Drug Resistance](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#2713-overcoming-drug-resistance)
+- **27.1.4** [Clinical Translation and Challenges](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#2714-clinical-translation-and-challenges)
+
+</details>
+
+<details>
+<summary><strong>27.2 Nanomaterials for Imaging and Diagnosis</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#272-nanomaterials-for-imaging-and-diagnosis)
+- **27.2.1** [Quantum Dots for Cancer Imaging](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#2721-quantum-dots-for-cancer-imaging)
+  - [Fundamental Properties](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#fundamental-properties)
+  - [Cancer Detection Applications](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#cancer-detection-applications)
+  - [In Vivo Tumor Targeting](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#in-vivo-tumor-targeting)
+- **27.2.2** [Magnetic Nanoparticles for MRI Enhancement](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#2722-magnetic-nanoparticles-for-mri-enhancement)
+- **27.2.3** [Gold Nanoparticles for CT Imaging](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#2723-gold-nanoparticles-for-ct-imaging)
+- **27.2.4** [Advanced Imaging Techniques](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#2724-advanced-imaging-techniques)
+  - [Near-Infrared Fluorescence Imaging](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#near-infrared-fluorescence-imaging)
+  - [Molecular Imaging](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#molecular-imaging)
+
+</details>
+
+<details>
+<summary><strong>27.3 Theranostics and Multifunctional Platforms</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#273-theranostics-and-multifunctional-platforms)
+- **27.3.1** [Concept and Design Principles](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#2731-concept-and-design-principles)
+- **27.3.2** [Theranostic Nanoplatforms](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#2732-theranostic-nanoplatforms)
+- **27.3.3** [Clinical Applications and Examples](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#2733-clinical-applications-and-examples)
+- **27.3.4** [Emerging Technologies and Future Directions](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#2734-emerging-technologies-and-future-directions)
+- **27.3.5** [Challenges and Future Perspectives](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#2735-challenges-and-future-perspectives)
+
+</details>
