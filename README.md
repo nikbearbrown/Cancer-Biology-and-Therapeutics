@@ -94,10 +94,13 @@
 
 </details>
 
+## Chapter 2: Introduction to Cancer: A Disease of Deregulation
 
-## Chapter 2: [Introduction to Cancer: A Disease of Deregulation](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md)
+<details>
+<summary><strong>2.1 Defining Cancer: Uncontrolled Growth and Invasion</strong></summary>
+<br>
 
-### 2.1 [Defining Cancer: Uncontrolled Growth and Invasion](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#21-defining-cancer-uncontrolled-growth-and-invasion)
+- [View Main Section](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#21-defining-cancer-uncontrolled-growth-and-invasion)
 - **2.1.1** [Cancer as a Cellular Disease](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#211-cancer-as-a-cellular-disease)
 - **2.1.2** [The Multistep Process of Carcinogenesis](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#212-the-multistep-process-of-carcinogenesis)
 - **2.1.3** [Distinguishing Characteristics of Malignancy](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#213-distinguishing-characteristics-of-malignancy)
@@ -105,7 +108,13 @@
   - [The Systemic Nature of Cancer](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#the-systemic-nature-of-cancer)
   - [Mechanisms of Systemic Disease](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#mechanisms-of-systemic-disease)
 
-### 2.2 [History of Cancer Research](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#22-history-of-cancer-research)
+</details>
+
+<details>
+<summary><strong>2.2 History of Cancer Research</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#22-history-of-cancer-research)
 - **2.2.1** [Ancient Origins and Early Documentation](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#221-ancient-origins-and-early-documentation)
   - [Ancient Egyptian Medicine](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#ancient-egyptian-medicine)
   - [Paleropathological Evidence](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#paleropathological-evidence)
@@ -137,13 +146,25 @@
   - [Contemporary Achievements](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#contemporary-achievements)
   - [Continuing Challenges and Opportunities](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#continuing-challenges-and-opportunities)
 
-### 2.3 [Hallmarks of Cancer](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#23-hallmarks-of-cancer)
+</details>
+
+<details>
+<summary><strong>2.3 Hallmarks of Cancer</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#23-hallmarks-of-cancer)
 - **2.3.1** [The Original Six Hallmarks](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#231-the-original-six-hallmarks)
 - **2.3.2** [The Next Generation: Updated Hallmarks](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#232-the-next-generation-updated-hallmarks)
 - **2.3.3** [Emerging Hallmarks and Enabling Characteristics](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#233-emerging-hallmarks-and-enabling-characteristics)
 - **2.3.4** [Clinical and Research Implications](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#234-clinical-and-research-implications)
 
-### 2.4 [Terminology in Oncology](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#24-terminology-in-oncology)
+</details>
+
+<details>
+<summary><strong>2.4 Terminology in Oncology</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#24-terminology-in-oncology)
 - **2.4.1** [Classification of Neoplasms](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#241-classification-of-neoplasms)
   - [Benign vs. Malignant Tumors](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#benign-vs-malignant-tumors)
   - [Tissue of Origin Classification](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#tissue-of-origin-classification)
@@ -155,7 +176,13 @@
   - [Routes of Spread](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#routes-of-spread)
   - [Common Metastatic Sites](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#common-metastatic-sites)
 
-### 2.5 [Epidemiology of Cancer](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#25-epidemiology-of-cancer)
+</details>
+
+<details>
+<summary><strong>2.5 Epidemiology of Cancer</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#25-epidemiology-of-cancer)
 - **2.5.1** [Global Cancer Burden](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#251-global-cancer-burden)
 - **2.5.2** [Risk Factors for Cancer](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#252-risk-factors-for-cancer)
   - [Major Modifiable Risk Factors](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#major-modifiable-risk-factors)
@@ -167,10 +194,25 @@
   - [Established Screening Programs](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#established-screening-programs)
   - [Challenges in Cancer Prevention and Screening](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#challenges-in-cancer-prevention-and-screening)
   - [Future Directions in Cancer Prevention](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#future-directions-in-cancer-prevention)
- ### [Summary](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#summary)
-## Chapter 3: [Cancer Epidemiology and Risk Factors](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md)
+- **2.5.4** [Cancer Survivorship](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#254-cancer-survivorship)
 
-### 3.1 [Global Cancer Incidence and Mortality](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#31-global-cancer-incidence-and-mortality)
+</details>
+
+<details>
+<summary><strong>Summary</strong></summary>
+<br>
+
+- [View Summary](./Chapter%2002:%20Introduction%20to%20Cancer:%20A%20Disease%20of%20Deregulation.md#summary)
+
+</details>
+
+## Chapter 3: Cancer Epidemiology and Risk Factors
+
+<details>
+<summary><strong>3.1 Global Cancer Incidence and Mortality</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#31-global-cancer-incidence-and-mortality)
 - **3.1.1** [Current Global Cancer Burden](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#311-current-global-cancer-burden)
   - [Contemporary Global Cancer Statistics](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#contemporary-global-cancer-statistics)
   - [Leading Cancer Types Globally](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#leading-cancer-types-globally)
@@ -188,7 +230,13 @@
   - [International Collaborative Efforts](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#international-collaborative-efforts)
   - [Data Quality Challenges](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#data-quality-challenges)
 
-### 3.2 [Genetic vs. Environmental Contributions](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#32-genetic-vs-environmental-contributions)
+</details>
+
+<details>
+<summary><strong>3.2 Genetic vs. Environmental Contributions</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#32-genetic-vs-environmental-contributions)
 - **3.2.1** [Frameworks for Understanding Cancer Causation](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#321-frameworks-for-understanding-cancer-causation)
   - [Multifactorial Models of Disease](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#multifactorial-models-of-disease)
   - [Gene-Environment Interactions](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#gene-environment-interactions)
@@ -207,7 +255,13 @@
   - [Gene-Environment Interaction Research](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#gene-environment-interaction-research)
   - [Molecular Epidemiology Approaches](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#molecular-epidemiology-approaches)
 
-### 3.3 [Lifestyle-Associated Cancers](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#33-lifestyle-associated-cancers)
+</details>
+
+<details>
+<summary><strong>3.3 Lifestyle-Associated Cancers</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#33-lifestyle-associated-cancers)
 - **3.3.1** [Tobacco Use](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#331-tobacco-use)
   - [Epidemiological Evidence](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#epidemiological-evidence)
   - [Carcinogenic Mechanisms](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#carcinogenic-mechanisms)
@@ -219,7 +273,13 @@
   - [Dietary Risk Factors](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#dietary-risk-factors)
   - [Nutritional Epidemiology](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#nutritional-epidemiology)
 
-### 3.4 [Environmental and Occupational Cancer Risks](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#34-environmental-and-occupational-cancer-risks)
+</details>
+
+<details>
+<summary><strong>3.4 Environmental and Occupational Cancer Risks</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#34-environmental-and-occupational-cancer-risks)
 - [Scope of Environmental and Occupational Carcinogens](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#scope-of-environmental-and-occupational-carcinogens)
 - [Global Burden of Occupational Cancer](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#global-burden-of-occupational-cancer)
 - [Environmental Carcinogen Burden](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#environmental-carcinogen-burden)
@@ -228,7 +288,13 @@
 - [Challenges in Environmental Carcinogen Research](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#challenges-in-environmental-carcinogen-research)
 - [Complex Mixtures and Emerging Concerns](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#complex-mixtures-and-emerging-concerns)
 
-### 3.5 [Cancer Health Disparities and Social Determinants](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#35-cancer-health-disparities-and-social-determinants)
+</details>
+
+<details>
+<summary><strong>3.5 Cancer Health Disparities and Social Determinants</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#35-cancer-health-disparities-and-social-determinants)
 - [Framework for Understanding Cancer Disparities](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#framework-for-understanding-cancer-disparities)
 - [Racial and Ethnic Disparities](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#racial-and-ethnic-disparities)
 - [Social Determinants of Health](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#social-determinants-of-health)
@@ -236,7 +302,17 @@
 - [Biological and Genetic Factors](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#biological-and-genetic-factors)
 - [Consequences of Disparities](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#consequences-of-disparities)
 
-### [Summary](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#summary)
+</details>
+
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
+
+- [View Conclusion](./Chapter%2003:%20Cancer%20Epidemiology%20and%20Risk%20Factors.md#conclusion)
+
+</details>
+
+# Part II: The Molecular and Genetic Basis of Cancer
 
 ## Chapter 4: [Genetics and Genomic Instability in Cancer](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md)
 
