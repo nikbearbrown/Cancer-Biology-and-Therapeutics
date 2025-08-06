@@ -314,9 +314,13 @@
 
 # Part II: The Molecular and Genetic Basis of Cancer
 
-## Chapter 4: [Genetics and Genomic Instability in Cancer](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md)
+## Chapter 4: Genetics and Genomic Instability in Cancer
 
-### 4.1 [DNA Structure and Replication](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#41-dna-structure-and-replication)
+<details>
+<summary><strong>4.1 DNA Structure and Replication</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#41-dna-structure-and-replication)
 - **4.1.1** [DNA Structure and Organization](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#411-dna-structure-and-organization)
   - [Nucleotides and Base Pairing](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#nucleotides-and-base-pairing)
   - [DNA Packaging in Chromosomes](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#dna-packaging-in-chromosomes)
@@ -337,7 +341,13 @@
   - [Cell Cycle Control and Genomic Stability](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#cell-cycle-control-and-genomic-stability)
   - [Clinical Implications of Replication Defects](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#clinical-implications-of-replication-defects)
 
-### 4.2 [Mutations: Types and Consequences](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#42-mutations-types-and-consequences)
+</details>
+
+<details>
+<summary><strong>4.2 Mutations: Types and Consequences</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#42-mutations-types-and-consequences)
 - **4.2.1** [Types of Mutations](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#421-types-of-mutations)
   - [Point Mutations](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#point-mutations)
   - [Spontaneous Mutations](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#spontaneous-mutations)
@@ -356,7 +366,13 @@
   - [Cancer Development Through Mutations](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#cancer-development-through-mutations)
 - **4.2.4** [Mutation Rates and Cancer Risk](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#424-mutation-rates-and-cancer-risk)
 
-### 4.3 [Chromosomal Abnormalities](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#43-chromosomal-abnormalities)
+</details>
+
+<details>
+<summary><strong>4.3 Chromosomal Abnormalities</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#43-chromosomal-abnormalities)
 - [Overview of Chromosomal Abnormalities in Cancer](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#overview-of-chromosomal-abnormalities-in-cancer)
 - [Types and Prevalence of Chromosomal Abnormalities](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#types-and-prevalence-of-chromosomal-abnormalities)
 - [Mechanisms Underlying Chromosomal Instability](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#mechanisms-underlying-chromosomal-instability)
@@ -370,7 +386,13 @@
 - [Evolutionary Implications](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#evolutionary-implications)
 - [Diagnostic and Prognostic Implications](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#diagnostic-and-prognostic-implications)
 
-### 4.4 [DNA Repair Mechanisms and Their Failure in Cancer](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#44-dna-repair-mechanisms-and-their-failure-in-cancer)
+</details>
+
+<details>
+<summary><strong>4.4 DNA Repair Mechanisms and Their Failure in Cancer</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#44-dna-repair-mechanisms-and-their-failure-in-cancer)
 - **4.4.1** [Overview of DNA Damage](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#441-overview-of-dna-damage)
 - **4.4.2** [Major DNA Repair Pathways](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#442-major-dna-repair-pathways)
   - [Base Excision Repair](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#base-excision-repair)
@@ -383,7 +405,13 @@
   - [Clinical Significance](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#clinical-significance)
 - **4.4.5** [DNA Repair Surveillance](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#445-dna-repair-surveillance)
 
-### 4.5 [Genomic Instability](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#45-genomic-instability)
+</details>
+
+<details>
+<summary><strong>4.5 Genomic Instability</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#45-genomic-instability)
 - **4.5.1** [Cancer as an Evolutionary Process](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#451-cancer-as-an-evolutionary-process)
   - [Evidence for Somatic Evolution](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#evidence-for-somatic-evolution)
 - **4.5.2** [Types of Genomic Instability](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#452-types-of-genomic-instability)
@@ -398,11 +426,23 @@
   - [Cancer Progression](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#cancer-progression)
   - [Therapeutic Considerations](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#therapeutic-considerations)
 
-### [Summary](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#summary)
+</details>
 
-## Chapter 5: [Oncogenes](./Chapter%2005:%20Oncogenes.md)
+<details>
+<summary><strong>Summary</strong></summary>
+<br>
 
-### 5.1 [Discovery of Oncogenes](./Chapter%2005:%20Oncogenes.md#51-discovery-of-oncogenes)
+- [View Summary](./Chapter%2004:%20Genetics%20and%20Genomic%20Instability%20in%20Cancer.md#summary)
+
+</details>
+
+## Chapter 5: Oncogenes
+
+<details>
+<summary><strong>5.1 Discovery of Oncogenes</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2005:%20Oncogenes.md#51-discovery-of-oncogenes)
 - **5.1.1** [Viral Oncogenes and Retroviral Discoveries](./Chapter%2005:%20Oncogenes.md#511-viral-oncogenes-and-retroviral-discoveries)
   - [Peyton Rous and Early Virus Discovery](./Chapter%2005:%20Oncogenes.md#peyton-rous-and-early-virus-discovery)
   - [Retroviral Life Cycle and Transformation](./Chapter%2005:%20Oncogenes.md#retroviral-life-cycle-and-transformation)
@@ -417,7 +457,13 @@
   - [Chromosomal Translocations as Guides](./Chapter%2005:%20Oncogenes.md#chromosomal-translocations-as-guides)
   - [Human Oncogene Identification](./Chapter%2005:%20Oncogenes.md#human-oncogene-identification)
 
-### 5.2 [Proto-oncogenes: Normal Cellular Functions](./Chapter%2005:%20Oncogenes.md#52-proto-oncogenes-normal-cellular-functions)
+</details>
+
+<details>
+<summary><strong>5.2 Proto-oncogenes: Normal Cellular Functions</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2005:%20Oncogenes.md#52-proto-oncogenes-normal-cellular-functions)
 - **5.2.1** [Cellular Functions of Proto-oncogenes](./Chapter%2005:%20Oncogenes.md#521-cellular-functions-of-proto-oncogenes)
   - [Signal Transduction Components](./Chapter%2005:%20Oncogenes.md#signal-transduction-components)
   - [Cell Cycle and Growth Control](./Chapter%2005:%20Oncogenes.md#cell-cycle-and-growth-control)
@@ -427,7 +473,13 @@
   - [Transcriptional Regulators](./Chapter%2005:%20Oncogenes.md#transcriptional-regulators)
 - **5.2.3** [Normal Regulation of Proto-oncogenes](./Chapter%2005:%20Oncogenes.md#523-normal-regulation-of-proto-oncogenes)
 
-### 5.3 [Mechanisms of Oncogene Activation](./Chapter%2005:%20Oncogenes.md#53-mechanisms-of-oncogene-activation)
+</details>
+
+<details>
+<summary><strong>5.3 Mechanisms of Oncogene Activation</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2005:%20Oncogenes.md#53-mechanisms-of-oncogene-activation)
 - **5.3.1** [Point Mutations](./Chapter%2005:%20Oncogenes.md#531-point-mutations)
   - [RAS Mutations](./Chapter%2005:%20Oncogenes.md#ras-mutations)
   - [Other Mutation Examples](./Chapter%2005:%20Oncogenes.md#other-mutation-examples)
@@ -437,7 +489,13 @@
   - [Fusion Oncoproteins](./Chapter%2005:%20Oncogenes.md#fusion-oncoproteins)
   - [Enhancer Hijacking](./Chapter%2005:%20Oncogenes.md#enhancer-hijacking)
 
-### 5.4 [Key Oncogene Families and Their Roles](./Chapter%2005:%20Oncogenes.md#54-key-oncogene-families-and-their-roles)
+</details>
+
+<details>
+<summary><strong>5.4 Key Oncogene Families and Their Roles</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2005:%20Oncogenes.md#54-key-oncogene-families-and-their-roles)
 - **5.4.1** [RAS Family Oncogenes](./Chapter%2005:%20Oncogenes.md#541-ras-family-oncogenes)
   - [Normal RAS Function](./Chapter%2005:%20Oncogenes.md#normal-ras-function)
   - [RAS in Cancer](./Chapter%2005:%20Oncogenes.md#ras-in-cancer)
@@ -450,18 +508,36 @@
   - [MYC Family](./Chapter%2005:%20Oncogenes.md#myc-family)
   - [Activation Mechanisms](./Chapter%2005:%20Oncogenes.md#activation-mechanisms)
 
-### 5.5 [Clinical Implications and Therapeutic Targeting](./Chapter%2005:%20Oncogenes.md#55-clinical-implications-and-therapeutic-targeting)
+</details>
+
+<details>
+<summary><strong>5.5 Clinical Implications and Therapeutic Targeting</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2005:%20Oncogenes.md#55-clinical-implications-and-therapeutic-targeting)
 - **5.5.1** [Oncogenes as Drug Targets](./Chapter%2005:%20Oncogenes.md#551-oncogenes-as-drug-targets)
   - [Tyrosine Kinase Inhibitors](./Chapter%2005:%20Oncogenes.md#tyrosine-kinase-inhibitors)
 - **5.5.2** [Resistance Mechanisms](./Chapter%2005:%20Oncogenes.md#552-resistance-mechanisms)
 - **5.5.3** [Future Directions](./Chapter%2005:%20Oncogenes.md#553-future-directions)
 
-### [Conclusion](./Chapter%2005:%20Oncogenes.md#conclusion)
+</details>
+
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
+
+- [View Conclusion](./Chapter%2005:%20Oncogenes.md#conclusion)
+
+</details>
 
 
-## Chapter 6: [Tumor Suppressor Genes](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md)
+## Chapter 6: Tumor Suppressor Genes
 
-### 6.1 [Discovery and Function of Tumor Suppressor Genes](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#61-discovery-and-function-of-tumor-suppressor-genes)
+<details>
+<summary><strong>6.1 Discovery and Function of Tumor Suppressor Genes</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#61-discovery-and-function-of-tumor-suppressor-genes)
 - **6.1.1** [Historical Perspective and Discovery](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#611-historical-perspective-and-discovery)
   - [Cell Fusion Studies](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#cell-fusion-studies)
   - [The Two-Hit Hypothesis](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#the-two-hit-hypothesis)
@@ -472,7 +548,13 @@
   - [Apoptosis Regulation](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#apoptosis-regulation)
 - **6.1.3** [Classification and Properties](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#613-classification-and-properties)
 
-### 6.2 [Mechanisms of Tumor Suppressor Inactivation](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#62-mechanisms-of-tumor-suppressor-inactivation)
+</details>
+
+<details>
+<summary><strong>6.2 Mechanisms of Tumor Suppressor Inactivation</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#62-mechanisms-of-tumor-suppressor-inactivation)
 - **6.2.1** [Overview of Inactivation Mechanisms](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#621-overview-of-inactivation-mechanisms)
 - **6.2.2** [Genetic Mechanisms of Inactivation](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#622-genetic-mechanisms-of-inactivation)
   - [Classical Genetic Alterations](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#classical-genetic-alterations)
@@ -487,7 +569,13 @@
   - [p16/CDKN2A Inactivation](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#p16cdkn2a-inactivation)
   - [MLH1 in Colorectal Cancer](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#mlh1-in-colorectal-cancer)
 
-### 6.3 [Key Tumor Suppressor Genes](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#63-key-tumor-suppressor-genes)
+</details>
+
+<details>
+<summary><strong>6.3 Key Tumor Suppressor Genes</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#63-key-tumor-suppressor-genes)
 - **6.3.1** [TP53: Guardian of the Genome](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#631-tp53-guardian-of-the-genome)
   - [Structure and Function](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#structure-and-function)
   - [Role in DNA Damage Response](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#role-in-dna-damage-response)
@@ -508,7 +596,13 @@
   - [Molecular Function](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#molecular-function-1)
   - [PTEN Hamartoma Tumor Syndrome](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#pten-hamartoma-tumor-syndrome)
 
-### 6.4 [Clinical Implications of Tumor Suppressors](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#64-clinical-implications-of-tumor-suppressors)
+</details>
+
+<details>
+<summary><strong>6.4 Clinical Implications of Tumor Suppressors</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#64-clinical-implications-of-tumor-suppressors)
 - **6.4.1** [Hereditary Cancer Syndromes](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#641-hereditary-cancer-syndromes)
   - [Li-Fraumeni Syndrome](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#li-fraumeni-syndrome)
   - [BRCA-Associated Hereditary Breast and Ovarian Cancer](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#brca-associated-hereditary-breast-and-ovarian-cancer)
@@ -525,7 +619,13 @@
 - **6.4.5** [Therapeutic Resistance and Adaptation](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#645-therapeutic-resistance-and-adaptation)
   - [Epigenetic Therapy Limitations](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#epigenetic-therapy-limitations)
 
-### 6.5 [Future Directions](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#65-future-directions)
+</details>
+
+<details>
+<summary><strong>6.5 Future Directions</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#65-future-directions)
 - **6.5.1** [Advanced Molecular Profiling Technologies](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#651-advanced-molecular-profiling-technologies)
   - [Multi-Omics Approaches](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#multi-omics-approaches)
   - [Comprehensive Genomic Profiling](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#comprehensive-genomic-profiling)
@@ -553,30 +653,60 @@
 - **6.5.9** [Therapeutic Development Pipeline](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#659-therapeutic-development-pipeline)
   - [Expanding Treatment Options](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#expanding-treatment-options)
 
-### [Conclusion](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#conclusion)
+</details>
 
-## Chapter 7: [Epigenetics in Cancer](./Chapter%2007:%20Epigenetics%20in%20Cancer.md)
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
 
-### 7.1 [Introduction to Epigenetics in Cancer](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#71-introduction-to-epigenetics-in-cancer)
+- [View Conclusion](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#conclusion)
+
+</details>
+
+## Chapter 7: Epigenetics in Cancer
+
+<details>
+<summary><strong>7.1 Introduction to Epigenetics in Cancer</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#71-introduction-to-epigenetics-in-cancer)
 - **7.1.1** [Definition and Scope](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#711-definition-and-scope)
 - **7.1.2** [Fundamental Epigenetic Mechanisms](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#712-fundamental-epigenetic-mechanisms)
 - **7.1.3** [Epigenetic Alterations in Cancer](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#713-epigenetic-alterations-in-cancer)
 
-### 7.2 [DNA Methylation in Cancer](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#72-dna-methylation-in-cancer)
+</details>
+
+<details>
+<summary><strong>7.2 DNA Methylation in Cancer</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#72-dna-methylation-in-cancer)
 - **7.2.1** [Molecular Basis of DNA Methylation](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#721-molecular-basis-of-dna-methylation)
 - **7.2.2** [DNA Methylation Alterations in Cancer](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#722-dna-methylation-alterations-in-cancer)
   - [Genomic Hypomethylation](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#genomic-hypomethylation)
   - [Promoter Hypermethylation](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#promoter-hypermethylation)
 - **7.2.3** [Clinical Examples](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#723-clinical-examples)
 
-### 7.3 [Histone Modifications in Cancer](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#73-histone-modifications-in-cancer)
+</details>
+
+<details>
+<summary><strong>7.3 Histone Modifications in Cancer</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#73-histone-modifications-in-cancer)
 - **7.3.1** [Basic Mechanisms of Histone Modifications](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#731-basic-mechanisms-of-histone-modifications)
 - **7.3.2** [Types of Histone Modifications](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#732-types-of-histone-modifications)
 - **7.3.3** [Histone Modifications in Cancer](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#733-histone-modifications-in-cancer)
   - [Clinical Examples in Bladder Cancer](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#clinical-examples-in-bladder-cancer)
 - **7.3.4** [Metabolic Regulation of Histone Modifications](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#734-metabolic-regulation-of-histone-modifications)
 
-### 7.4 [Non-coding RNAs in Cancer](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#74-non-coding-rnas-in-cancer)
+</details>
+
+<details>
+<summary><strong>7.4 Non-coding RNAs in Cancer</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#74-non-coding-rnas-in-cancer)
 - **7.4.1** [Overview of Non-coding RNAs](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#741-overview-of-non-coding-rnas)
 - **7.4.2** [MicroRNAs in Cancer](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#742-micrornas-in-cancer)
   - [Structure and Biogenesis](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#structure-and-biogenesis)
@@ -587,35 +717,78 @@
   - [Historical Context](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#historical-context)
   - [Clinical Significance](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#clinical-significance)
 
-### 7.5 [Polycomb and Trithorax Group Proteins](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#75-polycomb-and-trithorax-group-proteins)
+</details>
+
+<details>
+<summary><strong>7.5 Polycomb and Trithorax Group Proteins</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#75-polycomb-and-trithorax-group-proteins)
 - **7.5.1** [Cellular Memory Systems](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#751-cellular-memory-systems)
 - **7.5.2** [Clinical Relevance in Cancer](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#752-clinical-relevance-in-cancer)
 - **7.5.3** [Bivalent Chromatin and Cancer](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#753-bivalent-chromatin-and-cancer)
 
-### 7.6 [Epigenetic Reprogramming in Cancer](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#76-epigenetic-reprogramming-in-cancer)
+</details>
+
+<details>
+<summary><strong>7.6 Epigenetic Reprogramming in Cancer</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#76-epigenetic-reprogramming-in-cancer)
 - **7.6.1** [Cancer as Epigenetic Disease](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#761-cancer-as-epigenetic-disease)
 - **7.6.2** [Epigenetic Changes in Carcinogenesis](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#762-epigenetic-changes-in-carcinogenesis)
 - **7.6.3** [Stem Cells and Epigenetic Cancer](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#763-stem-cells-and-epigenetic-cancer)
 
-### 7.7 [Epigenetic Therapy](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#77-epigenetic-therapy)
+</details>
+
+<details>
+<summary><strong>7.7 Epigenetic Therapy</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#77-epigenetic-therapy)
 - **7.7.1** [Therapeutic Rationale](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#771-therapeutic-rationale)
 - **7.7.2** [FDA-Approved Epigenetic Drugs](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#772-fda-approved-epigenetic-drugs)
 - **7.7.3** [DNA Methyltransferase Inhibitors](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#773-dna-methyltransferase-inhibitors)
 - **7.7.4** [Combination Therapies](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#774-combination-therapies)
 - **7.7.5** [Synthetic Lethality Approaches](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#775-synthetic-lethality-approaches)
 
-### 7.8 [Clinical Applications and Future Directions](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#78-clinical-applications-and-future-directions)
+</details>
+
+<details>
+<summary><strong>7.8 Clinical Applications and Future Directions</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#78-clinical-applications-and-future-directions)
 - **7.8.1** [Biomarker Applications](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#781-biomarker-applications)
 - **7.8.2** [Personalized Medicine](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#782-personalized-medicine)
 - **7.8.3** [Future Research Directions](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#783-future-research-directions)
 
-### [Conclusion](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#conclusion)
+</details>
 
-## Chapter 8: [Cancer Etiology](./Chapter%2008:%20Cancer%20Etiology.md)
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
 
-### [Introduction](./Chapter%2008:%20Cancer%20Etiology.md#introduction)
+- [View Conclusion](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#conclusion)
 
-### 8.1 [Chemical Carcinogens](./Chapter%2008:%20Cancer%20Etiology.md#81-chemical-carcinogens)
+</details>
+
+
+## Chapter 8: Cancer Etiology
+
+<details>
+<summary><strong>Introduction</strong></summary>
+<br>
+
+- [View Introduction](./Chapter%2008:%20Cancer%20Etiology.md#introduction)
+
+</details>
+
+<details>
+<summary><strong>8.1 Chemical Carcinogens</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2008:%20Cancer%20Etiology.md#81-chemical-carcinogens)
 - **8.1.1** [Overview and Classification](./Chapter%2008:%20Cancer%20Etiology.md#811-overview-and-classification)
 - **8.1.2** [Mechanisms of Chemical Carcinogenesis](./Chapter%2008:%20Cancer%20Etiology.md#812-mechanisms-of-chemical-carcinogenesis)
   - [Initiation, Promotion, and Progression](./Chapter%2008:%20Cancer%20Etiology.md#initiation-promotion-and-progression)
@@ -627,7 +800,13 @@
   - [Dietary Carcinogens](./Chapter%2008:%20Cancer%20Etiology.md#dietary-carcinogens)
 - **8.1.4** [Risk Assessment and Prevention](./Chapter%2008:%20Cancer%20Etiology.md#814-risk-assessment-and-prevention)
 
-### 8.2 [Radiation Carcinogenesis](./Chapter%2008:%20Cancer%20Etiology.md#82-radiation-carcinogenesis)
+</details>
+
+<details>
+<summary><strong>8.2 Radiation Carcinogenesis</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2008:%20Cancer%20Etiology.md#82-radiation-carcinogenesis)
 - **8.2.1** [Types of Radiation](./Chapter%2008:%20Cancer%20Etiology.md#821-types-of-radiation)
   - [Ionizing Radiation](./Chapter%2008:%20Cancer%20Etiology.md#ionizing-radiation)
   - [Ultraviolet Radiation](./Chapter%2008:%20Cancer%20Etiology.md#ultraviolet-radiation)
@@ -640,7 +819,13 @@
   - [Experimental Evidence](./Chapter%2008:%20Cancer%20Etiology.md#experimental-evidence)
 - **8.2.4** [Dose-Response Relationships](./Chapter%2008:%20Cancer%20Etiology.md#824-dose-response-relationships)
 
-### 8.3 [Viral Carcinogenesis](./Chapter%2008:%20Cancer%20Etiology.md#83-viral-carcinogenesis)
+</details>
+
+<details>
+<summary><strong>8.3 Viral Carcinogenesis</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2008:%20Cancer%20Etiology.md#83-viral-carcinogenesis)
 - **8.3.1** [Overview of Oncogenic Viruses](./Chapter%2008:%20Cancer%20Etiology.md#831-overview-of-oncogenic-viruses)
   - [Major Oncogenic Viruses](./Chapter%2008:%20Cancer%20Etiology.md#major-oncogenic-viruses)
 - **8.3.2** [Human Papillomaviruses (HPV)](./Chapter%2008:%20Cancer%20Etiology.md#832-human-papillomaviruses-hpv)
@@ -654,7 +839,13 @@
   - [Epstein-Barr Virus (EBV)](./Chapter%2008:%20Cancer%20Etiology.md#epstein-barr-virus-ebv)
   - [Immunosuppression and Viral Carcinogenesis](./Chapter%2008:%20Cancer%20Etiology.md#immunosuppression-and-viral-carcinogenesis)
 
-### 8.4 [Bacterial Carcinogenesis](./Chapter%2008:%20Cancer%20Etiology.md#84-bacterial-carcinogenesis)
+</details>
+
+<details>
+<summary><strong>8.4 Bacterial Carcinogenesis</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2008:%20Cancer%20Etiology.md#84-bacterial-carcinogenesis)
 - **8.4.1** [Helicobacter pylori and Gastric Cancer](./Chapter%2008:%20Cancer%20Etiology.md#841-helicobacter-pylori-and-gastric-cancer)
   - [Epidemiology and Disease Associations](./Chapter%2008:%20Cancer%20Etiology.md#epidemiology-and-disease-associations)
   - [Mechanisms of H. pylori Carcinogenesis](./Chapter%2008:%20Cancer%20Etiology.md#mechanisms-of-h-pylori-carcinogenesis)
@@ -666,7 +857,13 @@
   - [Risk Assessment](./Chapter%2008:%20Cancer%20Etiology.md#risk-assessment)
 - **8.4.3** [The Microbiome and Cancer](./Chapter%2008:%20Cancer%20Etiology.md#843-the-microbiome-and-cancer)
 
-### 8.5 [Multifactorial Nature of Carcinogenesis](./Chapter%2008:%20Cancer%20Etiology.md#85-multifactorial-nature-of-carcinogenesis)
+</details>
+
+<details>
+<summary><strong>8.5 Multifactorial Nature of Carcinogenesis</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2008:%20Cancer%20Etiology.md#85-multifactorial-nature-of-carcinogenesis)
 - **8.5.1** [The Hallmarks of Cancer](./Chapter%2008:%20Cancer%20Etiology.md#851-the-hallmarks-of-cancer)
 - **8.5.2** [Co-factors and Risk Modifiers](./Chapter%2008:%20Cancer%20Etiology.md#852-co-factors-and-risk-modifiers)
   - [Hormones and Promotion](./Chapter%2008:%20Cancer%20Etiology.md#hormones-and-promotion)
@@ -675,7 +872,17 @@
   - [Primary Prevention](./Chapter%2008:%20Cancer%20Etiology.md#primary-prevention)
   - [Secondary Prevention](./Chapter%2008:%20Cancer%20Etiology.md#secondary-prevention)
 
-### [Conclusion](./Chapter%2008:%20Cancer%20Etiology.md#conclusion)
+</details>
+
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
+
+- [View Conclusion](./Chapter%2008:%20Cancer%20Etiology.md#conclusion)
+
+</details>
+
+# Part III: Tumor Progression and Microenvironment
 
 ## Chapter 9: [Cell Cycle Control and Cancer](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md)
 
