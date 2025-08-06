@@ -3205,3 +3205,89 @@
 
 </details>
 
+## Chapter 35: Rare and Orphan Cancers
+
+<details>
+<summary><strong>35.1 Sarcomas</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#351-sarcomas)
+- [Introduction and Classification](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#introduction-and-classification)
+- [Bone Sarcomas](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#bone-sarcomas)
+  - [Osteosarcoma](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#osteosarcoma)
+- [Soft Tissue Sarcomas](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#soft-tissue-sarcomas)
+  - [Rhabdomyosarcoma](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#rhabdomyosarcoma)
+  - [Other Soft Tissue Sarcomas](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#other-soft-tissue-sarcomas)
+
+</details>
+
+<details>
+<summary><strong>35.2 Thymic Tumors</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#352-thymic-tumors)
+- [Introduction and Classification](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#introduction-and-classification-1)
+- [Pathophysiology and WHO Classification](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#pathophysiology-and-who-classification)
+- [Clinical Presentation and Diagnosis](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#clinical-presentation-and-diagnosis)
+- [Molecular Characteristics](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#molecular-characteristics)
+- [Staging and Prognosis](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#staging-and-prognosis)
+- [Treatment Considerations](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#treatment-considerations)
+
+</details>
+
+<details>
+<summary><strong>35.3 Gestational Trophoblastic Disease</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#353-gestational-trophoblastic-disease)
+- [Introduction and Classification](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#introduction-and-classification-2)
+- [Hydatidiform Moles](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#hydatidiform-moles)
+- [Clinical Presentation](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#clinical-presentation)
+- [Gestational Trophoblastic Neoplasia](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#gestational-trophoblastic-neoplasia)
+  - [Choriocarcinoma](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#choriocarcinoma)
+- [Diagnostic Methods](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#diagnostic-methods)
+- [Treatment and Prognosis](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#treatment-and-prognosis)
+
+</details>
+
+<details>
+<summary><strong>35.4 Adrenocortical Carcinoma</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#354-adrenocortical-carcinoma)
+- [Introduction and Epidemiology](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#introduction-and-epidemiology)
+- [Pathophysiology and Molecular Biology](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#pathophysiology-and-molecular-biology)
+- [Histopathological Assessment](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#histopathological-assessment)
+- [Clinical Presentation](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#clinical-presentation-1)
+- [Staging and Prognosis](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#staging-and-prognosis-1)
+- [Treatment Approaches](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#treatment-approaches)
+
+</details>
+
+<details>
+<summary><strong>35.5 Peritoneal and Primary Peritoneal Cancers</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#355-peritoneal-and-primary-peritoneal-cancers)
+- [Introduction and Classification](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#introduction-and-classification-3)
+- [Primary Peritoneal Carcinoma](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#primary-peritoneal-carcinoma)
+- [Malignant Peritoneal Mesothelioma](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#malignant-peritoneal-mesothelioma)
+- [Secondary Peritoneal Cancer (Peritoneal Carcinomatosis)](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#secondary-peritoneal-cancer-peritoneal-carcinomatosis)
+- [Clinical Presentation](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#clinical-presentation-2)
+- [Diagnostic Approach](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#diagnostic-approach)
+- [Treatment Strategies](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#treatment-strategies)
+- [Special Entities](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#special-entities)
+  - [Pseudomyxoma Peritonei](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#pseudomyxoma-peritonei)
+
+</details>
+
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
+
+- [View Conclusion](./Chapter%2035:%20Rare%20and%20Orphan%20Cancers.md#conclusion)
+
+</details>
+
+#Part VIII Clinical Management and Survivorship
+
