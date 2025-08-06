@@ -425,8 +425,6 @@
 
 ### [Conclusion](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#conclusion)
 
-# Table of Contents
-
 ## [Chapter 7: Epigenetics in Cancer](#chapter-7-epigenetics-in-cancer)
 
 ### [7.1 Introduction to Epigenetics in Cancer](#71-introduction-to-epigenetics-in-cancer)
