@@ -695,3 +695,52 @@
 - **11.8.3** [Systems Biology Approaches](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1183-systems-biology-approaches)
 
 ### [Conclusion](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#conclusion)
+
+## Chapter 12: [Angiogenesis](./Chapter%2012:%20Angiogenesis.md)
+
+### 12.1 [Introduction and Basic Concepts](./Chapter%2012:%20Angiogenesis.md#121-introduction-and-basic-concepts)
+- **12.1.1** [The Angiogenic Switch](./Chapter%2012:%20Angiogenesis.md#1211-the-angiogenic-switch)
+- **12.1.2** [Normal versus Pathological Angiogenesis](./Chapter%2012:%20Angiogenesis.md#1212-normal-versus-pathological-angiogenesis)
+- **12.1.3** [Tumor Size Limitations and the Angiogenic Switch](./Chapter%2012:%20Angiogenesis.md#1213-tumor-size-limitations-and-the-angiogenic-switch)
+
+### 12.2 [Key Angiogenic Factors](./Chapter%2012:%20Angiogenesis.md#122-key-angiogenic-factors)
+- **12.2.1** [Vascular Endothelial Growth Factor (VEGF)](./Chapter%2012:%20Angiogenesis.md#1221-vascular-endothelial-growth-factor-vegf)
+  - [VEGF Structure and Isoforms](./Chapter%2012:%20Angiogenesis.md#vegf-structure-and-isoforms)
+  - [VEGF Receptors and Signaling](./Chapter%2012:%20Angiogenesis.md#vegf-receptors-and-signaling)
+- **12.2.2** [Angiopoietin-Tie System](./Chapter%2012:%20Angiogenesis.md#1222-angiopoietin-tie-system)
+  - [Tie Receptors and Angiopoietin Ligands](./Chapter%2012:%20Angiogenesis.md#tie-receptors-and-angiopoietin-ligands)
+  - [Angiopoietin Functions in Angiogenesis](./Chapter%2012:%20Angiogenesis.md#angiopoietin-functions-in-angiogenesis)
+- **12.2.3** [Other Angiogenic Factors](./Chapter%2012:%20Angiogenesis.md#1223-other-angiogenic-factors)
+  - [Fibroblast Growth Factors](./Chapter%2012:%20Angiogenesis.md#fibroblast-growth-factors)
+  - [Placental Growth Factor](./Chapter%2012:%20Angiogenesis.md#placental-growth-factor)
+
+### 12.3 [Role of Hypoxia in Angiogenesis](./Chapter%2012:%20Angiogenesis.md#123-role-of-hypoxia-in-angiogenesis)
+- **12.3.1** [Hypoxia as an Angiogenic Stimulus](./Chapter%2012:%20Angiogenesis.md#1231-hypoxia-as-an-angiogenic-stimulus)
+- **12.3.2** [Hypoxia-Inducible Factors (HIFs)](./Chapter%2012:%20Angiogenesis.md#1232-hypoxia-inducible-factors-hifs)
+- **12.3.3** [HIF-Mediated Effects on Tumor Biology](./Chapter%2012:%20Angiogenesis.md#1233-hif-mediated-effects-on-tumor-biology)
+
+### 12.4 [Angiogenic Process and Stages](./Chapter%2012:%20Angiogenesis.md#124-angiogenic-process-and-stages)
+- **12.4.1** [Basic Steps of Angiogenesis](./Chapter%2012:%20Angiogenesis.md#1241-basic-steps-of-angiogenesis)
+- **12.4.2** [Endothelial Cell Sprouting](./Chapter%2012:%20Angiogenesis.md#1242-endothelial-cell-sprouting)
+- **12.4.3** [Tip Cell and Stalk Cell Specification](./Chapter%2012:%20Angiogenesis.md#1243-tip-cell-and-stalk-cell-specification)
+- **12.4.4** [Types of Angiogenesis](./Chapter%2012:%20Angiogenesis.md#1244-types-of-angiogenesis)
+
+### 12.5 [Angiogenesis in Cancer](./Chapter%2012:%20Angiogenesis.md#125-angiogenesis-in-cancer)
+- **12.5.1** [Historical Perspective](./Chapter%2012:%20Angiogenesis.md#1251-historical-perspective)
+- **12.5.2** [Evidence for Angiogenesis Dependence](./Chapter%2012:%20Angiogenesis.md#1252-evidence-for-angiogenesis-dependence)
+- **12.5.3** [Tumor-Associated Macrophages and Angiogenesis](./Chapter%2012:%20Angiogenesis.md#1253-tumor-associated-macrophages-and-angiogenesis)
+- **12.5.4** [Tumor Angiogenesis in Specific Cancer Types](./Chapter%2012:%20Angiogenesis.md#1254-tumor-angiogenesis-in-specific-cancer-types)
+
+### 12.6 [Anti-Angiogenic Therapy](./Chapter%2012:%20Angiogenesis.md#126-anti-angiogenic-therapy)
+- **12.6.1** [Therapeutic Rationale](./Chapter%2012:%20Angiogenesis.md#1261-therapeutic-rationale)
+- **12.6.2** [Bevacizumab: Clinical Implementation](./Chapter%2012:%20Angiogenesis.md#1262-bevacizumab-clinical-implementation)
+- **12.6.3** [Clinical Efficacy of Anti-Angiogenic Therapy](./Chapter%2012:%20Angiogenesis.md#1263-clinical-efficacy-of-anti-angiogenic-therapy)
+- **12.6.4** [Toxicities of Anti-Angiogenic Therapy](./Chapter%2012:%20Angiogenesis.md#1264-toxicities-of-anti-angiogenic-therapy)
+- **12.6.5** [Endogenous Angiogenesis Inhibitors](./Chapter%2012:%20Angiogenesis.md#1265-endogenous-angiogenesis-inhibitors)
+
+### 12.7 [Clinical Implications and Future Directions](./Chapter%2012:%20Angiogenesis.md#127-clinical-implications-and-future-directions)
+- **12.7.1** [Prognostic Significance](./Chapter%2012:%20Angiogenesis.md#1271-prognostic-significance)
+- **12.7.2** [Combination Therapies](./Chapter%2012:%20Angiogenesis.md#1272-combination-therapies)
+- **12.7.3** [Emerging Targets](./Chapter%2012:%20Angiogenesis.md#1273-emerging-targets)
+
+### [Conclusion](./Chapter%2012:%20Angiogenesis.md#conclusion)
