@@ -3471,3 +3471,66 @@
 - [View Conclusion](./Chapter%2037:%20Cancer%20Survivorship.md#conclusion)
 
 </details>
+
+## Chapter 38: Health Economics and Access to Cancer Care
+
+<details>
+<summary><strong>Introduction</strong></summary>
+<br>
+
+- [View Introduction](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#introduction)
+
+</details>
+
+<details>
+<summary><strong>38.1 Drug Pricing and Affordability</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#381-drug-pricing-and-affordability)
+- [The Economic Framework of Cancer Drug Pricing](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#the-economic-framework-of-cancer-drug-pricing)
+- [Financial Impact on Patients](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#financial-impact-on-patients)
+- [Healthcare System Economics](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#healthcare-system-economics)
+- [International Pricing Comparisons](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#international-pricing-comparisons)
+- [Value-Based Pricing Approaches](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#value-based-pricing-approaches)
+
+</details>
+
+<details>
+<summary><strong>38.2 Global Disparities</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#382-global-disparities)
+- [The Burden of Cancer in Low- and Middle-Income Countries](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#the-burden-of-cancer-in-low--and-middle-income-countries)
+- [Healthcare Infrastructure Disparities](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#healthcare-infrastructure-disparities)
+- [Geographic and Economic Access Barriers](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#geographic-and-economic-access-barriers)
+- [Cancer Types and Stage Distribution](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#cancer-types-and-stage-distribution)
+- [Childhood Cancer Disparities](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#childhood-cancer-disparities)
+- [Social Determinants and Vulnerable Populations](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#social-determinants-and-vulnerable-populations)
+- [Screening and Prevention Disparities](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#screening-and-prevention-disparities)
+
+</details>
+
+<details>
+<summary><strong>38.3 Ethical and Policy Considerations</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#383-ethical-and-policy-considerations)
+- [Ethical Frameworks in Cancer Care Economics](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#ethical-frameworks-in-cancer-care-economics)
+- [Equity and Priority Setting](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#equity-and-priority-setting)
+- [Cost-Effectiveness and Moral Considerations](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#cost-effectiveness-and-moral-considerations)
+- [Individual Responsibility and Health Outcomes](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#individual-responsibility-and-health-outcomes)
+- [Professional Ethics and Financial Incentives](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#professional-ethics-and-financial-incentives)
+- [Policy Approaches to Affordability](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#policy-approaches-to-affordability)
+- [Screening Ethics and Resource Allocation](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#screening-ethics-and-resource-allocation)
+- [Global Justice and Health Equity](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#global-justice-and-health-equity)
+- [Future Directions and Sustainability](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#future-directions-and-sustainability)
+
+</details>
+
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
+
+- [View Conclusion](./Chapter%2038:%20Health%20Economics%20and%20Access%20to%20Cancer%20Care.md#conclusion)
+
+</details>
