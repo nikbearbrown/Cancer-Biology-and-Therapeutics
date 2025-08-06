@@ -1472,3 +1472,87 @@
 - [View Section](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#clinical-implications-and-future-directions)
 
 </details>
+
+## Chapter 15: Cancer Stem Cells and Tumor Heterogeneity
+
+<details>
+<summary><strong>15.1 Concept and Characteristics of Cancer Stem Cells</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#151-concept-and-characteristics-of-cancer-stem-cells)
+- **15.1.1** [Historical Context and Conceptual Foundation](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#1511-historical-context-and-conceptual-foundation)
+  - [Terminology and Definitions](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#terminology-and-definitions)
+- **15.1.2** [Defining Characteristics of Cancer Stem Cells](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#1512-defining-characteristics-of-cancer-stem-cells)
+  - [Self-Renewal and Differentiation Capacity](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#self-renewal-and-differentiation-capacity)
+  - [Tumor-Initiating Capacity](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#tumor-initiating-capacity)
+  - [Hierarchical Organization](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#hierarchical-organization)
+- **15.1.3** [Molecular Markers for Cancer Stem Cell Identification](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#1513-molecular-markers-for-cancer-stem-cell-identification)
+  - [Marker-Based Identification Strategies](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#marker-based-identification-strategies)
+  - [Specific Markers in Different Cancer Types](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#specific-markers-in-different-cancer-types)
+- **15.1.4** [Marker-Independent Identification Methods](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#1514-marker-independent-identification-methods)
+  - [Side Population Analysis](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#side-population-analysis)
+  - [ABC Transporter Expression](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#abc-transporter-expression)
+
+</details>
+
+<details>
+<summary><strong>15.2 Tumor Heterogeneity and Clonal Evolution</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#152-tumor-heterogeneity-and-clonal-evolution)
+- **15.2.1** [Types of Tumor Heterogeneity](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#1521-types-of-tumor-heterogeneity)
+  - [Intertumoral Heterogeneity](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#intertumoral-heterogeneity)
+  - [Intratumoral Heterogeneity](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#intratumoral-heterogeneity)
+  - [Spatial and Temporal Heterogeneity](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#spatial-and-temporal-heterogeneity)
+- **15.2.2** [Molecular Mechanisms of Tumor Heterogeneity](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#1522-molecular-mechanisms-of-tumor-heterogeneity)
+  - [Genomic Instability](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#genomic-instability)
+  - [Epigenetic Alterations](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#epigenetic-alterations)
+  - [Mutational Processes](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#mutational-processes)
+- **15.2.3** [Theories of Tumor Heterogeneity](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#1523-theories-of-tumor-heterogeneity)
+  - [Clonal Evolution Model](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#clonal-evolution-model)
+  - [Cancer Stem Cell Model](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#cancer-stem-cell-model)
+- **15.2.4** [Clonal Evolution and Progression](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#1524-clonal-evolution-and-progression)
+  - [Multistage Progression](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#multistage-progression)
+  - [Field Cancerization](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#field-cancerization)
+  - [Metastatic Evolution](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#metastatic-evolution)
+
+</details>
+
+<details>
+<summary><strong>15.3 Implications for Treatment Resistance</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#153-implications-for-treatment-resistance)
+- **15.3.1** [Mechanisms of Treatment Resistance in Cancer Stem Cells](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#1531-mechanisms-of-treatment-resistance-in-cancer-stem-cells)
+  - [Intrinsic Resistance Properties](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#intrinsic-resistance-properties)
+  - [Enhanced DNA Repair Mechanisms](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#enhanced-dna-repair-mechanisms)
+  - [Metabolic Adaptations](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#metabolic-adaptations)
+- **15.3.2** [Drug Efflux Mechanisms](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#1532-drug-efflux-mechanisms)
+  - [ATP-Binding Cassette (ABC) Transporters](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#atp-binding-cassette-abc-transporters)
+  - [Multidrug Resistance Proteins](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#multidrug-resistance-proteins)
+- **15.3.3** [Treatment-Induced Selection Pressure](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#1533-treatment-induced-selection-pressure)
+  - [Chemotherapy-Induced CSC Enrichment](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#chemotherapy-induced-csc-enrichment)
+  - [Epithelial-Mesenchymal Transition (EMT)](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#epithelial-mesenchymal-transition-emt)
+- **15.3.4** [Resistance Mechanisms in Different Cancer Types](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#1534-resistance-mechanisms-in-different-cancer-types)
+  - [Hepatocellular Carcinoma](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#hepatocellular-carcinoma)
+  - [Breast Cancer](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#breast-cancer)
+  - [Pancreatic Cancer](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#pancreatic-cancer)
+- **15.3.5** [Overcoming Treatment Resistance](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#1535-overcoming-treatment-resistance)
+  - [Targeting CSC-Specific Pathways](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#targeting-csc-specific-pathways)
+  - [Combination Therapy Approaches](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#combination-therapy-approaches)
+  - [Immunotherapy and CSCs](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#immunotherapy-and-cscs)
+
+</details>
+
+<details>
+<summary><strong>Clinical Implications and Future Directions</strong></summary>
+<br>
+
+- [View Section](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#clinical-implications-and-future-directions)
+  - [Biomarker Development](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#biomarker-development)
+  - [Personalized Medicine Approaches](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#personalized-medicine-approaches)
+  - [Therapeutic Targeting Strategies](./Chapter%2015:%20Cancer%20Stem%20Cells%20and%20Tumor%20Heterogeneity.md#therapeutic-targeting-strategies)
+
+</details>
+
+# Part IV: Cancer Immunology and the Immune Landscape
