@@ -3289,5 +3289,110 @@
 
 </details>
 
-#Part VIII Clinical Management and Survivorship
+# Part VIII Clinical Management and Survivorship
+
+## Chapter 36: Supportive Care and Palliative Care in Oncology
+
+<details>
+<summary><strong>36.1 Management of Cancer-Related Symptoms</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#361-management-of-cancer-related-symptoms)
+- [Cancer Pain Management](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#cancer-pain-management)
+  - [WHO Analgesic Ladder](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#who-analgesic-ladder)
+  - [Opioid Management](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#opioid-management)
+  - [Pain Assessment and Monitoring](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#pain-assessment-and-monitoring)
+  - [Cultural Considerations in Pain Management](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#cultural-considerations-in-pain-management)
+  - [Total Pain Concept](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#total-pain-concept)
+- [Nausea and Vomiting Management](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#nausea-and-vomiting-management)
+  - [Classification of Chemotherapy-Induced Nausea and Vomiting](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#classification-of-chemotherapy-induced-nausea-and-vomiting)
+  - [Antiemetic Medications](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#antiemetic-medications)
+  - [Dexamethasone in Antiemetic Therapy](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#dexamethasone-in-antiemetic-therapy)
+  - [Non-Pharmacological Approaches](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#non-pharmacological-approaches)
+- [Cancer-Related Fatigue](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#cancer-related-fatigue)
+  - [Pathophysiology](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#pathophysiology)
+  - [Assessment and Management](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#assessment-and-management)
+
+</details>
+
+<details>
+<summary><strong>36.2 Nutritional Support</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#362-nutritional-support)
+- [Cancer-Associated Malnutrition](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#cancer-associated-malnutrition)
+  - [Cancer Cachexia](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#cancer-cachexia)
+  - [Assessment of Nutritional Status](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#assessment-of-nutritional-status)
+  - [Nutritional Screening Tools](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#nutritional-screening-tools)
+- [Treatment-Related Nutritional Issues](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#treatment-related-nutritional-issues)
+  - [Management Strategies](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#management-strategies)
+- [Nutrition in Advanced Cancer](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#nutrition-in-advanced-cancer)
+
+</details>
+
+<details>
+<summary><strong>36.3 Psychological and Social Support</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#363-psychological-and-social-support)
+- [Psychosocial Needs of Cancer Patients](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#psychosocial-needs-of-cancer-patients)
+  - [Prevalence and Impact](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#prevalence-and-impact)
+- [Assessment of Psychological Distress](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#assessment-of-psychological-distress)
+  - [Screening Tools](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#screening-tools)
+  - [Safety Evaluation](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#safety-evaluation)
+- [Interprofessional Psychosocial Support](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#interprofessional-psychosocial-support)
+  - [Team Composition](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#team-composition)
+  - [Interventions](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#interventions)
+- [Special Populations](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#special-populations)
+  - [Older Adults](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#older-adults)
+  - [Children and Adolescents](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#children-and-adolescents)
+
+</details>
+
+<details>
+<summary><strong>36.4 Palliative Care Principles</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#364-palliative-care-principles)
+- [Definition and Goals](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#definition-and-goals)
+- [Core Principles](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#core-principles)
+- [Palliative Care vs. Hospice Care](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#palliative-care-vs-hospice-care)
+- [Interdisciplinary Team Approach](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#interdisciplinary-team-approach)
+- [Symptom Management](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#symptom-management)
+- [Communication in Palliative Care](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#communication-in-palliative-care)
+  - [Breaking Bad News](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#breaking-bad-news)
+- [Early Integration of Palliative Care](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#early-integration-of-palliative-care)
+
+</details>
+
+<details>
+<summary><strong>36.5 End-of-Life Care</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#365-end-of-life-care)
+- [Defining End-of-Life Care](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#defining-end-of-life-care)
+- [Hospice Care](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#hospice-care)
+  - [Definition and Philosophy](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#definition-and-philosophy)
+  - [Eligibility Criteria](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#eligibility-criteria)
+  - [Hospice Services](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#hospice-services)
+- [Signs and Symptoms in the Final Days](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#signs-and-symptoms-in-the-final-days)
+  - [Physical Changes](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#physical-changes)
+  - [Neurological Changes](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#neurological-changes)
+- [Family Support and Bereavement](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#family-support-and-bereavement)
+  - [Supporting Families](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#supporting-families)
+  - [Bereavement Support](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#bereavement-support)
+- [Barriers to End-of-Life Care](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#barriers-to-end-of-life-care)
+- [Spiritual Care at End of Life](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#spiritual-care-at-end-of-life)
+- [Advance Care Planning](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#advance-care-planning)
+- [Quality of Death](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#quality-of-death)
+
+</details>
+
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
+
+- [View Conclusion](./Chapter%2036:%20Supportive%20Care%20and%20Palliative%20Care%20in%20Oncology.md#conclusion)
+
+</details>
 
