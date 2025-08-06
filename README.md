@@ -884,18 +884,34 @@
 
 # Part III: Tumor Progression and Microenvironment
 
-## Chapter 9: [Cell Cycle Control and Cancer](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md)
+## Chapter 9: Cell Cycle Control and Cancer
 
-### [Introduction](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#introduction)
+<details>
+<summary><strong>Introduction</strong></summary>
+<br>
 
-### 9.1 [Overview of the Cell Cycle and Its Regulation](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#91-overview-of-the-cell-cycle-and-its-regulation)
+- [View Introduction](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#introduction)
+
+</details>
+
+<details>
+<summary><strong>9.1 Overview of the Cell Cycle and Its Regulation</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#91-overview-of-the-cell-cycle-and-its-regulation)
 - **9.1.1** [Cell Cycle Phases](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#911-cell-cycle-phases)
 - **9.1.2** [Core Components of Cell Cycle Control](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#912-core-components-of-cell-cycle-control)
   - [Cyclin-Dependent Kinases (CDKs)](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#cyclin-dependent-kinases-cdks)
   - [Cyclin Classification](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#cyclin-classification)
   - [Cell Cycle Progression Overview](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#cell-cycle-progression-overview)
 
-### 9.2 [Cell Cycle Checkpoints](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#92-cell-cycle-checkpoints)
+</details>
+
+<details>
+<summary><strong>9.2 Cell Cycle Checkpoints</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#92-cell-cycle-checkpoints)
 - **9.2.1** [The Concept of Cell Cycle Checkpoints](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#921-the-concept-of-cell-cycle-checkpoints)
 - **9.2.2** [The Restriction Point](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#922-the-restriction-point)
   - [Molecular Control of the Restriction Point](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#molecular-control-of-the-restriction-point)
@@ -904,11 +920,23 @@
 - **9.2.4** [The G2/M Checkpoint](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#924-the-g2m-checkpoint)
   - [Mitotic Promoting Factor (MPF)](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#mitotic-promoting-factor-mpf)
 
-### 9.3 [Cyclin-Dependent Kinase Inhibitors](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#93-cyclin-dependent-kinase-inhibitors)
+</details>
+
+<details>
+<summary><strong>9.3 Cyclin-Dependent Kinase Inhibitors</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#93-cyclin-dependent-kinase-inhibitors)
 - **9.3.1** [Families of CDK Inhibitors](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#931-families-of-cdk-inhibitors)
   - [Anti-proliferative Signaling](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#anti-proliferative-signaling)
 
-### 9.4 [Tumor Suppressor Genes](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#94-tumor-suppressor-genes)
+</details>
+
+<details>
+<summary><strong>9.4 Tumor Suppressor Genes</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#94-tumor-suppressor-genes)
 - **9.4.1** [The p53 Tumor Suppressor](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#941-the-p53-tumor-suppressor)
   - [p53 Function and Regulation](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#p53-function-and-regulation)
   - [p53 Pathway Mechanism](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#p53-pathway-mechanism)
@@ -918,7 +946,13 @@
   - [Rb Function in Cell Cycle Control](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#rb-function-in-cell-cycle-control)
   - [Rb and Cancer](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#rb-and-cancer)
 
-### 9.5 [Oncogenes and Cell Cycle Dysregulation](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#95-oncogenes-and-cell-cycle-dysregulation)
+</details>
+
+<details>
+<summary><strong>9.5 Oncogenes and Cell Cycle Dysregulation</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#95-oncogenes-and-cell-cycle-dysregulation)
 - **9.5.1** [Proto-oncogenes and Oncogenes](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#951-proto-oncogenes-and-oncogenes)
 - **9.5.2** [Mechanisms of Oncogene Activation](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#952-mechanisms-of-oncogene-activation)
   - [Gene Amplification](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#gene-amplification)
@@ -926,7 +960,13 @@
 - **9.5.3** [Growth Factor Signaling and Cell Cycle](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#953-growth-factor-signaling-and-cell-cycle)
   - [Oncogenic Stress Response](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#oncogenic-stress-response)
 
-### 9.6 [Disruption of Cell Cycle Control in Cancer](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#96-disruption-of-cell-cycle-control-in-cancer)
+</details>
+
+<details>
+<summary><strong>9.6 Disruption of Cell Cycle Control in Cancer</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#96-disruption-of-cell-cycle-control-in-cancer)
 - **9.6.1** [Common Alterations in Cancer](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#961-common-alterations-in-cancer)
   - [p53 Mutations in Cancer](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#p53-mutations-in-cancer)
 - **9.6.2** [Viral Oncoproteins and Cell Cycle Control](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#962-viral-oncoproteins-and-cell-cycle-control)
@@ -935,20 +975,45 @@
   - [Genomic Instability](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#genomic-instability)
   - [Unlimited Proliferative Potential](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#unlimited-proliferative-potential)
 
-### 9.7 [Therapeutic Implications](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#97-therapeutic-implications)
+</details>
+
+<details>
+<summary><strong>9.7 Therapeutic Implications</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#97-therapeutic-implications)
 - **9.7.1** [Targeting Cell Cycle Checkpoints](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#971-targeting-cell-cycle-checkpoints)
 - **9.7.2** [CDK Inhibitors as Cancer Therapeutics](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#972-cdk-inhibitors-as-cancer-therapeutics)
 
-### [Conclusion](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#conclusion)
+</details>
 
-## Chapter 10: [Apoptosis and Programmed Cell Death in Cancer](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md)
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
 
-### 10.1 [Pathways of Apoptosis: Intrinsic and Extrinsic](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#101-pathways-of-apoptosis-intrinsic-and-extrinsic)
+- [View Conclusion](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#conclusion)
+
+</details>
+
+
+## Chapter 10: Apoptosis and Programmed Cell Death in Cancer
+
+<details>
+<summary><strong>10.1 Pathways of Apoptosis: Intrinsic and Extrinsic</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#101-pathways-of-apoptosis-intrinsic-and-extrinsic)
 - **10.1.1** [The Intrinsic Apoptotic Pathway](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1011-the-intrinsic-apoptotic-pathway)
 - **10.1.2** [The Extrinsic Apoptotic Pathway](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1012-the-extrinsic-apoptotic-pathway)
 - **10.1.3** [Convergence and Cross-talk Between Pathways](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1013-convergence-and-cross-talk-between-pathways)
 
-### 10.2 [Evasion of Apoptosis by Cancer Cells](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#102-evasion-of-apoptosis-by-cancer-cells)
+</details>
+
+<details>
+<summary><strong>10.2 Evasion of Apoptosis by Cancer Cells</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#102-evasion-of-apoptosis-by-cancer-cells)
 - **10.2.1** [Dysregulation of Bcl-2 Family Proteins](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1021-dysregulation-of-bcl-2-family-proteins)
   - [Mechanisms of Bcl-2 Dysregulation](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#mechanisms-of-bcl-2-dysregulation)
 - **10.2.2** [p53 Mutations and Apoptosis Evasion](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1022-p53-mutations-and-apoptosis-evasion)
@@ -956,7 +1021,13 @@
 - **10.2.3** [Inhibitor of Apoptosis Proteins (IAPs)](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1023-inhibitor-of-apoptosis-proteins-iaps)
 - **10.2.4** [Death Receptor Pathway Resistance](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1024-death-receptor-pathway-resistance)
 
-### 10.3 [Therapeutic Targeting of Apoptosis](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#103-therapeutic-targeting-of-apoptosis)
+</details>
+
+<details>
+<summary><strong>10.3 Therapeutic Targeting of Apoptosis</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#103-therapeutic-targeting-of-apoptosis)
 - **10.3.1** [BCL-2 Inhibitors and BH3 Mimetics](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1031-bcl-2-inhibitors-and-bh3-mimetics)
   - [Clinical Development](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#clinical-development)
 - **10.3.2** [IAP Antagonists](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1032-iap-antagonists)
@@ -966,13 +1037,31 @@
 - **10.3.5** [Combination Therapies and Resistance](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#1035-combination-therapies-and-resistance)
   - [Clinical Significance](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#clinical-significance)
 
-### [Summary](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#summary)
+</details>
 
-## Chapter 11: [Cancer Metabolism: The Warburg Effect and Beyond](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md)
+<details>
+<summary><strong>Summary</strong></summary>
+<br>
 
-### [Introduction](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#introduction)
+- [View Summary](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#summary)
 
-### 11.1 [The Warburg Effect: Historical Discovery and Modern Understanding](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#111-the-warburg-effect-historical-discovery-and-modern-understanding)
+</details>
+
+## Chapter 11: Cancer Metabolism: The Warburg Effect and Beyond
+
+<details>
+<summary><strong>Introduction</strong></summary>
+<br>
+
+- [View Introduction](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#introduction)
+
+</details>
+
+<details>
+<summary><strong>11.1 The Warburg Effect: Historical Discovery and Modern Understanding</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#111-the-warburg-effect-historical-discovery-and-modern-understanding)
 - **11.1.1** [Historical Perspective](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1111-historical-perspective)
 - **11.1.2** [Contemporary Understanding](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1112-contemporary-understanding)
   - [Efficiency and Kinetics](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#efficiency-and-kinetics)
@@ -980,28 +1069,52 @@
   - [Clinical Applications](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#clinical-applications)
 - **11.1.3** [Metabolic Heterogeneity](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1113-metabolic-heterogeneity)
 
-### 11.2 [Glucose Metabolism in Cancer](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#112-glucose-metabolism-in-cancer)
+</details>
+
+<details>
+<summary><strong>11.2 Glucose Metabolism in Cancer</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#112-glucose-metabolism-in-cancer)
 - **11.2.1** [Glycolytic Pathway Regulation](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1121-glycolytic-pathway-regulation)
   - [Basic Glycolysis Pathway](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#basic-glycolysis-pathway)
   - [Enhanced Glycolysis in Cancer](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#enhanced-glycolysis-in-cancer)
 - **11.2.2** [The Reverse Warburg Effect](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1122-the-reverse-warburg-effect)
 - **11.2.3** [Therapeutic Targeting of Glucose Metabolism](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1123-therapeutic-targeting-of-glucose-metabolism)
 
-### 11.3 [Mitochondrial Function in Cancer](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#113-mitochondrial-function-in-cancer)
+</details>
+
+<details>
+<summary><strong>11.3 Mitochondrial Function in Cancer</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#113-mitochondrial-function-in-cancer)
 - **11.3.1** [Mitochondrial Structure and Function](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1131-mitochondrial-structure-and-function)
 - **11.3.2** [Mitochondria in Cancer Metabolism](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1132-mitochondria-in-cancer-metabolism)
   - [Energy Production](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#energy-production)
   - [Metabolic Integration](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#metabolic-integration)
 - **11.3.3** [Mitochondrial Protein Import and Assembly](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1133-mitochondrial-protein-import-and-assembly)
 
-### 11.4 [Lipid Metabolism in Cancer](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#114-lipid-metabolism-in-cancer)
+</details>
+
+<details>
+<summary><strong>11.4 Lipid Metabolism in Cancer</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#114-lipid-metabolism-in-cancer)
 - **11.4.1** [Fatty Acid Synthesis and Cancer](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1141-fatty-acid-synthesis-and-cancer)
   - [De Novo Lipid Synthesis](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#de-novo-lipid-synthesis)
   - [Enzyme Regulation](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#enzyme-regulation)
 - **11.4.2** [Fatty Acid Oxidation](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1142-fatty-acid-oxidation)
 - **11.4.3** [Cancer-Associated Fibroblasts and Lipid Metabolism](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1143-cancer-associated-fibroblasts-and-lipid-metabolism)
 
-### 11.5 [Amino Acid Metabolism in Cancer](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#115-amino-acid-metabolism-in-cancer)
+</details>
+
+<details>
+<summary><strong>11.5 Amino Acid Metabolism in Cancer</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#115-amino-acid-metabolism-in-cancer)
 - **11.5.1** [Glutamine Metabolism](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1151-glutamine-metabolism)
   - [Glutamine as a Critical Nutrient](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#glutamine-as-a-critical-nutrient)
   - [Glutaminolysis Pathway](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#glutaminolysis-pathway)
@@ -1009,14 +1122,26 @@
 - **11.5.3** [Therapeutic Targeting of Amino Acid Metabolism](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1153-therapeutic-targeting-of-amino-acid-metabolism)
   - [Glutaminase Inhibition](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#glutaminase-inhibition)
 
-### 11.6 [Metabolic Interactions in the Tumor Microenvironment](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#116-metabolic-interactions-in-the-tumor-microenvironment)
+</details>
+
+<details>
+<summary><strong>11.6 Metabolic Interactions in the Tumor Microenvironment</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#116-metabolic-interactions-in-the-tumor-microenvironment)
 - **11.6.1** [Cancer-Associated Fibroblasts (CAFs)](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1161-cancer-associated-fibroblasts-cafs)
 - **11.6.2** [Metabolic Cross-Talk](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1162-metabolic-cross-talk)
   - [Lactate Shuttle](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#lactate-shuttle)
   - [Mitochondrial Transfer](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#mitochondrial-transfer)
 - **11.6.3** [Alanine Metabolism](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1163-alanine-metabolism)
 
-### 11.7 [Therapeutic Targeting of Cancer Metabolism](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#117-therapeutic-targeting-of-cancer-metabolism)
+</details>
+
+<details>
+<summary><strong>11.7 Therapeutic Targeting of Cancer Metabolism</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#117-therapeutic-targeting-of-cancer-metabolism)
 - **11.7.1** [Targeting Glycolysis](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1171-targeting-glycolysis)
 - **11.7.2** [Targeting Lipid Metabolism](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1172-targeting-lipid-metabolism)
 - **11.7.3** [Combination Strategies](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1173-combination-strategies)
@@ -1026,21 +1151,45 @@
   - [Drug Resistance and Metabolism](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#drug-resistance-and-metabolism)
   - [Tumor Microenvironment Factors](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#tumor-microenvironment-factors)
 
-### 11.8 [Future Directions and Clinical Translation](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#118-future-directions-and-clinical-translation)
+</details>
+
+<details>
+<summary><strong>11.8 Future Directions and Clinical Translation</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#118-future-directions-and-clinical-translation)
 - **11.8.1** [Personalized Metabolic Therapy](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1181-personalized-metabolic-therapy)
 - **11.8.2** [Integration with Other Treatment Modalities](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1182-integration-with-other-treatment-modalities)
 - **11.8.3** [Systems Biology Approaches](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1183-systems-biology-approaches)
 
-### [Conclusion](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#conclusion)
+</details>
 
-## Chapter 12: [Angiogenesis](./Chapter%2012:%20Angiogenesis.md)
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
 
-### 12.1 [Introduction and Basic Concepts](./Chapter%2012:%20Angiogenesis.md#121-introduction-and-basic-concepts)
+- [View Conclusion](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#conclusion)
+
+</details>
+
+## Chapter 12: Angiogenesis
+
+<details>
+<summary><strong>12.1 Introduction and Basic Concepts</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2012:%20Angiogenesis.md#121-introduction-and-basic-concepts)
 - **12.1.1** [The Angiogenic Switch](./Chapter%2012:%20Angiogenesis.md#1211-the-angiogenic-switch)
 - **12.1.2** [Normal versus Pathological Angiogenesis](./Chapter%2012:%20Angiogenesis.md#1212-normal-versus-pathological-angiogenesis)
 - **12.1.3** [Tumor Size Limitations and the Angiogenic Switch](./Chapter%2012:%20Angiogenesis.md#1213-tumor-size-limitations-and-the-angiogenic-switch)
 
-### 12.2 [Key Angiogenic Factors](./Chapter%2012:%20Angiogenesis.md#122-key-angiogenic-factors)
+</details>
+
+<details>
+<summary><strong>12.2 Key Angiogenic Factors</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2012:%20Angiogenesis.md#122-key-angiogenic-factors)
 - **12.2.1** [Vascular Endothelial Growth Factor (VEGF)](./Chapter%2012:%20Angiogenesis.md#1221-vascular-endothelial-growth-factor-vegf)
   - [VEGF Structure and Isoforms](./Chapter%2012:%20Angiogenesis.md#vegf-structure-and-isoforms)
   - [VEGF Receptors and Signaling](./Chapter%2012:%20Angiogenesis.md#vegf-receptors-and-signaling)
@@ -1051,33 +1200,72 @@
   - [Fibroblast Growth Factors](./Chapter%2012:%20Angiogenesis.md#fibroblast-growth-factors)
   - [Placental Growth Factor](./Chapter%2012:%20Angiogenesis.md#placental-growth-factor)
 
-### 12.3 [Role of Hypoxia in Angiogenesis](./Chapter%2012:%20Angiogenesis.md#123-role-of-hypoxia-in-angiogenesis)
+</details>
+
+<details>
+<summary><strong>12.3 Role of Hypoxia in Angiogenesis</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2012:%20Angiogenesis.md#123-role-of-hypoxia-in-angiogenesis)
 - **12.3.1** [Hypoxia as an Angiogenic Stimulus](./Chapter%2012:%20Angiogenesis.md#1231-hypoxia-as-an-angiogenic-stimulus)
 - **12.3.2** [Hypoxia-Inducible Factors (HIFs)](./Chapter%2012:%20Angiogenesis.md#1232-hypoxia-inducible-factors-hifs)
 - **12.3.3** [HIF-Mediated Effects on Tumor Biology](./Chapter%2012:%20Angiogenesis.md#1233-hif-mediated-effects-on-tumor-biology)
 
-### 12.4 [Angiogenic Process and Stages](./Chapter%2012:%20Angiogenesis.md#124-angiogenic-process-and-stages)
+</details>
+
+<details>
+<summary><strong>12.4 Angiogenic Process and Stages</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2012:%20Angiogenesis.md#124-angiogenic-process-and-stages)
 - **12.4.1** [Basic Steps of Angiogenesis](./Chapter%2012:%20Angiogenesis.md#1241-basic-steps-of-angiogenesis)
 - **12.4.2** [Endothelial Cell Sprouting](./Chapter%2012:%20Angiogenesis.md#1242-endothelial-cell-sprouting)
 - **12.4.3** [Tip Cell and Stalk Cell Specification](./Chapter%2012:%20Angiogenesis.md#1243-tip-cell-and-stalk-cell-specification)
 - **12.4.4** [Types of Angiogenesis](./Chapter%2012:%20Angiogenesis.md#1244-types-of-angiogenesis)
 
-### 12.5 [Angiogenesis in Cancer](./Chapter%2012:%20Angiogenesis.md#125-angiogenesis-in-cancer)
+</details>
+
+<details>
+<summary><strong>12.5 Angiogenesis in Cancer</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2012:%20Angiogenesis.md#125-angiogenesis-in-cancer)
 - **12.5.1** [Historical Perspective](./Chapter%2012:%20Angiogenesis.md#1251-historical-perspective)
 - **12.5.2** [Evidence for Angiogenesis Dependence](./Chapter%2012:%20Angiogenesis.md#1252-evidence-for-angiogenesis-dependence)
 - **12.5.3** [Tumor-Associated Macrophages and Angiogenesis](./Chapter%2012:%20Angiogenesis.md#1253-tumor-associated-macrophages-and-angiogenesis)
 - **12.5.4** [Tumor Angiogenesis in Specific Cancer Types](./Chapter%2012:%20Angiogenesis.md#1254-tumor-angiogenesis-in-specific-cancer-types)
 
-### 12.6 [Anti-Angiogenic Therapy](./Chapter%2012:%20Angiogenesis.md#126-anti-angiogenic-therapy)
+</details>
+
+<details>
+<summary><strong>12.6 Anti-Angiogenic Therapy</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2012:%20Angiogenesis.md#126-anti-angiogenic-therapy)
 - **12.6.1** [Therapeutic Rationale](./Chapter%2012:%20Angiogenesis.md#1261-therapeutic-rationale)
 - **12.6.2** [Bevacizumab: Clinical Implementation](./Chapter%2012:%20Angiogenesis.md#1262-bevacizumab-clinical-implementation)
 - **12.6.3** [Clinical Efficacy of Anti-Angiogenic Therapy](./Chapter%2012:%20Angiogenesis.md#1263-clinical-efficacy-of-anti-angiogenic-therapy)
 - **12.6.4** [Toxicities of Anti-Angiogenic Therapy](./Chapter%2012:%20Angiogenesis.md#1264-toxicities-of-anti-angiogenic-therapy)
 - **12.6.5** [Endogenous Angiogenesis Inhibitors](./Chapter%2012:%20Angiogenesis.md#1265-endogenous-angiogenesis-inhibitors)
 
-### 12.7 [Clinical Implications and Future Directions](./Chapter%2012:%20Angiogenesis.md#127-clinical-implications-and-future-directions)
+</details>
+
+<details>
+<summary><strong>12.7 Clinical Implications and Future Directions</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2012:%20Angiogenesis.md#127-clinical-implications-and-future-directions)
 - **12.7.1** [Prognostic Significance](./Chapter%2012:%20Angiogenesis.md#1271-prognostic-significance)
 - **12.7.2** [Combination Therapies](./Chapter%2012:%20Angiogenesis.md#1272-combination-therapies)
 - **12.7.3** [Emerging Targets](./Chapter%2012:%20Angiogenesis.md#1273-emerging-targets)
 
-### [Conclusion](./Chapter%2012:%20Angiogenesis.md#conclusion)
+</details>
+
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
+
+- [View Conclusion](./Chapter%2012:%20Angiogenesis.md#conclusion)
+
+</details>
+
