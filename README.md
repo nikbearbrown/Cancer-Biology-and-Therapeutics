@@ -546,3 +546,60 @@
   - [Secondary Prevention](./Chapter%2008:%20Cancer%20Etiology.md#secondary-prevention)
 
 ### [Conclusion](./Chapter%2008:%20Cancer%20Etiology.md#conclusion)
+
+## Chapter 9: [Cell Cycle Control and Cancer](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md)
+
+### [Introduction](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#introduction)
+
+### 9.1 [Overview of the Cell Cycle and Its Regulation](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#91-overview-of-the-cell-cycle-and-its-regulation)
+- **9.1.1** [Cell Cycle Phases](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#911-cell-cycle-phases)
+- **9.1.2** [Core Components of Cell Cycle Control](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#912-core-components-of-cell-cycle-control)
+  - [Cyclin-Dependent Kinases (CDKs)](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#cyclin-dependent-kinases-cdks)
+  - [Cyclin Classification](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#cyclin-classification)
+  - [Cell Cycle Progression Overview](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#cell-cycle-progression-overview)
+
+### 9.2 [Cell Cycle Checkpoints](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#92-cell-cycle-checkpoints)
+- **9.2.1** [The Concept of Cell Cycle Checkpoints](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#921-the-concept-of-cell-cycle-checkpoints)
+- **9.2.2** [The Restriction Point](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#922-the-restriction-point)
+  - [Molecular Control of the Restriction Point](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#molecular-control-of-the-restriction-point)
+- **9.2.3** [DNA Damage Checkpoints](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#923-dna-damage-checkpoints)
+  - [DNA Damage Response Pathways](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#dna-damage-response-pathways)
+- **9.2.4** [The G2/M Checkpoint](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#924-the-g2m-checkpoint)
+  - [Mitotic Promoting Factor (MPF)](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#mitotic-promoting-factor-mpf)
+
+### 9.3 [Cyclin-Dependent Kinase Inhibitors](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#93-cyclin-dependent-kinase-inhibitors)
+- **9.3.1** [Families of CDK Inhibitors](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#931-families-of-cdk-inhibitors)
+  - [Anti-proliferative Signaling](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#anti-proliferative-signaling)
+
+### 9.4 [Tumor Suppressor Genes](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#94-tumor-suppressor-genes)
+- **9.4.1** [The p53 Tumor Suppressor](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#941-the-p53-tumor-suppressor)
+  - [p53 Function and Regulation](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#p53-function-and-regulation)
+  - [p53 Pathway Mechanism](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#p53-pathway-mechanism)
+  - [p53 Target Genes](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#p53-target-genes)
+  - [p53 Regulation by MDM2](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#p53-regulation-by-mdm2)
+- **9.4.2** [The Retinoblastoma (Rb) Tumor Suppressor](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#942-the-retinoblastoma-rb-tumor-suppressor)
+  - [Rb Function in Cell Cycle Control](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#rb-function-in-cell-cycle-control)
+  - [Rb and Cancer](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#rb-and-cancer)
+
+### 9.5 [Oncogenes and Cell Cycle Dysregulation](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#95-oncogenes-and-cell-cycle-dysregulation)
+- **9.5.1** [Proto-oncogenes and Oncogenes](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#951-proto-oncogenes-and-oncogenes)
+- **9.5.2** [Mechanisms of Oncogene Activation](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#952-mechanisms-of-oncogene-activation)
+  - [Gene Amplification](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#gene-amplification)
+  - [Chromosomal Rearrangements and Mutations](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#chromosomal-rearrangements-and-mutations)
+- **9.5.3** [Growth Factor Signaling and Cell Cycle](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#953-growth-factor-signaling-and-cell-cycle)
+  - [Oncogenic Stress Response](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#oncogenic-stress-response)
+
+### 9.6 [Disruption of Cell Cycle Control in Cancer](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#96-disruption-of-cell-cycle-control-in-cancer)
+- **9.6.1** [Common Alterations in Cancer](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#961-common-alterations-in-cancer)
+  - [p53 Mutations in Cancer](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#p53-mutations-in-cancer)
+- **9.6.2** [Viral Oncoproteins and Cell Cycle Control](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#962-viral-oncoproteins-and-cell-cycle-control)
+- **9.6.3** [Multistep Carcinogenesis](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#963-multistep-carcinogenesis)
+- **9.6.4** [Consequences of Cell Cycle Disruption](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#964-consequences-of-cell-cycle-disruption)
+  - [Genomic Instability](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#genomic-instability)
+  - [Unlimited Proliferative Potential](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#unlimited-proliferative-potential)
+
+### 9.7 [Therapeutic Implications](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#97-therapeutic-implications)
+- **9.7.1** [Targeting Cell Cycle Checkpoints](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#971-targeting-cell-cycle-checkpoints)
+- **9.7.2** [CDK Inhibitors as Cancer Therapeutics](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#972-cdk-inhibitors-as-cancer-therapeutics)
+
+### [Conclusion](./Chapter%2009:%20Cell%20Cycle%20Control%20and%20Cancer.md#conclusion)
