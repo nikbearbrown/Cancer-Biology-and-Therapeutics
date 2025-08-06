@@ -3116,3 +3116,92 @@
 
 </details>
 
+## Chapter 34: Pediatric Cancers
+
+<details>
+<summary><strong>34.1 Neuroblastoma</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2034:%20Pediatric%20Cancers.md#341-neuroblastoma)
+- [Introduction and Epidemiology](./Chapter%2034:%20Pediatric%20Cancers.md#introduction-and-epidemiology)
+- [Pathophysiology and Molecular Biology](./Chapter%2034:%20Pediatric%20Cancers.md#pathophysiology-and-molecular-biology)
+  - [Key Molecular Alterations](./Chapter%2034:%20Pediatric%20Cancers.md#key-molecular-alterations)
+- [Clinical Presentation](./Chapter%2034:%20Pediatric%20Cancers.md#clinical-presentation)
+  - [Primary Tumor Effects](./Chapter%2034:%20Pediatric%20Cancers.md#primary-tumor-effects)
+  - [Metastatic Disease](./Chapter%2034:%20Pediatric%20Cancers.md#metastatic-disease)
+  - [Paraneoplastic Syndromes](./Chapter%2034:%20Pediatric%20Cancers.md#paraneoplastic-syndromes)
+- [Diagnosis and Staging](./Chapter%2034:%20Pediatric%20Cancers.md#diagnosis-and-staging)
+  - [Biochemical Markers](./Chapter%2034:%20Pediatric%20Cancers.md#biochemical-markers)
+  - [Histological Features](./Chapter%2034:%20Pediatric%20Cancers.md#histological-features)
+  - [Risk Stratification](./Chapter%2034:%20Pediatric%20Cancers.md#risk-stratification)
+- [Treatment Approaches](./Chapter%2034:%20Pediatric%20Cancers.md#treatment-approaches)
+  - [Low and Intermediate Risk](./Chapter%2034:%20Pediatric%20Cancers.md#low-and-intermediate-risk)
+  - [High Risk](./Chapter%2034:%20Pediatric%20Cancers.md#high-risk)
+- [Prognosis](./Chapter%2034:%20Pediatric%20Cancers.md#prognosis)
+
+</details>
+
+<details>
+<summary><strong>34.2 Wilms Tumor</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2034:%20Pediatric%20Cancers.md#342-wilms-tumor)
+- [Introduction and Epidemiology](./Chapter%2034:%20Pediatric%20Cancers.md#introduction-and-epidemiology-1)
+- [Molecular Biology and Genetics](./Chapter%2034:%20Pediatric%20Cancers.md#molecular-biology-and-genetics)
+  - [Major Genetic Alterations](./Chapter%2034:%20Pediatric%20Cancers.md#major-genetic-alterations)
+  - [Developmental Origin](./Chapter%2034:%20Pediatric%20Cancers.md#developmental-origin)
+- [Associated Syndromes](./Chapter%2034:%20Pediatric%20Cancers.md#associated-syndromes)
+  - [WAGR Syndrome](./Chapter%2034:%20Pediatric%20Cancers.md#wagr-syndrome)
+  - [Beckwith-Wiedemann Syndrome](./Chapter%2034:%20Pediatric%20Cancers.md#beckwith-wiedemann-syndrome)
+  - [Denys-Drash Syndrome](./Chapter%2034:%20Pediatric%20Cancers.md#denys-drash-syndrome)
+- [Histopathology](./Chapter%2034:%20Pediatric%20Cancers.md#histopathology)
+  - [Favorable vs. Unfavorable Histology](./Chapter%2034:%20Pediatric%20Cancers.md#favorable-vs-unfavorable-histology)
+- [Clinical Presentation](./Chapter%2034:%20Pediatric%20Cancers.md#clinical-presentation-1)
+- [Staging and Risk Assessment](./Chapter%2034:%20Pediatric%20Cancers.md#staging-and-risk-assessment)
+  - [Staging System](./Chapter%2034:%20Pediatric%20Cancers.md#staging-system)
+  - [Prognostic Factors](./Chapter%2034:%20Pediatric%20Cancers.md#prognostic-factors)
+- [Treatment](./Chapter%2034:%20Pediatric%20Cancers.md#treatment)
+  - [Surgical Management](./Chapter%2034:%20Pediatric%20Cancers.md#surgical-management)
+  - [Radiation Therapy](./Chapter%2034:%20Pediatric%20Cancers.md#radiation-therapy)
+  - [Targeted Therapies](./Chapter%2034:%20Pediatric%20Cancers.md#targeted-therapies)
+- [Prognosis and Long-term Outcomes](./Chapter%2034:%20Pediatric%20Cancers.md#prognosis-and-long-term-outcomes)
+  - [Long-term Complications](./Chapter%2034:%20Pediatric%20Cancers.md#long-term-complications)
+
+</details>
+
+<details>
+<summary><strong>34.3 Medulloblastoma</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2034:%20Pediatric%20Cancers.md#343-medulloblastoma)
+- [Introduction and Epidemiology](./Chapter%2034:%20Pediatric%20Cancers.md#introduction-and-epidemiology-2)
+- [Pathophysiology and Molecular Biology](./Chapter%2034:%20Pediatric%20Cancers.md#pathophysiology-and-molecular-biology-1)
+  - [Cytogenetic Alterations](./Chapter%2034:%20Pediatric%20Cancers.md#cytogenetic-alterations)
+  - [Molecular Subgroups](./Chapter%2034:%20Pediatric%20Cancers.md#molecular-subgroups)
+- [Histopathological Classifications](./Chapter%2034:%20Pediatric%20Cancers.md#histopathological-classifications)
+  - [Classic Medulloblastoma](./Chapter%2034:%20Pediatric%20Cancers.md#classic-medulloblastoma)
+  - [Desmoplastic-Nodular Variant](./Chapter%2034:%20Pediatric%20Cancers.md#desmoplastic-nodular-variant)
+  - [Large-Cell Anaplastic Variant](./Chapter%2034:%20Pediatric%20Cancers.md#large-cell-anaplastic-variant)
+- [Clinical Presentation](./Chapter%2034:%20Pediatric%20Cancers.md#clinical-presentation-2)
+  - [Signs and Symptoms](./Chapter%2034:%20Pediatric%20Cancers.md#signs-and-symptoms)
+- [Diagnosis and Staging](./Chapter%2034:%20Pediatric%20Cancers.md#diagnosis-and-staging-1)
+  - [Imaging Studies](./Chapter%2034:%20Pediatric%20Cancers.md#imaging-studies)
+  - [CSF Analysis](./Chapter%2034:%20Pediatric%20Cancers.md#csf-analysis)
+  - [Risk Stratification](./Chapter%2034:%20Pediatric%20Cancers.md#risk-stratification-1)
+- [Treatment Approaches](./Chapter%2034:%20Pediatric%20Cancers.md#treatment-approaches-1)
+  - [Surgical Management](./Chapter%2034:%20Pediatric%20Cancers.md#surgical-management-1)
+  - [Radiation Therapy](./Chapter%2034:%20Pediatric%20Cancers.md#radiation-therapy-1)
+  - [Targeted Therapies](./Chapter%2034:%20Pediatric%20Cancers.md#targeted-therapies-1)
+- [Prognosis and Long-term Outcomes](./Chapter%2034:%20Pediatric%20Cancers.md#prognosis-and-long-term-outcomes-1)
+  - [Long-term Complications](./Chapter%2034:%20Pediatric%20Cancers.md#long-term-complications-1)
+
+</details>
+
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
+
+- [View Conclusion](./Chapter%2034:%20Pediatric%20Cancers.md#conclusion)
+
+</details>
+
