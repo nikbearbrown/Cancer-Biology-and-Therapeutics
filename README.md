@@ -1987,3 +1987,72 @@
 - [View Conclusion](./Chapter%2020:%20Surgical%20Oncology.md#conclusion)
 
 </details>
+
+## Chapter 21: Radiation Oncology
+
+<details>
+<summary><strong>21.1 Principles of Radiotherapy: Biological Effects on Cells</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2021:%20Radiation%20Oncology.md#211-principles-of-radiotherapy-biological-effects-on-cells)
+- **21.1.1** [Mechanisms of Radiation-Induced Cellular Damage](./Chapter%2021:%20Radiation%20Oncology.md#2111-mechanisms-of-radiation-induced-cellular-damage)
+- **21.1.2** [DNA Damage and Repair Mechanisms](./Chapter%2021:%20Radiation%20Oncology.md#2112-dna-damage-and-repair-mechanisms)
+- **21.1.3** [Cellular Response to Radiation](./Chapter%2021:%20Radiation%20Oncology.md#2113-cellular-response-to-radiation)
+- **21.1.4** [Bystander Effects](./Chapter%2021:%20Radiation%20Oncology.md#2114-bystander-effects)
+- **21.1.5** [Factors Affecting Radiosensitivity](./Chapter%2021:%20Radiation%20Oncology.md#2115-factors-affecting-radiosensitivity)
+
+</details>
+
+<details>
+<summary><strong>21.2 Types of Radiation Therapy</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2021:%20Radiation%20Oncology.md#212-types-of-radiation-therapy)
+- **21.2.1** [External Beam Radiation Therapy](./Chapter%2021:%20Radiation%20Oncology.md#2121-external-beam-radiation-therapy)
+- **21.2.2** [Brachytherapy](./Chapter%2021:%20Radiation%20Oncology.md#2122-brachytherapy)
+- **21.2.3** [Systemic Radiation Therapy](./Chapter%2021:%20Radiation%20Oncology.md#2123-systemic-radiation-therapy)
+
+</details>
+
+<details>
+<summary><strong>21.3 Technological Advances in Radiotherapy</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2021:%20Radiation%20Oncology.md#213-technological-advances-in-radiotherapy)
+- **21.3.1** [Intensity-Modulated Radiation Therapy (IMRT)](./Chapter%2021:%20Radiation%20Oncology.md#2131-intensity-modulated-radiation-therapy-imrt)
+- **21.3.2** [Stereotactic Body Radiation Therapy (SBRT)](./Chapter%2021:%20Radiation%20Oncology.md#2132-stereotactic-body-radiation-therapy-sbrt)
+- **21.3.3** [Proton Therapy](./Chapter%2021:%20Radiation%20Oncology.md#2133-proton-therapy)
+- **21.3.4** [Image-Guided Radiation Therapy (IGRT)](./Chapter%2021:%20Radiation%20Oncology.md#2134-image-guided-radiation-therapy-igrt)
+
+</details>
+
+<details>
+<summary><strong>21.4 Side Effects and Management</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2021:%20Radiation%20Oncology.md#214-side-effects-and-management)
+- **21.4.1** [Classification of Radiation Effects](./Chapter%2021:%20Radiation%20Oncology.md#2141-classification-of-radiation-effects)
+- **21.4.2** [Head and Neck Radiation Effects](./Chapter%2021:%20Radiation%20Oncology.md#2142-head-and-neck-radiation-effects)
+- **21.4.3** [Thoracic Radiation Effects](./Chapter%2021:%20Radiation%20Oncology.md#2143-thoracic-radiation-effects)
+- **21.4.4** [Abdominal and Pelvic Radiation Effects](./Chapter%2021:%20Radiation%20Oncology.md#2144-abdominal-and-pelvic-radiation-effects)
+- **21.4.5** [Secondary Malignancies](./Chapter%2021:%20Radiation%20Oncology.md#2145-secondary-malignancies)
+- **21.4.6** [Management Strategies](./Chapter%2021:%20Radiation%20Oncology.md#2146-management-strategies)
+- **21.4.7** [Long-term Monitoring](./Chapter%2021:%20Radiation%20Oncology.md#2147-long-term-monitoring)
+
+</details>
+
+<details>
+<summary><strong>21.5 Conclusion and Clinical Takeaways</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2021:%20Radiation%20Oncology.md#215-conclusion-and-clinical-takeaways)
+- **21.5.1** [The Central Role of Radiation Therapy in Cancer Care](./Chapter%2021:%20Radiation%20Oncology.md#2151-the-central-role-of-radiation-therapy-in-cancer-care)
+- **21.5.2** [Fundamental Principles for Clinical Practice](./Chapter%2021:%20Radiation%20Oncology.md#2152-fundamental-principles-for-clinical-practice)
+- **21.5.3** [Clinical Decision-Making Framework](./Chapter%2021:%20Radiation%20Oncology.md#2153-clinical-decision-making-framework)
+- **21.5.4** [Technological Evolution and Clinical Impact](./Chapter%2021:%20Radiation%20Oncology.md#2154-technological-evolution-and-clinical-impact)
+- **21.5.5** [Quality Assurance and Safety](./Chapter%2021:%20Radiation%20Oncology.md#2155-quality-assurance-and-safety)
+- **21.5.6** [Global Health Considerations](./Chapter%2021:%20Radiation%20Oncology.md#2156-global-health-considerations)
+- **21.5.7** [Future of Radiation Oncology](./Chapter%2021:%20Radiation%20Oncology.md#2157-future-of-radiation-oncology)
+- **21.5.8** [Summary](./Chapter%2021:%20Radiation%20Oncology.md#2158-summary)
+
+</details>
