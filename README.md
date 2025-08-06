@@ -3396,3 +3396,78 @@
 
 </details>
 
+## Chapter 37: Cancer Survivorship
+
+<details>
+<summary><strong>Introduction</strong></summary>
+<br>
+
+- [View Introduction](./Chapter%2037:%20Cancer%20Survivorship.md#introduction)
+
+</details>
+
+<details>
+<summary><strong>Long-Term Side Effects of Treatment</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2037:%20Cancer%20Survivorship.md#long-term-side-effects-of-treatment)
+- [Physical Late Effects](./Chapter%2037:%20Cancer%20Survivorship.md#physical-late-effects)
+  - [Cardiovascular Complications](./Chapter%2037:%20Cancer%20Survivorship.md#cardiovascular-complications)
+  - [Second Primary Cancers](./Chapter%2037:%20Cancer%20Survivorship.md#second-primary-cancers)
+  - [Fatigue and Sleep Disorders](./Chapter%2037:%20Cancer%20Survivorship.md#fatigue-and-sleep-disorders)
+  - [Cancer-Related Cognitive Impairment](./Chapter%2037:%20Cancer%20Survivorship.md#cancer-related-cognitive-impairment)
+- [Special Considerations for Pediatric Survivors](./Chapter%2037:%20Cancer%20Survivorship.md#special-considerations-for-pediatric-survivors)
+
+</details>
+
+<details>
+<summary><strong>Psychosocial Challenges for Survivors</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2037:%20Cancer%20Survivorship.md#psychosocial-challenges-for-survivors)
+- [Mental Health Complications](./Chapter%2037:%20Cancer%20Survivorship.md#mental-health-complications)
+- [Psychosocial Effects in Childhood Cancer Survivors](./Chapter%2037:%20Cancer%20Survivorship.md#psychosocial-effects-in-childhood-cancer-survivors)
+- [Long-term Appraisal and Coping](./Chapter%2037:%20Cancer%20Survivorship.md#long-term-appraisal-and-coping)
+- [Evidence-Based Psychosocial Interventions](./Chapter%2037:%20Cancer%20Survivorship.md#evidence-based-psychosocial-interventions)
+
+</details>
+
+<details>
+<summary><strong>Rehabilitation and Reintegration</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2037:%20Cancer%20Survivorship.md#rehabilitation-and-reintegration)
+- [Physical Rehabilitation](./Chapter%2037:%20Cancer%20Survivorship.md#physical-rehabilitation)
+  - [Systematic Evidence for Rehabilitation](./Chapter%2037:%20Cancer%20Survivorship.md#systematic-evidence-for-rehabilitation)
+  - [Exercise and Physical Activity](./Chapter%2037:%20Cancer%20Survivorship.md#exercise-and-physical-activity)
+  - [Cognitive Rehabilitation](./Chapter%2037:%20Cancer%20Survivorship.md#cognitive-rehabilitation)
+- [Prehabilitation](./Chapter%2037:%20Cancer%20Survivorship.md#prehabilitation)
+- [Return to Work and Employment](./Chapter%2037:%20Cancer%20Survivorship.md#return-to-work-and-employment)
+- [Guidelines and Standards](./Chapter%2037:%20Cancer%20Survivorship.md#guidelines-and-standards)
+
+</details>
+
+<details>
+<summary><strong>Quality of Life after Cancer</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2037:%20Cancer%20Survivorship.md#quality-of-life-after-cancer)
+- [Comprehensive Quality of Life Assessment](./Chapter%2037:%20Cancer%20Survivorship.md#comprehensive-quality-of-life-assessment)
+- [Long-term Symptom Burden](./Chapter%2037:%20Cancer%20Survivorship.md#long-term-symptom-burden)
+- [Family and Caregiver Impact](./Chapter%2037:%20Cancer%20Survivorship.md#family-and-caregiver-impact)
+- [Financial Toxicity and Quality of Life](./Chapter%2037:%20Cancer%20Survivorship.md#financial-toxicity-and-quality-of-life)
+  - [Prevalence and Impact](./Chapter%2037:%20Cancer%20Survivorship.md#prevalence-and-impact)
+  - [Understanding Financial Toxicity](./Chapter%2037:%20Cancer%20Survivorship.md#understanding-financial-toxicity)
+  - [Interventions for Financial Toxicity](./Chapter%2037:%20Cancer%20Survivorship.md#interventions-for-financial-toxicity)
+- [Survivorship Care Plans](./Chapter%2037:%20Cancer%20Survivorship.md#survivorship-care-plans)
+- [Models of Survivorship Care](./Chapter%2037:%20Cancer%20Survivorship.md#models-of-survivorship-care)
+
+</details>
+
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
+
+- [View Conclusion](./Chapter%2037:%20Cancer%20Survivorship.md#conclusion)
+
+</details>
