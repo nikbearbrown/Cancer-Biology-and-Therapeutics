@@ -1,6 +1,101 @@
 # Cancer-Biology-and-Therapeutics
 # Table of Contents
 
+# Chapter 1: The Building Blocks of Life: Normal Cell Biology
+
+<details>
+<summary><strong>1.1 Introduction to Cells</strong></summary>
+<br>
+
+- [View Section](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#11-introduction-to-cells)
+
+</details>
+
+<details>
+<summary><strong>1.2 Cellular Organelles and Their Functions</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#12-cellular-organelles-and-their-functions)
+- **1.2.1** [Nucleus](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#121-nucleus)
+- **1.2.2** [Ribosomes](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#122-ribosomes)
+- **1.2.3** [Endoplasmic Reticulum (ER)](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#123-endoplasmic-reticulum-er)
+- **1.2.4** [Golgi Apparatus](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#124-golgi-apparatus)
+- **1.2.5** [Mitochondria](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#125-mitochondria)
+
+</details>
+
+<details>
+<summary><strong>1.3 The Cell Cycle: Growth, Division, and Regulation</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#13-the-cell-cycle-growth-division-and-regulation)
+- **1.3.1** [Phases of the Cell Cycle](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#131-phases-of-the-cell-cycle)
+- **1.3.2** [Regulation of the Cell Cycle](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#132-regulation-of-the-cell-cycle)
+- **1.3.3** [Cell Cycle Dysregulation in Cancer](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#133-cell-cycle-dysregulation-in-cancer)
+
+</details>
+
+<details>
+<summary><strong>1.4 DNA, RNA, and Protein Synthesis</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#14-dna-rna-and-protein-synthesis)
+- **1.4.1** [DNA Structure and Organization](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#141-dna-structure-and-organization)
+- **1.4.2** [DNA Replication](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#142-dna-replication)
+- **1.4.3** [Transcription: From DNA to RNA](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#143-transcription-from-dna-to-rna)
+- **1.4.4** [Translation: From RNA to Protein](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#144-translation-from-rna-to-protein)
+
+</details>
+
+<details>
+<summary><strong>1.5 Cell Communication and Signaling Pathways</strong></summary>
+<br>
+
+- [View Section](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#15-cell-communication-and-signaling-pathways)
+
+</details>
+
+<details>
+<summary><strong>1.6 Tissue Organization and Organ Systems</strong></summary>
+<br>
+
+- [View Section](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#16-tissue-organization-and-organ-systems)
+
+</details>
+
+<details>
+<summary><strong>1.7 Cell Death: Apoptosis and Necrosis</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#17-cell-death-apoptosis-and-necrosis)
+- **1.7.1** [Apoptosis: Programmed Cell Death](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#171-apoptosis-programmed-cell-death)
+  - [Molecular Mechanisms of Apoptosis](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#molecular-mechanisms-of-apoptosis)
+  - [Regulation of Apoptosis](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#regulation-of-apoptosis)
+- **1.7.2** [Necrosis: Uncontrolled Cell Death](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#172-necrosis-uncontrolled-cell-death)
+
+</details>
+
+<details>
+<summary><strong>1.8 Cancer: Disruption of Normal Cell Biology</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#18-cancer-disruption-of-normal-cell-biology)
+- **1.8.1** [Cancer as a Microevolutionary Process](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#181-cancer-as-a-microevolutionary-process)
+- **1.8.2** [Properties of Cancer Cells](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#182-properties-of-cancer-cells)
+- **1.8.3** [Cancer Development](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#183-cancer-development)
+- **1.8.4** [Genetic Instability in Cancer](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#184-genetic-instability-in-cancer)
+
+</details>
+
+<details>
+<summary><strong>Summary</strong></summary>
+<br>
+
+- [View Summary](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#summary)
+
+</details>
+
+
 ## Chapter 1: [The Building Blocks of Life: Normal Cell Biology](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md)
 
 ### 1.1 [Introduction to Cells](./Chapter%2001:%20The%20Building%20Blocks%20of%20Life:%20Normal%20Cell%20Biology.md#11-introduction-to-cells)
