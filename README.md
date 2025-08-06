@@ -424,3 +424,62 @@
   - [Expanding Treatment Options](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#expanding-treatment-options)
 
 ### [Conclusion](./Chapter%2006:%20Tumor%20Suppressor%20Genes.md#conclusion)
+
+# Table of Contents
+
+## [Chapter 7: Epigenetics in Cancer](#chapter-7-epigenetics-in-cancer)
+
+### [7.1 Introduction to Epigenetics in Cancer](#71-introduction-to-epigenetics-in-cancer)
+- [7.1.1 Definition and Scope](#711-definition-and-scope)
+- [7.1.2 Fundamental Epigenetic Mechanisms](#712-fundamental-epigenetic-mechanisms)
+- [7.1.3 Epigenetic Alterations in Cancer](#713-epigenetic-alterations-in-cancer)
+
+### [7.2 DNA Methylation in Cancer](#72-dna-methylation-in-cancer)
+- [7.2.1 Molecular Basis of DNA Methylation](#721-molecular-basis-of-dna-methylation)
+- [7.2.2 DNA Methylation Alterations in Cancer](#722-dna-methylation-alterations-in-cancer)
+  - [Genomic Hypomethylation](#genomic-hypomethylation)
+  - [Promoter Hypermethylation](#promoter-hypermethylation)
+- [7.2.3 Clinical Examples](#723-clinical-examples)
+
+### [7.3 Histone Modifications in Cancer](#73-histone-modifications-in-cancer)
+- [7.3.1 Basic Mechanisms of Histone Modifications](#731-basic-mechanisms-of-histone-modifications)
+- [7.3.2 Types of Histone Modifications](#732-types-of-histone-modifications)
+- [7.3.3 Histone Modifications in Cancer](#733-histone-modifications-in-cancer)
+  - [Clinical Examples in Bladder Cancer](#clinical-examples-in-bladder-cancer)
+- [7.3.4 Metabolic Regulation of Histone Modifications](#734-metabolic-regulation-of-histone-modifications)
+
+### [7.4 Non-coding RNAs in Cancer](#74-non-coding-rnas-in-cancer)
+- [7.4.1 Overview of Non-coding RNAs](#741-overview-of-non-coding-rnas)
+- [7.4.2 MicroRNAs in Cancer](#742-micrornas-in-cancer)
+  - [Structure and Biogenesis](#structure-and-biogenesis)
+  - [Canonical Biogenesis Pathway](#canonical-biogenesis-pathway)
+  - [Clinical Applications](#clinical-applications)
+  - [miRNA-21 as a Biomarker](#mirna-21-as-a-biomarker)
+- [7.4.3 Long Non-coding RNAs in Cancer](#743-long-non-coding-rnas-in-cancer)
+  - [Historical Context](#historical-context)
+  - [Clinical Significance](#clinical-significance)
+
+### [7.5 Polycomb and Trithorax Group Proteins](#75-polycomb-and-trithorax-group-proteins)
+- [7.5.1 Cellular Memory Systems](#751-cellular-memory-systems)
+- [7.5.2 Clinical Relevance in Cancer](#752-clinical-relevance-in-cancer)
+- [7.5.3 Bivalent Chromatin and Cancer](#753-bivalent-chromatin-and-cancer)
+
+### [7.6 Epigenetic Reprogramming in Cancer](#76-epigenetic-reprogramming-in-cancer)
+- [7.6.1 Cancer as Epigenetic Disease](#761-cancer-as-epigenetic-disease)
+- [7.6.2 Epigenetic Changes in Carcinogenesis](#762-epigenetic-changes-in-carcinogenesis)
+- [7.6.3 Stem Cells and Epigenetic Cancer](#763-stem-cells-and-epigenetic-cancer)
+
+### [7.7 Epigenetic Therapy](#77-epigenetic-therapy)
+- [7.7.1 Therapeutic Rationale](#771-therapeutic-rationale)
+- [7.7.2 FDA-Approved Epigenetic Drugs](#772-fda-approved-epigenetic-drugs)
+- [7.7.3 DNA Methyltransferase Inhibitors](#773-dna-methyltransferase-inhibitors)
+- [7.7.4 Combination Therapies](#774-combination-therapies)
+- [7.7.5 Synthetic Lethality Approaches](#775-synthetic-lethality-approaches)
+
+### [7.8 Clinical Applications and Future Directions](#78-clinical-applications-and-future-directions)
+- [7.8.1 Biomarker Applications](#781-biomarker-applications)
+- [7.8.2 Personalized Medicine](#782-personalized-medicine)
+- [7.8.3 Future Research Directions](#783-future-research-directions)
+
+### [Conclusion](#conclusion)
+
