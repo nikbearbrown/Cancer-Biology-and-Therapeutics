@@ -2809,3 +2809,117 @@
 - [View Conclusion](./Chapter%2030:%20Principles%20of%20Cancer%20Classification.md#conclusion)
 
 </details>
+
+## Chapter 31: Solid Tumors by Organ/System
+
+<details>
+<summary><strong>31.1 Breast Cancer</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#311-breast-cancer)
+- **31.1.1** [Epidemiology and Risk Factors](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3111-epidemiology-and-risk-factors)
+- **31.1.2** [Pathology and Molecular Subtypes](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3112-pathology-and-molecular-subtypes)
+- **31.1.3** [Staging and Prognosis](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3113-staging-and-prognosis)
+- **31.1.4** [Treatment Approaches](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3114-treatment-approaches)
+
+</details>
+
+<details>
+<summary><strong>31.2 Lung Cancer</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#312-lung-cancer)
+- **31.2.1** [Epidemiology and Classification](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3121-epidemiology-and-classification)
+- **31.2.2** [Risk Factors](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3122-risk-factors)
+- **31.2.3** [Non-Small Cell Lung Cancer (NSCLC)](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3123-non-small-cell-lung-cancer-nsclc)
+- **31.2.4** [Small Cell Lung Cancer (SCLC)](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3124-small-cell-lung-cancer-sclc)
+- **31.2.5** [Treatment Approaches](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3125-treatment-approaches)
+
+</details>
+
+<details>
+<summary><strong>31.3 Colorectal Cancer</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#313-colorectal-cancer)
+- **31.3.1** [Epidemiology and Natural History](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3131-epidemiology-and-natural-history)
+- **31.3.2** [Pathology and Molecular Features](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3132-pathology-and-molecular-features)
+- **31.3.3** [Staging System](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3133-staging-system)
+- **31.3.4** [Prognosis and Treatment](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3134-prognosis-and-treatment)
+- **31.3.5** [Screening and Early Detection](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3135-screening-and-early-detection)
+
+</details>
+
+<details>
+<summary><strong>31.4 Genitourinary Cancers</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#314-genitourinary-cancers)
+- **31.4.1** [Prostate Cancer](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3141-prostate-cancer)
+- **31.4.2** [Bladder Cancer](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3142-bladder-cancer)
+- **31.4.3** [Kidney Cancer](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3143-kidney-cancer)
+
+</details>
+
+<details>
+<summary><strong>31.5 Gynecologic Cancers</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#315-gynecologic-cancers)
+- **31.5.1** [Cervical Cancer](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3151-cervical-cancer)
+- **31.5.2** [Ovarian Cancer](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3152-ovarian-cancer)
+- **31.5.3** [Endometrial Cancer](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3153-endometrial-cancer)
+
+</details>
+
+<details>
+<summary><strong>31.6 Gastrointestinal Cancers</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#316-gastrointestinal-cancers)
+- **31.6.1** [Gastric Cancer](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3161-gastric-cancer)
+- **31.6.2** [Pancreatic Cancer](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3162-pancreatic-cancer)
+- **31.6.3** [Liver Cancer](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3163-liver-cancer)
+
+</details>
+
+<details>
+<summary><strong>31.7 Head and Neck Cancers</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#317-head-and-neck-cancers)
+- **31.7.1** [Epidemiology and Risk Factors](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3171-epidemiology-and-risk-factors)
+- **31.7.2** [Pathology](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3172-pathology)
+- **31.7.3** [Treatment](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3173-treatment)
+
+</details>
+
+<details>
+<summary><strong>31.8 Skin Cancers</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#318-skin-cancers)
+- **31.8.1** [Melanoma](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3181-melanoma)
+- **31.8.2** [Non-Melanoma Skin Cancer](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3182-non-melanoma-skin-cancer)
+
+</details>
+
+<details>
+<summary><strong>31.9 Clinical Implications and Future Directions</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#319-clinical-implications-and-future-directions)
+- **31.9.1** [Personalized Medicine](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3191-personalized-medicine)
+- **31.9.2** [Multidisciplinary Care](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3192-multidisciplinary-care)
+- **31.9.3** [Supportive Care](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3193-supportive-care)
+- **31.9.4** [Prevention and Early Detection](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#3194-prevention-and-early-detection)
+
+</details>
+
+<details>
+<summary><strong>Summary</strong></summary>
+<br>
+
+- [View Summary](./Chapter%2031:%20Solid%20Tumors%20by%20Organ.md#summary)
+
+</details>
