@@ -2600,3 +2600,52 @@
 - **27.3.5** [Challenges and Future Perspectives](./Chapter%2027:%20Nanotechnology%20in%20Cancer.md#2735-challenges-and-future-perspectives)
 
 </details>
+
+## Chapter 28: Clinical Trials and Regulatory Pathways
+
+<details>
+<summary><strong>28.1 Trial Phases and Design</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#281-trial-phases-and-design)
+- **28.1.1** [Historical Context and Evolution](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2811-historical-context-and-evolution)
+- **28.1.2** [Preclinical Development](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2812-preclinical-development)
+- **28.1.3** [Phase I Trials: First-in-Human Studies](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2813-phase-i-trials-first-in-human-studies)
+- **28.1.4** [Phase II Trials: Preliminary Efficacy Assessment](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2814-phase-ii-trials-preliminary-efficacy-assessment)
+- **28.1.5** [Phase III Trials: Definitive Efficacy Studies](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2815-phase-iii-trials-definitive-efficacy-studies)
+- **28.1.6** [Phase IV Trials: Post-Marketing Surveillance](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2816-phase-iv-trials-post-marketing-surveillance)
+- **28.1.7** [Innovative Trial Designs](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2817-innovative-trial-designs)
+
+</details>
+
+<details>
+<summary><strong>28.2 FDA/EMA Approval Processes</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#282-fdaema-approval-processes)
+- **28.2.1** [FDA Regulatory Framework](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2821-fda-regulatory-framework)
+- **28.2.2** [FDA Expedited Review Programs](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2822-fda-expedited-review-programs)
+- **28.2.3** [FDA Oncology-Specific Initiatives](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2823-fda-oncology-specific-initiatives)
+- **28.2.4** [European Medicines Agency (EMA) Framework](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2824-european-medicines-agency-ema-framework)
+- **28.2.5** [EMA Expedited Pathways](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2825-ema-expedited-pathways)
+- **28.2.6** [Harmonization and Global Considerations](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2826-harmonization-and-global-considerations)
+- **28.2.7** [Regulatory Science and Evidence Standards](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2827-regulatory-science-and-evidence-standards)
+
+</details>
+
+<details>
+<summary><strong>28.3 Compassionate Use and Expanded Access</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#283-compassionate-use-and-expanded-access)
+- **28.3.1** [Historical Development](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2831-historical-development)
+- **28.3.2** [Treatment IND Framework](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2832-treatment-ind-framework)
+- **28.3.3** [Contemporary Expanded Access Programs](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2833-contemporary-expanded-access-programs)
+- **28.3.4** [Right to Try Legislation](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2834-right-to-try-legislation)
+- **28.3.5** [Safety Monitoring and Data Collection](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2835-safety-monitoring-and-data-collection)
+- **28.3.6** [Ethical Considerations](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2836-ethical-considerations)
+- **28.3.7** [Global Perspectives](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2837-global-perspectives)
+- **28.3.8** [Impact on Drug Development](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2838-impact-on-drug-development)
+- **28.3.9** [Future Directions](./Chapter%2028:%20Clinical%20Trials%20and%20Regulatory%20Pathways.md#2839-future-directions)
+
+</details>
