@@ -630,3 +630,68 @@
   - [Clinical Significance](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#clinical-significance)
 
 ### [Summary](./Chapter%2010:%20Apoptosis%20and%20Programmed%20Cell%20Death%20in%20Cancer.md#summary)
+
+## Chapter 11: [Cancer Metabolism: The Warburg Effect and Beyond](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md)
+
+### [Introduction](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#introduction)
+
+### 11.1 [The Warburg Effect: Historical Discovery and Modern Understanding](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#111-the-warburg-effect-historical-discovery-and-modern-understanding)
+- **11.1.1** [Historical Perspective](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1111-historical-perspective)
+- **11.1.2** [Contemporary Understanding](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1112-contemporary-understanding)
+  - [Efficiency and Kinetics](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#efficiency-and-kinetics)
+  - [Anabolic Requirements](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#anabolic-requirements)
+  - [Clinical Applications](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#clinical-applications)
+- **11.1.3** [Metabolic Heterogeneity](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1113-metabolic-heterogeneity)
+
+### 11.2 [Glucose Metabolism in Cancer](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#112-glucose-metabolism-in-cancer)
+- **11.2.1** [Glycolytic Pathway Regulation](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1121-glycolytic-pathway-regulation)
+  - [Basic Glycolysis Pathway](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#basic-glycolysis-pathway)
+  - [Enhanced Glycolysis in Cancer](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#enhanced-glycolysis-in-cancer)
+- **11.2.2** [The Reverse Warburg Effect](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1122-the-reverse-warburg-effect)
+- **11.2.3** [Therapeutic Targeting of Glucose Metabolism](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1123-therapeutic-targeting-of-glucose-metabolism)
+
+### 11.3 [Mitochondrial Function in Cancer](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#113-mitochondrial-function-in-cancer)
+- **11.3.1** [Mitochondrial Structure and Function](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1131-mitochondrial-structure-and-function)
+- **11.3.2** [Mitochondria in Cancer Metabolism](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1132-mitochondria-in-cancer-metabolism)
+  - [Energy Production](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#energy-production)
+  - [Metabolic Integration](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#metabolic-integration)
+- **11.3.3** [Mitochondrial Protein Import and Assembly](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1133-mitochondrial-protein-import-and-assembly)
+
+### 11.4 [Lipid Metabolism in Cancer](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#114-lipid-metabolism-in-cancer)
+- **11.4.1** [Fatty Acid Synthesis and Cancer](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1141-fatty-acid-synthesis-and-cancer)
+  - [De Novo Lipid Synthesis](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#de-novo-lipid-synthesis)
+  - [Enzyme Regulation](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#enzyme-regulation)
+- **11.4.2** [Fatty Acid Oxidation](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1142-fatty-acid-oxidation)
+- **11.4.3** [Cancer-Associated Fibroblasts and Lipid Metabolism](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1143-cancer-associated-fibroblasts-and-lipid-metabolism)
+
+### 11.5 [Amino Acid Metabolism in Cancer](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#115-amino-acid-metabolism-in-cancer)
+- **11.5.1** [Glutamine Metabolism](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1151-glutamine-metabolism)
+  - [Glutamine as a Critical Nutrient](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#glutamine-as-a-critical-nutrient)
+  - [Glutaminolysis Pathway](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#glutaminolysis-pathway)
+- **11.5.2** [Serine and Glycine Metabolism](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1152-serine-and-glycine-metabolism)
+- **11.5.3** [Therapeutic Targeting of Amino Acid Metabolism](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1153-therapeutic-targeting-of-amino-acid-metabolism)
+  - [Glutaminase Inhibition](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#glutaminase-inhibition)
+
+### 11.6 [Metabolic Interactions in the Tumor Microenvironment](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#116-metabolic-interactions-in-the-tumor-microenvironment)
+- **11.6.1** [Cancer-Associated Fibroblasts (CAFs)](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1161-cancer-associated-fibroblasts-cafs)
+- **11.6.2** [Metabolic Cross-Talk](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1162-metabolic-cross-talk)
+  - [Lactate Shuttle](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#lactate-shuttle)
+  - [Mitochondrial Transfer](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#mitochondrial-transfer)
+- **11.6.3** [Alanine Metabolism](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1163-alanine-metabolism)
+
+### 11.7 [Therapeutic Targeting of Cancer Metabolism](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#117-therapeutic-targeting-of-cancer-metabolism)
+- **11.7.1** [Targeting Glycolysis](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1171-targeting-glycolysis)
+- **11.7.2** [Targeting Lipid Metabolism](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1172-targeting-lipid-metabolism)
+- **11.7.3** [Combination Strategies](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1173-combination-strategies)
+  - [Metabolic Inhibitor Combinations](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#metabolic-inhibitor-combinations)
+  - [Targeting CAF-Cancer Interactions](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#targeting-caf-cancer-interactions)
+- **11.7.4** [Challenges in Metabolic Targeting](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1174-challenges-in-metabolic-targeting)
+  - [Drug Resistance and Metabolism](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#drug-resistance-and-metabolism)
+  - [Tumor Microenvironment Factors](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#tumor-microenvironment-factors)
+
+### 11.8 [Future Directions and Clinical Translation](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#118-future-directions-and-clinical-translation)
+- **11.8.1** [Personalized Metabolic Therapy](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1181-personalized-metabolic-therapy)
+- **11.8.2** [Integration with Other Treatment Modalities](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1182-integration-with-other-treatment-modalities)
+- **11.8.3** [Systems Biology Approaches](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#1183-systems-biology-approaches)
+
+### [Conclusion](./Chapter%2011:%20Cancer%20Metabolism:%20The%20Warburg%20Effect%20and%20Beyond.md#conclusion)
