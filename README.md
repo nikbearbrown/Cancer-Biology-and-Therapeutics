@@ -1904,3 +1904,86 @@
 - [View Conclusion](./Chapter%2019:%20Principles%20of%20Cancer%20Therapy.md#conclusion)
 
 </details>
+
+## Chapter 20: Surgical Oncology
+
+<details>
+<summary><strong>20.1 Principles of Cancer Surgery</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2020:%20Surgical%20Oncology.md#201-principles-of-cancer-surgery)
+- **20.1.1** [Historical Evolution and Current Philosophy](./Chapter%2020:%20Surgical%20Oncology.md#2011-historical-evolution-and-current-philosophy)
+- **20.1.2** [Fundamental Principles of Surgical Oncology](./Chapter%2020:%20Surgical%20Oncology.md#2012-fundamental-principles-of-surgical-oncology)
+  - [Tissue Diagnosis Priority](./Chapter%2020:%20Surgical%20Oncology.md#tissue-diagnosis-priority)
+  - [En Bloc Resection Principles](./Chapter%2020:%20Surgical%20Oncology.md#en-bloc-resection-principles)
+  - [Multidisciplinary Integration](./Chapter%2020:%20Surgical%20Oncology.md#multidisciplinary-integration)
+- **20.1.3** [Role of the Surgical Oncologist](./Chapter%2020:%20Surgical%20Oncology.md#2013-role-of-the-surgical-oncologist)
+  - [Scope of Practice](./Chapter%2020:%20Surgical%20Oncology.md#scope-of-practice)
+  - [Leadership Role](./Chapter%2020:%20Surgical%20Oncology.md#leadership-role)
+- **20.1.4** [Quality and Safety Considerations](./Chapter%2020:%20Surgical%20Oncology.md#2014-quality-and-safety-considerations)
+  - [Surgical Standards](./Chapter%2020:%20Surgical%20Oncology.md#surgical-standards)
+  - [Risk Assessment](./Chapter%2020:%20Surgical%20Oncology.md#risk-assessment)
+
+</details>
+
+<details>
+<summary><strong>20.2 Types of Surgical Procedures</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2020:%20Surgical%20Oncology.md#202-types-of-surgical-procedures)
+- **20.2.1** [Curative Resection](./Chapter%2020:%20Surgical%20Oncology.md#2021-curative-resection)
+  - [Examples of Curative Procedures](./Chapter%2020:%20Surgical%20Oncology.md#examples-of-curative-procedures)
+- **20.2.2** [Debulking Surgery (Cytoreductive Surgery)](./Chapter%2020:%20Surgical%20Oncology.md#2022-debulking-surgery-cytoreductive-surgery)
+  - [Ovarian Cancer Cytoreduction](./Chapter%2020:%20Surgical%20Oncology.md#ovarian-cancer-cytoreduction)
+  - [Peritoneal Carcinomatosis Management](./Chapter%2020:%20Surgical%20Oncology.md#peritoneal-carcinomatosis-management)
+- **20.2.3** [Palliative Surgery](./Chapter%2020:%20Surgical%20Oncology.md#2023-palliative-surgery)
+  - [Common Palliative Procedures](./Chapter%2020:%20Surgical%20Oncology.md#common-palliative-procedures)
+  - [Risk-Benefit Considerations](./Chapter%2020:%20Surgical%20Oncology.md#risk-benefit-considerations)
+- **20.2.4** [Prophylactic Surgery](./Chapter%2020:%20Surgical%20Oncology.md#2024-prophylactic-surgery)
+
+</details>
+
+<details>
+<summary><strong>20.3 Minimally Invasive Surgery</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2020:%20Surgical%20Oncology.md#203-minimally-invasive-surgery)
+- **20.3.1** [Principles of Minimally Invasive Surgery](./Chapter%2020:%20Surgical%20Oncology.md#2031-principles-of-minimally-invasive-surgery)
+- **20.3.2** [Laparoscopic Oncology](./Chapter%2020:%20Surgical%20Oncology.md#2032-laparoscopic-oncology)
+  - [Colorectal Applications](./Chapter%2020:%20Surgical%20Oncology.md#colorectal-applications)
+  - [Gynecologic Applications](./Chapter%2020:%20Surgical%20Oncology.md#gynecologic-applications)
+- **20.3.3** [Robotic Surgery](./Chapter%2020:%20Surgical%20Oncology.md#2033-robotic-surgery)
+  - [Technical Advantages](./Chapter%2020:%20Surgical%20Oncology.md#technical-advantages)
+  - [Clinical Outcomes](./Chapter%2020:%20Surgical%20Oncology.md#clinical-outcomes)
+- **20.3.4** [Specialized Minimally Invasive Techniques](./Chapter%2020:%20Surgical%20Oncology.md#2034-specialized-minimally-invasive-techniques)
+  - [Transanal Microsurgery](./Chapter%2020:%20Surgical%20Oncology.md#transanal-microsurgery)
+  - [Image-Guided Procedures](./Chapter%2020:%20Surgical%20Oncology.md#image-guided-procedures)
+
+</details>
+
+<details>
+<summary><strong>20.4 Reconstructive Surgery</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2020:%20Surgical%20Oncology.md#204-reconstructive-surgery)
+- **20.4.1** [Principles of Oncoplastic Surgery](./Chapter%2020:%20Surgical%20Oncology.md#2041-principles-of-oncoplastic-surgery)
+- **20.4.2** [Breast Reconstruction](./Chapter%2020:%20Surgical%20Oncology.md#2042-breast-reconstruction)
+  - [Immediate vs. Delayed Reconstruction](./Chapter%2020:%20Surgical%20Oncology.md#immediate-vs-delayed-reconstruction)
+  - [Reconstructive Techniques](./Chapter%2020:%20Surgical%20Oncology.md#reconstructive-techniques)
+- **20.4.3** [Head and Neck Reconstruction](./Chapter%2020:%20Surgical%20Oncology.md#2043-head-and-neck-reconstruction)
+- **20.4.4** [Functional Restoration](./Chapter%2020:%20Surgical%20Oncology.md#2044-functional-restoration)
+  - [Lymphatic Reconstruction](./Chapter%2020:%20Surgical%20Oncology.md#lymphatic-reconstruction)
+  - [Prosthetic Integration](./Chapter%2020:%20Surgical%20Oncology.md#prosthetic-integration)
+- **20.4.5** [Innovation in Reconstructive Techniques](./Chapter%2020:%20Surgical%20Oncology.md#2045-innovation-in-reconstructive-techniques)
+  - [Advanced Materials](./Chapter%2020:%20Surgical%20Oncology.md#advanced-materials)
+  - [Multidisciplinary Coordination](./Chapter%2020:%20Surgical%20Oncology.md#multidisciplinary-coordination)
+
+</details>
+
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
+
+- [View Conclusion](./Chapter%2020:%20Surgical%20Oncology.md#conclusion)
+
+</details>
