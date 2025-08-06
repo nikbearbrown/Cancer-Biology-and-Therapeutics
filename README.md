@@ -1733,3 +1733,104 @@
 - [View Conclusion](./Chapter%2017:%20Cancer%20Prevention%20and%20Screening.md#conclusion)
 
 </details>
+
+## Chapter 18: Cancer Detection and Diagnosis
+
+<details>
+<summary><strong>18.1 Screening Methods</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#181-screening-methods)
+- **18.1.1** [Principles of Cancer Screening](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1811-principles-of-cancer-screening)
+- **18.1.2** [Established Screening Modalities](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1812-established-screening-modalities)
+  - [Mammographic Screening](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#mammographic-screening)
+  - [Cervical Cancer Screening](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#cervical-cancer-screening)
+  - [Colorectal Cancer Screening](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#colorectal-cancer-screening)
+  - [Lung Cancer Screening](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#lung-cancer-screening)
+- **18.1.3** [Emerging Screening Technologies](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1813-emerging-screening-technologies)
+  - [Multi-Cancer Early Detection Tests](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#multi-cancer-early-detection-tests)
+
+</details>
+
+<details>
+<summary><strong>18.2 Imaging Techniques</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#182-imaging-techniques)
+- **18.2.1** [Conventional Radiography](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1821-conventional-radiography)
+- **18.2.2** [Computed Tomography (CT)](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1822-computed-tomography-ct)
+- **18.2.3** [Magnetic Resonance Imaging (MRI)](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1823-magnetic-resonance-imaging-mri)
+- **18.2.4** [Positron Emission Tomography (PET)](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1824-positron-emission-tomography-pet)
+- **18.2.5** [Ultrasound Imaging](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1825-ultrasound-imaging)
+
+</details>
+
+<details>
+<summary><strong>18.3 Biopsy and Pathology: Histology, Cytology</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#183-biopsy-and-pathology-histology-cytology)
+- **18.3.1** [Principles of Cancer Pathology](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1831-principles-of-cancer-pathology)
+- **18.3.2** [Biopsy Techniques](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1832-biopsy-techniques)
+  - [Incisional Biopsy](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#incisional-biopsy)
+  - [Excisional Biopsy](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#excisional-biopsy)
+  - [Image-Guided Biopsy](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#image-guided-biopsy)
+- **18.3.3** [Cytological Diagnosis](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1833-cytological-diagnosis)
+- **18.3.4** [Histopathological Analysis](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1834-histopathological-analysis)
+  - [Tissue Processing and Staining](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#tissue-processing-and-staining)
+  - [Immunohistochemistry](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#immunohistochemistry)
+  - [Special Stains and Techniques](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#special-stains-and-techniques)
+
+</details>
+
+<details>
+<summary><strong>18.4 Molecular Diagnostics: Biomarkers, Liquid Biopsy</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#184-molecular-diagnostics-biomarkers-liquid-biopsy)
+- **18.4.1** [Cancer Biomarkers](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1841-cancer-biomarkers)
+- **18.4.2** [Molecular Testing Technologies](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1842-molecular-testing-technologies)
+  - [Next-Generation Sequencing (NGS)](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#next-generation-sequencing-ngs)
+  - [RNA Sequencing](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#rna-sequencing)
+- **18.4.3** [Liquid Biopsy Technologies](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1843-liquid-biopsy-technologies)
+  - [Circulating Tumor DNA (ctDNA)](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#circulating-tumor-dna-ctdna)
+  - [Circulating Tumor Cells (CTCs)](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#circulating-tumor-cells-ctcs)
+  - [Extracellular Vesicles](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#extracellular-vesicles)
+- **18.4.4** [Companion Diagnostics](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1844-companion-diagnostics)
+- **18.4.5** [Challenges in Molecular Diagnostics](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1845-challenges-in-molecular-diagnostics)
+  - [Specimen Requirements](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#specimen-requirements)
+  - [Interpretation Challenges](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#interpretation-challenges)
+
+</details>
+
+<details>
+<summary><strong>18.5 Cancer Staging and Grading</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#185-cancer-staging-and-grading)
+- **18.5.1** [Cancer Staging Systems](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1851-cancer-staging-systems)
+  - [TNM Classification System](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#tnm-classification-system)
+  - [Advantages of TNM System](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#advantages-of-tnm-system)
+- **18.5.2** [Cancer Grading Systems](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1852-cancer-grading-systems)
+  - [Histologic Grade](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#histologic-grade)
+  - [Organ-Specific Grading Systems](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#organ-specific-grading-systems)
+- **18.5.3** [Molecular Classification Systems](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1853-molecular-classification-systems)
+  - [Integration with Traditional Systems](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#integration-with-traditional-systems)
+  - [Clinical Implementation](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#clinical-implementation)
+- **18.5.4** [Prognostic and Predictive Factors](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1854-prognostic-and-predictive-factors)
+  - [Prognostic Factors](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#prognostic-factors)
+  - [Predictive Factors](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#predictive-factors)
+- **18.5.5** [Future Directions in Cancer Classification](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#1855-future-directions-in-cancer-classification)
+  - [Precision Medicine Integration](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#precision-medicine-integration)
+  - [Artificial Intelligence Applications](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#artificial-intelligence-applications)
+  - [Liquid Biopsy Integration](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#liquid-biopsy-integration)
+
+</details>
+
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
+
+- [View Conclusion](./Chapter%2018:%20Cancer%20Detection%20and%20Diagnosis.md#conclusion)
+
+</details>
