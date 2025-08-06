@@ -2421,3 +2421,72 @@
 - [View Conclusion](./Chapter%2024:%20Targeted%20Therapies.md#conclusion)
 
 </details>
+
+## Chapter 25: Cancer Immunotherapy
+
+<details>
+<summary><strong>25.1 Fundamentals of Cancer Immunology</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2025:%20Cancer%20Immunotherapy.md#251-fundamentals-of-cancer-immunology)
+- **25.1.1** [The Immune System and Tumor Recognition](./Chapter%2025:%20Cancer%20Immunotherapy.md#2511-the-immune-system-and-tumor-recognition)
+- **25.1.2** [Immune Surveillance and Escape Mechanisms](./Chapter%2025:%20Cancer%20Immunotherapy.md#2512-immune-surveillance-and-escape-mechanisms)
+
+</details>
+
+<details>
+<summary><strong>25.2 Immune Checkpoint Inhibitors</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2025:%20Cancer%20Immunotherapy.md#252-immune-checkpoint-inhibitors)
+- **25.2.1** [CTLA-4 Pathway and Inhibition](./Chapter%2025:%20Cancer%20Immunotherapy.md#2521-ctla-4-pathway-and-inhibition)
+- **25.2.2** [PD-1/PD-L1 Pathway and Inhibition](./Chapter%2025:%20Cancer%20Immunotherapy.md#2522-pd-1pd-l1-pathway-and-inhibition)
+- **25.2.3** [Combination Immune Checkpoint Inhibition](./Chapter%2025:%20Cancer%20Immunotherapy.md#2523-combination-immune-checkpoint-inhibition)
+
+</details>
+
+<details>
+<summary><strong>25.3 CAR T-cell Therapy and Other Adoptive Cell Therapies</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2025:%20Cancer%20Immunotherapy.md#253-car-t-cell-therapy-and-other-adoptive-cell-therapies)
+- **25.3.1** [Chimeric Antigen Receptor (CAR) T-cell Therapy](./Chapter%2025:%20Cancer%20Immunotherapy.md#2531-chimeric-antigen-receptor-car-t-cell-therapy)
+- **25.3.2** [CAR T-cell Therapy Process](./Chapter%2025:%20Cancer%20Immunotherapy.md#2532-car-t-cell-therapy-process)
+- **25.3.3** [Expanding CAR T-cell Targets](./Chapter%2025:%20Cancer%20Immunotherapy.md#2533-expanding-car-t-cell-targets)
+- **25.3.4** [Tumor-Infiltrating Lymphocyte (TIL) Therapy](./Chapter%2025:%20Cancer%20Immunotherapy.md#2534-tumor-infiltrating-lymphocyte-til-therapy)
+
+</details>
+
+<details>
+<summary><strong>25.4 Cancer Vaccines</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2025:%20Cancer%20Immunotherapy.md#254-cancer-vaccines)
+- **25.4.1** [Targets for Cancer Vaccine Therapy](./Chapter%2025:%20Cancer%20Immunotherapy.md#2541-targets-for-cancer-vaccine-therapy)
+- **25.4.2** [Prophylactic Cancer Vaccines](./Chapter%2025:%20Cancer%20Immunotherapy.md#2542-prophylactic-cancer-vaccines)
+- **25.4.3** [Therapeutic Cancer Vaccines](./Chapter%2025:%20Cancer%20Immunotherapy.md#2543-therapeutic-cancer-vaccines)
+
+</details>
+
+<details>
+<summary><strong>25.5 Cytokine Therapy</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2025:%20Cancer%20Immunotherapy.md#255-cytokine-therapy)
+- **25.5.1** [Interferons](./Chapter%2025:%20Cancer%20Immunotherapy.md#2551-interferons)
+- **25.5.2** [Interleukin-2 (IL-2)](./Chapter%2025:%20Cancer%20Immunotherapy.md#2552-interleukin-2-il-2)
+- **25.5.3** [Other Cytokines](./Chapter%2025:%20Cancer%20Immunotherapy.md#2553-other-cytokines)
+
+</details>
+
+<details>
+<summary><strong>25.6 Immune-Related Adverse Events</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2025:%20Cancer%20Immunotherapy.md#256-immune-related-adverse-events)
+- **25.6.1** [Pathophysiology of Immune-Related Adverse Events](./Chapter%2025:%20Cancer%20Immunotherapy.md#2561-pathophysiology-of-immune-related-adverse-events)
+- **25.6.2** [Clinical Spectrum of Immune-Related Adverse Events](./Chapter%2025:%20Cancer%20Immunotherapy.md#2562-clinical-spectrum-of-immune-related-adverse-events)
+- **25.6.3** [Monitoring and Management Strategies](./Chapter%2025:%20Cancer%20Immunotherapy.md#2563-monitoring-and-management-strategies)
+- **25.6.4** [Special Considerations](./Chapter%2025:%20Cancer%20Immunotherapy.md#2564-special-considerations)
+
+</details>
