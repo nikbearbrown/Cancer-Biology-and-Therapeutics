@@ -1390,3 +1390,85 @@
 - [View Conclusion](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#conclusion)
 
 </details>
+
+## Chapter 14: The Tumor Microenvironment
+
+<details>
+<summary><strong>14.1 Components of the Tumor Microenvironment</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#141-components-of-the-tumor-microenvironment)
+- **14.1.1** [Cancer-Associated Fibroblasts](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#1411-cancer-associated-fibroblasts)
+  - [Morphological and Functional Characteristics of CAFs](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#morphological-and-functional-characteristics-of-cafs)
+  - [Origins and Activation of CAFs](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#origins-and-activation-of-cafs)
+  - [Metabolic Reprogramming in CAFs](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#metabolic-reprogramming-in-cafs)
+  - [Functional Roles of CAFs](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#functional-roles-of-cafs)
+- **14.1.2** [Immune Cells in the Tumor Microenvironment](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#1412-immune-cells-in-the-tumor-microenvironment)
+  - [Tumor-Associated Macrophages (TAMs)](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#tumor-associated-macrophages-tams)
+  - [Macrophage Polarization in the TME](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#macrophage-polarization-in-the-tme)
+  - [T Lymphocytes and Adaptive Immunity](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#t-lymphocytes-and-adaptive-immunity)
+  - [Immunosuppressive Mechanisms](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#immunosuppressive-mechanisms)
+- **14.1.3** [Endothelial Cells and Angiogenesis](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#1413-endothelial-cells-and-angiogenesis)
+  - [Tumor Angiogenesis Mechanisms](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#tumor-angiogenesis-mechanisms)
+  - [Angiogenic Factors and Signaling](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#angiogenic-factors-and-signaling)
+  - [Tumor Vasculature Characteristics](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#tumor-vasculature-characteristics)
+
+</details>
+
+<details>
+<summary><strong>14.2 Interaction between Cancer Cells and the Stroma</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#142-interaction-between-cancer-cells-and-the-stroma)
+- **14.2.1** [Bidirectional Signaling Mechanisms](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#1421-bidirectional-signaling-mechanisms)
+  - [Cancer Cell-Derived Factors](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#cancer-cell-derived-factors)
+  - [Stromal Cell-Derived Factors](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#stromal-cell-derived-factors)
+- **14.2.2** [Metabolic Crosstalk](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#1422-metabolic-crosstalk)
+  - [The Reverse Warburg Effect](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#the-reverse-warburg-effect)
+  - [Amino Acid and Lipid Metabolism](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#amino-acid-and-lipid-metabolism)
+- **14.2.3** [Mechanical Forces and Physical Interactions](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#1423-mechanical-forces-and-physical-interactions)
+  - [Desmoplastic Reaction](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#desmoplastic-reaction)
+  - [Matrix Remodeling](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#matrix-remodeling)
+
+</details>
+
+<details>
+<summary><strong>14.3 Inflammation and the Tumor Microenvironment</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#143-inflammation-and-the-tumor-microenvironment)
+- **14.3.1** [Historical Perspective and Epidemiological Evidence](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#1431-historical-perspective-and-epidemiological-evidence)
+- **14.3.2** [Inflammatory Pathways in Cancer Development](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#1432-inflammatory-pathways-in-cancer-development)
+  - [Chronic Inflammation and Carcinogenesis](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#chronic-inflammation-and-carcinogenesis)
+  - [Inflammatory Mediators](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#inflammatory-mediators)
+- **14.3.3** [Tumor-Promoting Inflammation](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#1433-tumor-promoting-inflammation)
+  - [Inflammatory Cell Recruitment](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#inflammatory-cell-recruitment)
+  - [Pro-tumorigenic Inflammatory Signaling](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#pro-tumorigenic-inflammatory-signaling)
+- **14.3.4** [Matrix Metalloproteinases and Tissue Remodeling](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#1434-matrix-metalloproteinases-and-tissue-remodeling)
+
+</details>
+
+<details>
+<summary><strong>14.4 Extracellular Matrix Remodeling</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#144-extracellular-matrix-remodeling)
+- **14.4.1** [ECM Composition and Organization](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#1441-ecm-composition-and-organization)
+  - [Normal vs. Tumor ECM](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#normal-vs-tumor-ecm)
+- **14.4.2** [ECM Remodeling Mechanisms](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#1442-ecm-remodeling-mechanisms)
+  - [Fibrin Deposition and Provisional Matrix Formation](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#fibrin-deposition-and-provisional-matrix-formation)
+- **14.4.3** [ECM and Cancer Cell Behavior](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#1443-ecm-and-cancer-cell-behavior)
+  - [Invasion and Metastasis](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#invasion-and-metastasis)
+  - [Therapeutic Implications](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#therapeutic-implications)
+- **14.4.4** [Therapeutic Targeting of ECM](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#1444-therapeutic-targeting-of-ecm)
+  - [Stromal Targeting Approaches](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#stromal-targeting-approaches)
+
+</details>
+
+<details>
+<summary><strong>Clinical Implications and Future Directions</strong></summary>
+<br>
+
+- [View Section](./Chapter%2014:%20The%20Tumor%20Microenvironment.md#clinical-implications-and-future-directions)
+
+</details>
