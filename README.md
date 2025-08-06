@@ -2995,3 +2995,124 @@
 - [View Summary](./Chapter%2032:%20Central%20Nervous%20System%20Tumors.md#summary)
 
 </details>
+
+## Chapter 33: Hematologic Malignancies
+
+<details>
+<summary><strong>33.1 Leukemias</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2033:%20Hematologic%20Malignancies.md#331-leukemias)
+- **33.1.1** [Classification and Overview](./Chapter%2033:%20Hematologic%20Malignancies.md#3311-classification-and-overview)
+- **33.1.2** [Acute Lymphoblastic Leukemia (ALL)](./Chapter%2033:%20Hematologic%20Malignancies.md#3312-acute-lymphoblastic-leukemia-all)
+- **33.1.3** [Acute Myeloid Leukemia (AML)](./Chapter%2033:%20Hematologic%20Malignancies.md#3313-acute-myeloid-leukemia-aml)
+- **33.1.4** [Chronic Lymphocytic Leukemia (CLL)](./Chapter%2033:%20Hematologic%20Malignancies.md#3314-chronic-lymphocytic-leukemia-cll)
+- **33.1.5** [Chronic Myeloid Leukemia (CML)](./Chapter%2033:%20Hematologic%20Malignancies.md#3315-chronic-myeloid-leukemia-cml)
+
+</details>
+
+<details>
+<summary><strong>33.2 Lymphomas</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2033:%20Hematologic%20Malignancies.md#332-lymphomas)
+- **33.2.1** [Classification and Overview](./Chapter%2033:%20Hematologic%20Malignancies.md#3321-classification-and-overview)
+- **33.2.2** [Hodgkin Lymphoma](./Chapter%2033:%20Hematologic%20Malignancies.md#3322-hodgkin-lymphoma)
+- **33.2.3** [Non-Hodgkin Lymphoma](./Chapter%2033:%20Hematologic%20Malignancies.md#3323-non-hodgkin-lymphoma)
+- **33.2.4** [Specific NHL Subtypes](./Chapter%2033:%20Hematologic%20Malignancies.md#3324-specific-nhl-subtypes)
+- **33.2.5** [Pediatric Lymphoma Considerations](./Chapter%2033:%20Hematologic%20Malignancies.md#3325-pediatric-lymphoma-considerations)
+
+</details>
+
+<details>
+<summary><strong>33.3 Plasma Cell Dyscrasias</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2033:%20Hematologic%20Malignancies.md#333-plasma-cell-dyscrasias)
+- **33.3.1** [Overview and Classification](./Chapter%2033:%20Hematologic%20Malignancies.md#3331-overview-and-classification)
+- **33.3.2** [Multiple Myeloma](./Chapter%2033:%20Hematologic%20Malignancies.md#3332-multiple-myeloma)
+- **33.3.3** [Monoclonal Gammopathy of Undetermined Significance (MGUS)](./Chapter%2033:%20Hematologic%20Malignancies.md#3333-monoclonal-gammopathy-of-undetermined-significance-mgus)
+- **33.3.4** [Plasmacytoma](./Chapter%2033:%20Hematologic%20Malignancies.md#3334-plasmacytoma)
+- **33.3.5** [Related Conditions](./Chapter%2033:%20Hematologic%20Malignancies.md#3335-related-conditions)
+
+</details>
+
+<details>
+<summary><strong>33.4 Diagnostic Approaches</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2033:%20Hematologic%20Malignancies.md#334-diagnostic-approaches)
+- **33.4.1** [General Principles](./Chapter%2033:%20Hematologic%20Malignancies.md#3341-general-principles)
+- **33.4.2** [Specific Diagnostic Modalities](./Chapter%2033:%20Hematologic%20Malignancies.md#3342-specific-diagnostic-modalities)
+
+</details>
+
+<details>
+<summary><strong>33.5 Treatment Approaches</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2033:%20Hematologic%20Malignancies.md#335-treatment-approaches)
+- **33.5.1** [General Treatment Principles](./Chapter%2033:%20Hematologic%20Malignancies.md#3351-general-treatment-principles)
+- **33.5.2** [Specific Treatment Modalities](./Chapter%2033:%20Hematologic%20Malignancies.md#3352-specific-treatment-modalities)
+- **33.5.3** [Treatment-Related Complications](./Chapter%2033:%20Hematologic%20Malignancies.md#3353-treatment-related-complications)
+
+</details>
+
+<details>
+<summary><strong>33.6 Prognosis and Outcomes</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2033:%20Hematologic%20Malignancies.md#336-prognosis-and-outcomes)
+- **33.6.1** [Prognostic Factors](./Chapter%2033:%20Hematologic%20Malignancies.md#3361-prognostic-factors)
+- **33.6.2** [Survival Outcomes](./Chapter%2033:%20Hematologic%20Malignancies.md#3362-survival-outcomes)
+
+</details>
+
+<details>
+<summary><strong>33.7 Special Populations</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2033:%20Hematologic%20Malignancies.md#337-special-populations)
+- **33.7.1** [Pediatric Considerations](./Chapter%2033:%20Hematologic%20Malignancies.md#3371-pediatric-considerations)
+- **33.7.2** [Elderly Patients](./Chapter%2033:%20Hematologic%20Malignancies.md#3372-elderly-patients)
+
+</details>
+
+<details>
+<summary><strong>33.8 Nursing and Supportive Care</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2033:%20Hematologic%20Malignancies.md#338-nursing-and-supportive-care)
+- **33.8.1** [Symptom Management](./Chapter%2033:%20Hematologic%20Malignancies.md#3381-symptom-management)
+- **33.8.2** [Quality of Life Considerations](./Chapter%2033:%20Hematologic%20Malignancies.md#3382-quality-of-life-considerations)
+
+</details>
+
+<details>
+<summary><strong>33.9 Future Directions</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2033:%20Hematologic%20Malignancies.md#339-future-directions)
+- **33.9.1** [Emerging Therapies](./Chapter%2033:%20Hematologic%20Malignancies.md#3391-emerging-therapies)
+- **33.9.2** [Precision Medicine](./Chapter%2033:%20Hematologic%20Malignancies.md#3392-precision-medicine)
+
+</details>
+
+<details>
+<summary><strong>33.10 Clinical Implications for Healthcare Providers</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2033:%20Hematologic%20Malignancies.md#3310-clinical-implications-for-healthcare-providers)
+- **33.10.1** [Recognition and Referral](./Chapter%2033:%20Hematologic%20Malignancies.md#33101-recognition-and-referral)
+- **33.10.2** [Interprofessional Collaboration](./Chapter%2033:%20Hematologic%20Malignancies.md#33102-interprofessional-collaboration)
+
+</details>
+
+<details>
+<summary><strong>Summary</strong></summary>
+<br>
+
+- [View Summary](./Chapter%2033:%20Hematologic%20Malignancies.md#summary)
+
+</details>
+
