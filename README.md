@@ -1556,3 +1556,104 @@
 </details>
 
 # Part IV: Cancer Immunology and the Immune Landscape
+
+## Chapter 16: Tumor Immunology
+
+<details>
+<summary><strong>16.1 Immune Surveillance and Escape</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2016:%20Tumor%20Immunology.md#161-immune-surveillance-and-escape)
+- **16.1.1** [The Concept of Immune Surveillance](./Chapter%2016:%20Tumor%20Immunology.md#1611-the-concept-of-immune-surveillance)
+  - [Historical Perspective and Theoretical Foundation](./Chapter%2016:%20Tumor%20Immunology.md#historical-perspective-and-theoretical-foundation)
+  - [Evidence for Immune Surveillance](./Chapter%2016:%20Tumor%20Immunology.md#evidence-for-immune-surveillance)
+  - [Limitations of Immune Surveillance](./Chapter%2016:%20Tumor%20Immunology.md#limitations-of-immune-surveillance)
+- **16.1.2** [Mechanisms of Tumor Immune Evasion](./Chapter%2016:%20Tumor%20Immunology.md#1612-mechanisms-of-tumor-immune-evasion)
+  - [The Three Es: Elimination, Equilibrium, and Escape](./Chapter%2016:%20Tumor%20Immunology.md#the-three-es-elimination-equilibrium-and-escape)
+  - [Tumor Cell-Intrinsic Escape Mechanisms](./Chapter%2016:%20Tumor%20Immunology.md#tumor-cell-intrinsic-escape-mechanisms)
+- **16.1.3** [Host-Mediated Immune Dysfunction](./Chapter%2016:%20Tumor%20Immunology.md#1613-host-mediated-immune-dysfunction)
+  - [T-Cell Exhaustion](./Chapter%2016:%20Tumor%20Immunology.md#t-cell-exhaustion)
+  - [Regulatory T Cell Activity](./Chapter%2016:%20Tumor%20Immunology.md#regulatory-t-cell-activity)
+  - [Myeloid-Derived Suppressor Cells](./Chapter%2016:%20Tumor%20Immunology.md#myeloid-derived-suppressor-cells)
+
+</details>
+
+<details>
+<summary><strong>16.2 Tumor Antigens and Neoantigens</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2016:%20Tumor%20Immunology.md#162-tumor-antigens-and-neoantigens)
+- **16.2.1** [Definition and Classification of Tumor Antigens](./Chapter%2016:%20Tumor%20Immunology.md#1621-definition-and-classification-of-tumor-antigens)
+  - [Fundamental Concepts](./Chapter%2016:%20Tumor%20Immunology.md#fundamental-concepts)
+  - [Antigen Presentation Pathways](./Chapter%2016:%20Tumor%20Immunology.md#antigen-presentation-pathways)
+  - [Proteasomal Processing](./Chapter%2016:%20Tumor%20Immunology.md#proteasomal-processing)
+- **16.2.2** [Categories of Tumor Antigens](./Chapter%2016:%20Tumor%20Immunology.md#1622-categories-of-tumor-antigens)
+  - [Tumor-Associated Antigens (TAAs)](./Chapter%2016:%20Tumor%20Immunology.md#tumor-associated-antigens-taas)
+  - [Oncofetal Antigens](./Chapter%2016:%20Tumor%20Immunology.md#oncofetal-antigens)
+  - [Cancer-Testis Antigens](./Chapter%2016:%20Tumor%20Immunology.md#cancer-testis-antigens)
+  - [Overexpressed/Accumulated Antigens](./Chapter%2016:%20Tumor%20Immunology.md#overexpressedaccumulated-antigens)
+- **16.2.3** [Neoantigens: The New Frontier](./Chapter%2016:%20Tumor%20Immunology.md#1623-neoantigens-the-new-frontier)
+  - [Definition and Origin of Neoantigens](./Chapter%2016:%20Tumor%20Immunology.md#definition-and-origin-of-neoantigens)
+  - [Advantages of Neoantigens](./Chapter%2016:%20Tumor%20Immunology.md#advantages-of-neoantigens)
+  - [Clinical Implications](./Chapter%2016:%20Tumor%20Immunology.md#clinical-implications)
+- **16.2.4** [Melanoma Antigens: A Model System](./Chapter%2016:%20Tumor%20Immunology.md#1624-melanoma-antigens-a-model-system)
+  - [Discovery and Characterization](./Chapter%2016:%20Tumor%20Immunology.md#discovery-and-characterization)
+  - [Clinical Relevance](./Chapter%2016:%20Tumor%20Immunology.md#clinical-relevance)
+
+</details>
+
+<details>
+<summary><strong>16.3 Innate and Adaptive Immune Responses</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2016:%20Tumor%20Immunology.md#163-innate-and-adaptive-immune-responses)
+- **16.3.1** [Innate Immune Responses to Cancer](./Chapter%2016:%20Tumor%20Immunology.md#1631-innate-immune-responses-to-cancer)
+  - [Natural Killer (NK) Cells](./Chapter%2016:%20Tumor%20Immunology.md#natural-killer-nk-cells)
+  - [NK Cell Recognition Mechanisms](./Chapter%2016:%20Tumor%20Immunology.md#nk-cell-recognition-mechanisms)
+  - [NK Cell Effector Functions](./Chapter%2016:%20Tumor%20Immunology.md#nk-cell-effector-functions)
+  - [Tumor-Associated Macrophages (TAMs)](./Chapter%2016:%20Tumor%20Immunology.md#tumor-associated-macrophages-tams)
+- **16.3.2** [Adaptive Immune Responses to Cancer](./Chapter%2016:%20Tumor%20Immunology.md#1632-adaptive-immune-responses-to-cancer)
+  - [T-Cell Mediated Immunity](./Chapter%2016:%20Tumor%20Immunology.md#t-cell-mediated-immunity)
+  - [Helper T Cell Subsets](./Chapter%2016:%20Tumor%20Immunology.md#helper-t-cell-subsets)
+  - [T-Cell Activation Requirements](./Chapter%2016:%20Tumor%20Immunology.md#t-cell-activation-requirements)
+- **16.3.3** [The Role of Dendritic Cells](./Chapter%2016:%20Tumor%20Immunology.md#1633-the-role-of-dendritic-cells)
+  - [Antigen Presentation Function](./Chapter%2016:%20Tumor%20Immunology.md#antigen-presentation-function)
+  - [Maturation and Migration](./Chapter%2016:%20Tumor%20Immunology.md#maturation-and-migration)
+- **16.3.4** [B-Cell Responses in Cancer](./Chapter%2016:%20Tumor%20Immunology.md#1634-b-cell-responses-in-cancer)
+  - [Humoral Immunity](./Chapter%2016:%20Tumor%20Immunology.md#humoral-immunity)
+  - [Tumor-Promoting B-Cell Functions](./Chapter%2016:%20Tumor%20Immunology.md#tumor-promoting-b-cell-functions)
+
+</details>
+
+<details>
+<summary><strong>16.4 Tumor-Induced Immune Suppression</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2016:%20Tumor%20Immunology.md#164-tumor-induced-immune-suppression)
+- **16.4.1** [Immunosuppressive Factors Produced by Tumors](./Chapter%2016:%20Tumor%20Immunology.md#1641-immunosuppressive-factors-produced-by-tumors)
+  - [Transforming Growth Factor-β (TGF-β)](./Chapter%2016:%20Tumor%20Immunology.md#transforming-growth-factor-β-tgf-β)
+  - [Prostaglandins (PGs)](./Chapter%2016:%20Tumor%20Immunology.md#prostaglandins-pgs)
+- **16.4.2** [Activation-Induced Cell Death (AICD)](./Chapter%2016:%20Tumor%20Immunology.md#1642-activation-induced-cell-death-aicd)
+  - [Fas-FasL Pathway](./Chapter%2016:%20Tumor%20Immunology.md#fas-fasl-pathway)
+  - [Clinical Significance](./Chapter%2016:%20Tumor%20Immunology.md#clinical-significance)
+- **16.4.3** [Metabolic Immunosuppression](./Chapter%2016:%20Tumor%20Immunology.md#1643-metabolic-immunosuppression)
+  - [Competition for Nutrients](./Chapter%2016:%20Tumor%20Immunology.md#competition-for-nutrients)
+  - [Hypoxia and Acidification](./Chapter%2016:%20Tumor%20Immunology.md#hypoxia-and-acidification)
+- **16.4.4** [Checkpoint Inhibition and Immune Suppression](./Chapter%2016:%20Tumor%20Immunology.md#1644-checkpoint-inhibition-and-immune-suppression)
+  - [PD-1/PD-L1 Pathway](./Chapter%2016:%20Tumor%20Immunology.md#pd-1pd-l1-pathway)
+  - [CTLA-4 Pathway](./Chapter%2016:%20Tumor%20Immunology.md#ctla-4-pathway)
+  - [Clinical Applications](./Chapter%2016:%20Tumor%20Immunology.md#clinical-applications)
+
+</details>
+
+<details>
+<summary><strong>Clinical Implications and Therapeutic Applications</strong></summary>
+<br>
+
+- [View Section](./Chapter%2016:%20Tumor%20Immunology.md#clinical-implications-and-therapeutic-applications)
+  - [Immunotherapeutic Approaches](./Chapter%2016:%20Tumor%20Immunology.md#immunotherapeutic-approaches)
+  - [Future Directions](./Chapter%2016:%20Tumor%20Immunology.md#future-directions)
+
+</details>
+
+# Part V: Diagnosis and Conventional Treatment Modalities
