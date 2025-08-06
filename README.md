@@ -1269,3 +1269,124 @@
 
 </details>
 
+## Chapter 13: Invasion and Metastasis: The Spread of Cancer
+
+<details>
+<summary><strong>13.1 Introduction and Overview</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#131-introduction-and-overview)
+- **13.1.1** [The Metastatic Cascade](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1311-the-metastatic-cascade)
+- **13.1.2** [Clinical Significance of Metastasis](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1312-clinical-significance-of-metastasis)
+
+</details>
+
+<details>
+<summary><strong>13.2 Epithelial-Mesenchymal Transition (EMT)</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#132-epithelial-mesenchymal-transition-emt)
+- **13.2.1** [Definition and Characteristics of EMT](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1321-definition-and-characteristics-of-emt)
+- **13.2.2** [EMT in Embryonic Development](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1322-emt-in-embryonic-development)
+- **13.2.3** [TGF-β and EMT Regulation](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1323-tgf-β-and-emt-regulation)
+- **13.2.4** [EMT in Cancer Progression](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1324-emt-in-cancer-progression)
+- **13.2.5** [EMT Detection in Human Cancer](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1325-emt-detection-in-human-cancer)
+
+</details>
+
+<details>
+<summary><strong>13.3 Matrix Metalloproteinases and Extracellular Matrix Degradation</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#133-matrix-metalloproteinases-and-extracellular-matrix-degradation)
+- **13.3.1** [Matrix Metalloproteinase Structure and Function](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1331-matrix-metalloproteinase-structure-and-function)
+- **13.3.2** [MMPs in Cancer Invasion](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1332-mmps-in-cancer-invasion)
+- **13.3.3** [MMP Regulation and Inhibition](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1333-mmp-regulation-and-inhibition)
+
+</details>
+
+<details>
+<summary><strong>13.4 Cell Morphology and Invasion Characteristics</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#134-cell-morphology-and-invasion-characteristics)
+- **13.4.1** [Cellular Features of Invasive Cancer Cells](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1341-cellular-features-of-invasive-cancer-cells)
+- **13.4.2** [Basement Membrane Changes](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1342-basement-membrane-changes)
+- **13.4.3** [Heterogeneity of Metastatic Potential](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1343-heterogeneity-of-metastatic-potential)
+
+</details>
+
+<details>
+<summary><strong>13.5 Organ-Specific Metastasis</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#135-organ-specific-metastasis)
+- **13.5.1** [Lung Metastasis](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1351-lung-metastasis)
+- **13.5.2** [Brain Metastasis](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1352-brain-metastasis)
+- **13.5.3** [Spinal Metastasis](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1353-spinal-metastasis)
+- **13.5.4** [Peritoneal Metastasis](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1354-peritoneal-metastasis)
+
+</details>
+
+<details>
+<summary><strong>13.6 Circulating Tumor Cells</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#136-circulating-tumor-cells)
+- **13.6.1** [CTC Biology and Characteristics](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1361-ctc-biology-and-characteristics)
+- **13.6.2** [CTC Detection and Clinical Significance](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1362-ctc-detection-and-clinical-significance)
+- **13.6.3** [CTC Survival in Circulation](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1363-ctc-survival-in-circulation)
+
+</details>
+
+<details>
+<summary><strong>13.7 Angiogenesis and Metastasis</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#137-angiogenesis-and-metastasis)
+- **13.7.1** [Angiogenesis in the Metastatic Process](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1371-angiogenesis-in-the-metastatic-process)
+- **13.7.2** [Vascular Properties in Metastasis](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1372-vascular-properties-in-metastasis)
+- **13.7.3** [Metastatic Angiogenesis](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1373-metastatic-angiogenesis)
+
+</details>
+
+<details>
+<summary><strong>13.8 Molecular Mechanisms of Invasion</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#138-molecular-mechanisms-of-invasion)
+- **13.8.1** [Integrin-Mediated Invasion](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1381-integrin-mediated-invasion)
+- **13.8.2** [Cell Adhesion and Junction Disruption](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1382-cell-adhesion-and-junction-disruption)
+- **13.8.3** [Adhesion Molecules in Metastasis](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1383-adhesion-molecules-in-metastasis)
+
+</details>
+
+<details>
+<summary><strong>13.9 Routes of Metastatic Spread</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#139-routes-of-metastatic-spread)
+- **13.9.1** [Lymphatic Spread](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1391-lymphatic-spread)
+- **13.9.2** [Hematogenous Spread](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1392-hematogenous-spread)
+- **13.9.3** [Transcoelomic Spread](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1393-transcoelomic-spread)
+
+</details>
+
+<details>
+<summary><strong>13.10 Clinical Implications and Therapeutic Considerations</strong></summary>
+<br>
+
+- [View Main Section](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#1310-clinical-implications-and-therapeutic-considerations)
+- **13.10.1** [Metastasis Prevention Strategies](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#13101-metastasis-prevention-strategies)
+- **13.10.2** [Staging and Prognosis](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#13102-staging-and-prognosis)
+- **13.10.3** [Therapeutic Targets](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#13103-therapeutic-targets)
+
+</details>
+
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
+
+- [View Conclusion](./Chapter%2013:%20Invasion%20and%20Metastasis:%20The%20Spread%20of%20Cancer.md#conclusion)
+
+</details>
