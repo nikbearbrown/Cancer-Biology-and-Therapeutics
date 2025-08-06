@@ -1,7 +1,6 @@
 # Cancer-Biology-and-Therapeutics
-# Table of Contents
-
-# Chapter 1: The Building Blocks of Life: Normal Cell Biology
+# Part I: Fundamentals of Cancer 
+## Chapter 1: The Building Blocks of Life: Normal Cell Biology
 
 <details>
 <summary><strong>1.1 Introduction to Cells</strong></summary>
