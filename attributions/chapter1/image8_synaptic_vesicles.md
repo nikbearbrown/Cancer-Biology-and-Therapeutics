@@ -1,0 +1,3 @@
+Title: 6992: Molecular view of glutamatergic synapse
+Description:This illustration highlights spherical pre-synaptic vesicles that carry the neurotransmitter glutamate. The presynaptic and postsynaptic membranes are shown with proteins relevant for transmitting and modulating the neuronal signal.  PDB 101’s Opioids and Pain Signaling video explains how glutamatergic synapses are involved in the process of pain signaling.
+Source: Amy Wu and Christine Zardecki, RCSB Protein Data Bank.
