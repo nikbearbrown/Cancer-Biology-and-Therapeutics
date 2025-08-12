@@ -172,39 +172,257 @@ Alternatively, these epigenetic changes may prime cells to respond more readily 
 
 There is a growing body of data suggesting that cancer "stem/initiating cells", especially when they may dominate in the most aggressive forms of human tumors, have a gene expression signature reminiscent of embryonic stem (ES) cells. A key part of this signature is an increase in polycomb protein group (PcG) complex constituents, and a decrease in expression of a group of genes for which PcG targeting is normally key to maintaining a poised, low basal activity.
 
-## 7.7 Epigenetic Therapy
+## Chapter 7.7: Epigenetic Therapy (Enhanced Edition)
 
-### 7.7.1 Therapeutic Rationale
+## 7.7.1 Therapeutic Rationale and Historical Development
 
-The reversible nature of epigenetic aberrations has led to the emergence of the promising field of epigenetic therapy that has already provided new therapeutic options for patients with malignancies characterized by epigenetic alterations, laying the basis for new and personalized medicine.
+The reversible nature of epigenetic aberrations has led to the emergence of the promising field of epigenetic therapy that has already provided new therapeutic options for patients with malignancies characterized by epigenetic alterations, laying the basis for new and personalized medicine. Unlike genetic abnormalities, epigenetic changes are reversible, allowing recovery of function for affected genes with normal DNA sequences. These therapies aim to reprogram cancer cells to a more normal state.
 
-The most promising way to treat diseases through epigenetic regulation has been through pharmacology. Previous clinical trials for drugs formulated to block epigenetic modifications associated with cancers have proved successful.
+The milestone approval of the first epigenetic drug, azacitidine (AZA), by the FDA in 2004 marked a pivotal transition from theoretical exploration to practical application. A notable moment occurred in 2006 with the approval of decitabine for treating MDS, signifying a crucial advancement in the utilization of epigenetic drugs for cancer treatment. Potential for reversing epigenetic alterations began with the discovery in the late 1970s of agents that reverse DNA methylation. However, it took until the 1990s for these drugs to gain traction in clinical trials, primarily in treating hematologic malignancies and especially the preleukemic disorder myelodysplastic syndrome (MDS).
 
-### 7.7.2 FDA-Approved Epigenetic Drugs
+**Mechanistic Foundation**
 
-The FDA has approved a number of these drugs which target epigenetic regulators to treat various cancers including:
+The great potential for epigenetic therapies lies in the fact that, unlike genetic abnormalities, epigenetic changes are reversible, allowing recovery of function for affected genes with normal DNA sequences. These therapies aim to reprogram cancer cells to a more normal state. There is growing emphasis on using epigenetic therapies to reprogram neoplastic cells toward a normal state. Many agents targeting epigenetic regulation are under development and entering clinical trials.
 
-- **Azacytidine and decitabine** for myelodysplastic syndrome
-- **Panobinostat** for multiple myeloma
-- **Romidepsin** for cutaneous T cell lymphoma
+## 7.7.2 FDA-Approved Epigenetic Therapeutics
 
-More drugs are likely to be approved in the coming years as a number of clinical trials for DNA methylation inhibitors and histone modification inhibitors are underway.
+### 7.7.2.1 DNA Methyltransferase Inhibitors (DNMTi)
 
-### 7.7.3 DNA Methyltransferase Inhibitors
+**First-Generation Agents**
 
-Azacitidine and decitabine are nucleotide analogues that are used as inhibitors of DNA methyltransferases. These nucleotide analogues can be incorporated during DNA replication instead of cytosine and covalently bind DNMT1, impairing the inheritance of DNA methylation during DNA replication.
+Azacitidine and decitabine are cytosine analogue inhibitors and have been approved by the FDA for the treatment of hematologic malignancies, specifically myelodysplastic syndrome (MDS) and acute myeloid leukemia. These nucleotide analogues can be incorporated during DNA replication instead of cytosine and covalently bind DNMT1, impairing the inheritance of DNA methylation during DNA replication.
 
-It is important to note that, in addition to the demethylating effect of these compounds, also the trapping of DNMT proteins on the DNA might indirectly contribute to an anti-cancer effect. Recently, it has also been shown that treatment with DNMT inhibitors induces immune signaling in cancer cells through the upregulation of a wide range of genes implicated in immune signaling and increased numbers of immune cells in the tumor microenvironment.
+**Mechanism of Action**
 
-### 7.7.4 Combination Therapies
+Azacitidine and decitabine are nucleotide analogues that function as inhibitors of DNA methyltransferases. According to the regulatory mechanisms to the nucleotides, DNMTIs can be divided into two classes: cytosine analogue inhibitors and non-nucleotide analogue inhibitors. In general regards, cytosine analogues can incorporate into the DNA or RNA backbone to replace C-5 of cytosine with N-5 and disturb the methylation, as well as induce DNMTs degradation.
 
-Transcriptional silencing mediated by DNA methylation is also related to the recruitment of co-repressors and deacetylation or methylation of histone marks at promoters and enhancers. Accordingly, the combinatorial use of DNMT and histone deacetylases (HDAC) inhibitors was shown to enhance reactivation of aberrantly silenced genes in tumor cells and cause reductions in tumor burden.
+**Second-Generation Developments**
 
-### 7.7.5 Synthetic Lethality Approaches
+Guadecitabine (SGI-110) is a second-generation decitabine and deoxyguanosine compound with prolonged half-life and activity in AML and high-risk AML. Guadecitabine addresses the shortcomings of first-generation DNMT inhibitors that are susceptible to deamination by cytidine deaminase (CDA).
+
+### 7.7.2.2 Histone Deacetylase Inhibitors (HDACi)
+
+**FDA-Approved HDACi**
+
+In addition to vorinostat, the FDA has successively approved romidepsin, belinostat, and panobinostat as HDACi for the treatment of peripheral T-cell lymphoma (PTCL), T-cell lymphoma, and multiple myeloma, respectively. Since all four mentioned drugs are pan-inhibitors of HDAC and may exhibit potential toxic side effects, the first selective HDAC subtype inhibitor, tucidinostat, has been approved for the treatment of recurrent or refractory PTCL and breast cancer.
+
+**Selective vs. Pan-HDAC Inhibition**
+
+The non-selective inhibition characteristic of pan-HDAC inhibitors often leads to a broad spectrum of adverse effects and off-target toxicities, which restrict their widespread clinical application. Given the diverse roles of different HDAC classes, there is increasing interest in developing selective HDAC inhibitors, viewed as promising alternatives with better tolerance.
+
+### 7.7.2.3 Histone Methyltransferase Inhibitors (HMTi)
+
+**EZH2 Inhibitors**
+
+On June 18, 2020, Tazemetostat (TAZVERIK, Epizyme, Inc.), was added to the list of FDA approved epi-drugs. Tazemetostat, is a first-in-class inhibitor of the EZH2 HMT 'writer', used for the treatment of follicular lymphoma and epithelioid sarcoma. EPZ-6438 is an orally bioavailable EZH2 inhibitor by competing with SAM, which is a cofactor of EZH2. With encouraging phase I and II clinical trials, EPZ-6438 has been granted as a Fast Track designation for diffuse large B cell lymphoma (DLBCL) and follicular lymphoma (FL), as well as Orphan Drug designation for malignant rhabdoid tumours by FDA.
+
+**Pipeline EZH2 Inhibitors**
+
+Currently, additional EZH2 inhibitors, valemetostat, CPI-1205 and PF-06821497, are under clinical development.
+
+### 7.7.2.4 Additional Approved Agents
+
+**Isocitrate Dehydrogenase Inhibitors**
+
+Recent additions to the FDA-approved epigenetic drug arsenal include inhibitors of mutant isocitrate dehydrogenase (IDH) enzymes. FDA approved drugs are: entinostat, FT-2102 (IDH1 inhibitor) and tamezostat.
+
+## 7.7.3 Advanced Combination Therapeutic Strategies
+
+### 7.7.3.1 Synergistic DNMT and HDAC Inhibition
+
+**Mechanistic Rationale**
+
+The interplay between DNA methylation and histone deacetylation induces a self-reinforcing silencing mechanism that triggers a compensatory resistance mechanism, resulting in suboptimal efficacy of monotherapy and the onset of resistance. Transcriptional silencing mediated by DNA methylation is also related to the recruitment of co-repressors and deacetylation or methylation of histone marks at promoters and enhancers. Accordingly, the combinatorial use of DNMT and histone deacetylases (HDAC) inhibitors was shown to enhance reactivation of aberrantly silenced genes in tumor cells and cause reductions in tumor burden.
+
+**Clinical Evidence**
+
+ADC and TSA exhibited strong cytostatic and apoptotic effects in endometrial cancer cell lines and the combined application may deliver the highest response in the clinical setting. Combinations of 5-AzaC or 5-AzaDC with histone deacetylation inhibitors (HDACi) have been approved by FDA and European Medicines Agency (EMA) for treatment of hematologic malignancies.
+
+**Dual-Target Inhibitors**
+
+Research has indicated that combination therapy consisting of DNMT and HDAC inhibitors exhibited therapeutic advantages. We have reported a DNMT and HDAC dual inhibitor 15a of which the DNMT enzymatic inhibitory potency needs to be improved. Herein we reported the development of a novel dual DNMT and HDAC inhibitor C02S which showed potent enzymatic inhibitory activities against DNMT1, DNMT3A, DNMT3B and HDAC1 with IC50 values of 2.05, 0.93, 1.32, and 4.16 µM, respectively.
+
+### 7.7.3.2 Immunoepigenetic Combination Therapy
+
+**Viral Mimicry Mechanism**
+
+Recent studies suggest that inhibitors of DNMTs and HDACs induce antitumour effects by stimulating viral mimicry responses, stimulating type І and Ш interferon reactions, and initiating a sequence of cascade signalling reactions. This bifunctional inhibitor induced the expression of endogenous retroviruses (ERVs) and elicited a viral mimicry response, which increased the intracellular levels of double-stranded RNA (dsRNA) to activate the innate immune signalling pathway in TNBC.
+
+**Immune Checkpoint Combination**
+
+We find that combining DNMTi and HDAC6i results in an amplified type I interferon response, leading to increased cytokine and chemokine expression and higher expression of the MHC I antigen presentation complex in human and mouse ovarian cancer cell lines. We found that dual DNMT and HDAC inhibitors C02S could inhibit tumor growth in immunocompetent mice but not in immunocompromised nude mice, which indicates that C02S exerts its antitumor effects through the immune system.
+
+**Clinical Translation**
+
+Epigenetic drugs such as DNA methyltransferase and histone deacetylase inhibitors can reverse immune suppression via several mechanisms such as enhancing expression of tumour-associated antigens, components of the antigen processing and presenting machinery pathways, immune checkpoint inhibitors, chemokines, and other immune-related genes.
+
+## 7.7.4 Bromodomain and Extra-Terminal (BET) Protein Inhibitors
+
+### 7.7.4.1 Mechanism and Targets
+
+Bromodomains are "readers" that bind acetylated lysines in histone tails. Their most important function is the regulation of gene transcription by the recruitment of different molecular partners. The bromodomain extra-terminal (BET) family of proteins consists of four conserved mammalian members that regulate transcription of oncogenes such as MYC and the NUT fusion oncoprotein.
+
+**JQ1 and First-Generation BET Inhibitors**
+
+By using this chemical probe, we have discovered that the bromodomain inhibitors (BETi) have compelling activity in preclinical models of multiple myeloma and acute myeloid leukemia. The effect of the compound was to induce differentiation in patient-derived cancer cell lines in less than 24 hours after treatment. It also showed excellent efficacy in a murine xenograft model without obvious toxicity.
+
+### 7.7.4.2 BET Inhibitors and Immunotherapy
+
+**PD-L1 Regulation**
+
+Genome-wide analysis of the BETi-induced transcriptional response identified the immune checkpoint ligand Cd274 (Pd-l1) as a Myc-independent, BETi target-gene. BETi directly repressed constitutively expressed and interferon-gamma (IFN-γ) induced CD274 expression across different human and mouse tumor cell lines and primary patient samples. CD274 (encoding PD-L1) is a direct target of BRD4-mediated gene transcription. In mouse models, treatment with the BET inhibitor JQ1 significantly reduced PD-L1 expression on tumor cells and tumor-associated dendritic cells and macrophages, which correlated with an increase in the activity of anti-tumor cytotoxic T cells.
+
+**Clinical Limitations**
+
+Results from the first clinical trials show limited single-agent activity in a small subset of patients with hematologic malignancies and in NUT carcinoma. Adverse events have been observed and may limit treatment compliance.
+
+## 7.7.5 Advanced Synthetic Lethality Approaches
+
+### 7.7.5.1 PARP Inhibitor Combinations
 
 Some cancer cells are "addicted" to a particular DNA damage response (DDR) pathway to partially maintain the genomic stability if the primary DDR pathway is already inactivated by genetic or epigenetic changes. By targeting the salvage DDR pathway, cancer cell killing can be achieved through a mechanism known as synthetic lethality.
 
 So far, only PARP inhibitors (PARPi) have been approved for metastatic cancer management. PARP inhibitors are currently used in the management of tumors with absent or dysfunctional BRCA genes such as breast and ovarian cancers.
+
+### 7.7.5.2 Epigenetic Synthetic Lethality
+
+Synthetic lethality (SL) is defined as a circumstance in which the simultaneous mutation or inhibition of two genes is lethal, but the singular mutation or inhibition of either one is viable. Identifying synthetic lethality relationships in cancers provides the possibility of developing therapeutics that selectively kill cancer cells harboring specific mutations, whilst sparing the wild-type normal cells.
+
+## 7.7.6 Emerging Therapeutic Modalities
+
+### 7.7.6.1 Proteolysis-Targeting Chimeras (PROTACs)
+
+**Revolutionary Approach**
+
+Since the discovery of the first proteolysis-targeting chimeras (PROTACs) in 2001, studies on targeted protein degradation (TPD)—encompassing PROTACs, molecular glue (MG), hydrophobic tagging (HyT), degradation TAG (dTAG), Trim-Away, a specific and non-genetic inhibitor of apoptosis protein (IAP)-dependent protein eraser (SNIPER), antibody-PROTACs (Ab-PROTACs), and other lysosome-based strategies—have achieved remarkable progress.
+
+**Advantages Over Traditional Inhibitors**
+
+Compared to traditional small molecule inhibitors, PROTACs are more effective and can work at low doses (catalytic), thus reducing systemic exposure and toxicity. In addition, PROTACs are not susceptible to target protein expression and mutation, enabling treatment of previously untargetable proteins.
+
+**Clinical Development**
+
+RNK05047, a selective PROTAC degrader developed by Ranok Therapeutics, targets BRD4, a vital transcription factor that drives several types of cancer. As of January 2022, RNK05047 has entered clinical trials to treat advanced solid tumors and lymphomas.
+
+### 7.7.6.2 Molecular Glue Degraders
+
+Since 2014, molecular glues have emerged as a new strategy for protein degradation. As mentioned above, molecular glues exhibit desirable drug-like properties compared to PROTACs, including lower molecular weight, improved oral bioavailability, and enhanced PK/PD profiles.
+
+## 7.7.7 Resistance Mechanisms and Therapeutic Challenges
+
+### 7.7.7.1 Intrinsic and Acquired Resistance
+
+Cancer is a complex disease and cancer cells typically harbor multiple genetic and epigenetic alterations. Initial responses to these agents can be robust in many cancer types and some patients with cancer experience sustained tumor inhibition. However, resistance to these targeted therapeutics frequently emerges, either from intrinsic or acquired mechanisms, posing a major clinical hurdle for effective treatment.
+
+**Epigenetic Resistance Mechanisms**
+
+By remodeling DNA methylation patterns or modifying histone proteins during oncogenesis, cancer cells reorient their epigenomic landscapes in order to aggressively resist anti-cancer therapy. These "persisters" represent a pool of slow-growing cells that can either re-expand when treatment is discontinued or acquire permanent resistance.
+
+### 7.7.7.2 Overcoming Resistance
+
+**Combination Strategy Benefits**
+
+While these modifiers have achieved moderate success when used either alone or in combination with one another, the most positive outcomes were achieved when they were used in conjunction with conventional anti-cancer therapies. Some of the more promising combinations have been HDAC inhibition combined with aromatase inhibition in HR+ER− breast cancer, HDAC inhibition plus EGFR inhibition in non-small cell lung cancer, and HDAC inhibitors with checkpoint inhibitor treatment in colorectal cancer.
+
+## 7.7.8 Tissue-Specific Applications and Clinical Success
+
+### 7.7.8.1 Hematologic vs. Solid Tumors
+
+**Differential Efficacy**
+
+The relatively greater success in hematologic cancers may also be related to inherently higher sensitivity of hematopoietic lineages to epigenetic modulations relative to other cell types due to greater plasticity of cellular programs, allowing for efficacy with a narrower therapeutic window or at lower and less toxic doses. A main drawback of epi-drugs are their less promising results in solid tumours, compared with their success in treating hematological malignancies.
+
+### 7.7.8.2 Bladder Cancer as a Model
+
+Chromatin deregulation is an emerging theme in cancer pathogenesis, and bladder cancer stands out among many other cancer types with frequent mutations of genes involved in epigenetic regulation. The most common mutations in bladder cancer occur in genes functioning in histone modification and chromatin remodeling genes. These include ARID1A (25%), KDM6A (24%), KMT2D (27%), EP300 (15%). Globally, almost 80% of all bladder cancer patients have mutations in genes involved in epigenetic regulation, demonstrating the high degree of epigenetic dysregulation in this cancer.
+
+### 7.7.8.3 Glioma and MGMT Methylation
+
+Promoter hypermethylation and epigenetic silencing of the MGMT gene have been widely described in glioma. Epigenetic silencing of the O6-methylguanine-DNA methyltransferase (MGMT) gene by promoter methylation has been associated with better response to temozolomide (an alkylating agent) because the MGMT gene encodes a DNA-repair protein that removes alkyl groups from the O6 position of guanine.
+
+## 7.7.9 Novel Drug Delivery and Optimization Strategies
+
+### 7.7.9.1 Enhanced Delivery Methods
+
+The use of novel delivery methods of epi-drugs including prodrugs, conjugation, nanoparticle-based delivery methods and PROTACS may address this issue, enabling a more effective intra tumour delivery of these drugs.
+
+### 7.7.9.2 Dosing Optimization
+
+Their efficacy emerged as doses of the epigenetic drugs were lowered, improving patient tolerance and perhaps specificity of reprogramming. DNA demethylating agents are now approved by the US Food and Drug Administration (FDA) for MDS, and signals for efficacy for the lower drug doses in the treatment of solid tumors have been steadily emerging.
+
+## 7.7.10 Current FDA-Approved Epigenetic Drug Summary
+
+**Comprehensive Drug List**
+
+While there are eight FDA-approved and marketed epigenetic therapies with six to treat hematologic malignancies and two approved for use in solid tumors, trials of current epigenetic therapies have shown greater toxicity than expected, likely due to low specificity. At present, seven agents in three epigenetic target classes (DNMT, HDAC and EZH2 inhibitors) have been approved by the US FDA for the treatment of diverse malignancies.
+
+The complete list of FDA-approved epigenetic drugs includes:
+
+**DNMT Inhibitors:**
+- Azacytidine and decitabine for myelodysplastic syndrome
+
+**HDAC Inhibitors:**
+- Panobinostat for multiple myeloma  
+- Romidepsin for cutaneous T cell lymphoma
+- Vorinostat, belinostat, and tucidinostat for various lymphomas
+
+**HMT Inhibitors:**
+- Tazemetostat for follicular lymphoma and epithelioid sarcoma
+
+## 7.7.11 Immune System Modulation and Anti-Tumor Effects
+
+### 7.7.11.1 Immune Signaling Enhancement
+
+Recently, it has also been shown that treatment with DNMT inhibitors induces immune signaling in cancer cells through the upregulation of a wide range of genes implicated in immune signaling and increased numbers of immune cells in the tumor microenvironment.
+
+**Mechanistic Effects**
+
+It is important to note that, in addition to the demethylating effect of these compounds, also the trapping of DNMT proteins on the DNA might indirectly contribute to an anti-cancer effect.
+
+### 7.7.11.2 Tumor Microenvironment Remodeling
+
+Recent research has demonstrated that epigenetics regulates immune cell activation and infiltration into TME, which may alter immunotherapy efficacy. Therefore, epigenetic alterations are potential tumor immunotherapy targets that can be employed in conjunction with treatments such as immune checkpoint inhibitors (ICIs) to significantly improve tumor patient survival and quality of life.
+
+## 7.7.12 Future Directions and Emerging Opportunities
+
+### 7.7.12.1 Precision Medicine Applications
+
+**Biomarker-Driven Therapy**
+
+Recent cancer genome sequencing projects have revealed that numerous epigenetic regulators are frequently mutated in various cancers. This information has not only started to be utilized as prognostic and predictive markers to guide treatment decisions but also provided important information for the understanding of the molecular mechanisms of epigenetic regulation in both physiological and pathological conditions.
+
+The identification of mutations in writers, readers, and erasers, as well as alterations in the epigenetic landscape in cancers, do not only imply a causative role for these factors in cancer initiation and progression but also provide potential targets for therapeutic intervention.
+
+### 7.7.12.2 Next-Generation Therapeutics
+
+**Multi-Target Approaches**
+
+Furthermore, the use of multi-target epi-drugs in the future, may provide advantages. Novel therapeutic modalities leveraging epigenetics and epigenomics with increased precision are well positioned to advance the field and treat patients across disease areas in the coming years.
+
+**Advanced Targeting Strategies**
+
+Recently, there has been marked progress in the field on a new generation of epigenomic therapies which address these challenges directly by targeting defined loci with highly precise, durable, and tunable approaches.
+
+### 7.7.12.3 Clinical Trial Landscape
+
+Until now, they have been tested in clinical trials for cancer treatments and displayed favourable outcomes to some extent. Studies of intragenic and distant intergenic alterations in DNA methylation will help elucidate the nature of epigenetic deregulation in diseases, especially for cancer. The epigenetic signatures of various cancers can be targeted via epigenetic drugs or other genome editing tools, ultimately bringing specific treatment options for different cancer types.
+
+### 7.7.12.4 Challenges and Opportunities
+
+**Current Limitations**
+
+Even in cases where there is activity, toxicity driven by the broad impact of global inhibition of these effectors, due to lack of cell-type and genomic specificity, can drastically limit the utility of these compounds; global changes in methylation and acetylation patterns and/or interference in large, macromolecular complexes can have unintended consequences.
+
+**Future Promise**
+
+This review highlights the promise that epigenetic therapy, often in combination with other therapies, will become a potent tool for cancer management over the next decade. In the future, epigenetic therapy may be developed as the most effective method for treating cancer and brain disease.
+
+## 7.7.13 Conclusion
+
+The field of epigenetic therapy has rapidly evolved from experimental concept to clinical reality, with multiple FDA-approved drugs now available for cancer treatment. Over the past two decades, a growing array of small molecule drugs targeting epigenetic enzymes such as DNA methyltransferase, histone deacetylase, isocitrate dehydrogenase, and enhancer of zeste homolog 2, have been thoroughly investigated and implemented as therapeutic options, particularly in oncology.
+
+The reversible nature of epigenetic modifications continues to drive innovation in this field, offering hope for patients with treatment-resistant cancers. Targeting epigenetic reprogramming or plasticity represents a new strategy to prevent the emergence of drug-refractory populations and to enable more consistent clinical responses. As our understanding of epigenetic mechanisms deepens and new technologies like PROTACs and molecular glues mature, the next decade promises to bring more effective and precise epigenetic interventions to cancer patients worldwide.
+
 
 ## 7.8 Clinical Applications and Future Directions
 
@@ -224,7 +442,7 @@ Studies of intragenic and distant intergenic alterations in DNA methylation will
 
 The field of cancer epigenetics has evolved from an interesting observation to a central component of cancer biology. The past decade has seen remarkable progress in understanding how epigenetic alterations contribute to cancer initiation, progression, and therapeutic resistance. The reversible nature of epigenetic modifications offers unique therapeutic opportunities that complement traditional genetic approaches to cancer treatment.
 
-Key insights from NCBI-verified research include:
+Key insights include:
 
 1. **Epigenetic alterations are hallmarks of cancer**: DNA methylation changes, histone modifications, and non-coding RNA dysregulation are fundamental to cancer development.
 
@@ -238,6 +456,3 @@ Key insights from NCBI-verified research include:
 
 The continued study of epigenetics in cancer promises to yield new insights into cancer biology and provide innovative therapeutic strategies for improving patient outcomes.
 
----
-
-*This chapter was written based exclusively on authoritative sources from the NCBI Bookshelf database, ensuring accuracy and reliability of all presented information.*
