@@ -746,11 +746,44 @@
 <br>
 
 - [View Main Section](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#77-epigenetic-therapy)
-- **7.7.1** [Therapeutic Rationale](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#771-therapeutic-rationale)
-- **7.7.2** [FDA-Approved Epigenetic Drugs](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#772-fda-approved-epigenetic-drugs)
-- **7.7.3** [DNA Methyltransferase Inhibitors](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#773-dna-methyltransferase-inhibitors)
-- **7.7.4** [Combination Therapies](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#774-combination-therapies)
-- **7.7.5** [Synthetic Lethality Approaches](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#775-synthetic-lethality-approaches)
+- **7.7.1** [Therapeutic Rationale and Historical Development](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#771-therapeutic-rationale-and-historical-development)
+- **7.7.2** [FDA-Approved Epigenetic Therapeutics](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#772-fda-approved-epigenetic-therapeutics)
+  - **7.7.2.1** [DNA Methyltransferase Inhibitors (DNMTi)](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7721-dna-methyltransferase-inhibitors-dnmti)
+  - **7.7.2.2** [Histone Deacetylase Inhibitors (HDACi)](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7722-histone-deacetylase-inhibitors-hdaci)
+  - **7.7.2.3** [Histone Methyltransferase Inhibitors (HMTi)](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7723-histone-methyltransferase-inhibitors-hmti)
+  - **7.7.2.4** [Additional Approved Agents](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7724-additional-approved-agents)
+- **7.7.3** [Advanced Combination Therapeutic Strategies](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#773-advanced-combination-therapeutic-strategies)
+  - **7.7.3.1** [Synergistic DNMT and HDAC Inhibition](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7731-synergistic-dnmt-and-hdac-inhibition)
+  - **7.7.3.2** [Immunoepigenetic Combination Therapy](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7732-immunoepigenetic-combination-therapy)
+- **7.7.4** [Bromodomain and Extra-Terminal (BET) Protein Inhibitors](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#774-bromodomain-and-extra-terminal-bet-protein-inhibitors)
+  - **7.7.4.1** [Mechanism and Targets](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7741-mechanism-and-targets)
+  - **7.7.4.2** [BET Inhibitors and Immunotherapy](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7742-bet-inhibitors-and-immunotherapy)
+- **7.7.5** [Advanced Synthetic Lethality Approaches](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#775-advanced-synthetic-lethality-approaches)
+  - **7.7.5.1** [PARP Inhibitor Combinations](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7751-parp-inhibitor-combinations)
+  - **7.7.5.2** [Epigenetic Synthetic Lethality](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7752-epigenetic-synthetic-lethality)
+- **7.7.6** [Emerging Therapeutic Modalities](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#776-emerging-therapeutic-modalities)
+  - **7.7.6.1** [Proteolysis-Targeting Chimeras (PROTACs)](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7761-proteolysis-targeting-chimeras-protacs)
+  - **7.7.6.2** [Molecular Glue Degraders](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7762-molecular-glue-degraders)
+- **7.7.7** [Resistance Mechanisms and Therapeutic Challenges](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#777-resistance-mechanisms-and-therapeutic-challenges)
+  - **7.7.7.1** [Intrinsic and Acquired Resistance](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7771-intrinsic-and-acquired-resistance)
+  - **7.7.7.2** [Overcoming Resistance](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7772-overcoming-resistance)
+- **7.7.8** [Tissue-Specific Applications and Clinical Success](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#778-tissue-specific-applications-and-clinical-success)
+  - **7.7.8.1** [Hematologic vs. Solid Tumors](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7781-hematologic-vs-solid-tumors)
+  - **7.7.8.2** [Bladder Cancer as a Model](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7782-bladder-cancer-as-a-model)
+  - **7.7.8.3** [Glioma and MGMT Methylation](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7783-glioma-and-mgmt-methylation)
+- **7.7.9** [Novel Drug Delivery and Optimization Strategies](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#779-novel-drug-delivery-and-optimization-strategies)
+  - **7.7.9.1** [Enhanced Delivery Methods](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7791-enhanced-delivery-methods)
+  - **7.7.9.2** [Dosing Optimization](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7792-dosing-optimization)
+- **7.7.10** [Current FDA-Approved Epigenetic Drug Summary](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7710-current-fda-approved-epigenetic-drug-summary)
+- **7.7.11** [Immune System Modulation and Anti-Tumor Effects](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7711-immune-system-modulation-and-anti-tumor-effects)
+  - **7.7.11.1** [Immune Signaling Enhancement](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#77111-immune-signaling-enhancement)
+  - **7.7.11.2** [Tumor Microenvironment Remodeling](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#77112-tumor-microenvironment-remodeling)
+- **7.7.12** [Future Directions and Emerging Opportunities](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7712-future-directions-and-emerging-opportunities)
+  - **7.7.12.1** [Precision Medicine Applications](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#77121-precision-medicine-applications)
+  - **7.7.12.2** [Next-Generation Therapeutics](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#77122-next-generation-therapeutics)
+  - **7.7.12.3** [Clinical Trial Landscape](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#77123-clinical-trial-landscape)
+  - **7.7.12.4** [Challenges and Opportunities](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#77124-challenges-and-opportunities)
+- **7.7.13** [Conclusion](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#7713-conclusion)
 
 </details>
 
@@ -772,7 +805,6 @@
 - [View Conclusion](./Chapter%2007:%20Epigenetics%20in%20Cancer.md#conclusion)
 
 </details>
-
 
 ## Chapter 8: Cancer Etiology
 
