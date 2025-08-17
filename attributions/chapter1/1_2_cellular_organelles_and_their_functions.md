@@ -1,0 +1,4 @@
+Title: Computer Graphic of Tgf-beta: Image Details\
+Description:A computer graphic of tgf-beta molecule. Tgf-beta belongs to a superfamily of fetal inducers and regressors, which signal specific patterns of cellular differentiation. Tgf-beta, a cytokine with three different isoforms, regulates many cellular functions including cell proliferation, differentiation, adhesion and migration. Four novel receptors were characterized that also act as serine/threonine kinases and one of these appears to be a tgf-beta receptor.\
+Source: NCI Visuals Online\
+Image Details: https://visualsonline.cancer.gov/details.cfm?imageid=2707
