@@ -1,0 +1,4 @@
+Title: Treatment-Resistant Breast Cancer Cells: Image Details\
+Description:Human tumors often include slowly proliferating cancer cells that resist treatment. This image shows  a cluster of slow-cycling (AKT-low/Hes1-high) breast cancer cells (red) within a human ER+ primary breast tumor (cell nuclei in blue; rapidly cycling, AKT-high, cancer cells in green). Cancer cells enter an AKT-low state in response to decreased interaction of cell surface beta-1 integrin  with the extracellular matrix. AKT-low cancer cells within invasive breast cancer tumors persist after combination chemotherapy and contribute to tumor progression.\
+Source: NCI Visuals Online\
+Image Details: https://visualsonline.cancer.gov/details.cfm?imageid=10574
