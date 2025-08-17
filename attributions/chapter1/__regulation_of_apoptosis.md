@@ -1,0 +1,4 @@
+Title: Singer, Dinah: Image Details\
+Description:Dinah Singer, Ph.D., is Deputy Director for Scientific Strategy and Development at the National Cancer Institute. She is also head of the Molecular Regulation Section and a senior investigator in the Experimental Immunology Branch at the NCI Center for Cancer Research. Dr. Singer's research program is focused on interrogating the regulatory networks governing transcription to generate an integrated understanding of the interplay between promoter elements and transcription complexes that establish appropriate regulation of gene expression across diverse cellular and tissue environments.\
+Source: NCI Visuals Online\
+Image Details: https://visualsonline.cancer.gov/details.cfm?imageid=10031
