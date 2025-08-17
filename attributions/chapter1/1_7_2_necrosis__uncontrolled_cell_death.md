@@ -1,0 +1,4 @@
+Title: Cancer Cells: Death (Step 2): Image Details\
+Description:Step-two in a six-step sequence of the death of a cancer cell. A cancer cell has migrated through the holes of a matrix coated membrane from the top to the bottom, simulating natural migration of a invading cancer cell between, and sometimes through, the vascular endothelium. A buffy coat containing red blood cells, lymphocytes and macrophages is added to the bottom of the membrane. A group of macrophages identify the cancer cell as foreign matter and start to stick to the cancer cell, which still has its spikes (step 2).  Photo magnification: x4,000.  See also: http://visuals.nci.nih.gov/details.cfm?imageid=2369\
+Source: NCI Visuals Online\
+Image Details: https://visualsonline.cancer.gov/details.cfm?imageid=2369
