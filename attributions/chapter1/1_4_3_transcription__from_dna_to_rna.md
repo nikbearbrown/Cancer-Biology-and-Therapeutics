@@ -1,0 +1,4 @@
+Title: AIDS Life Cycle Illustration: Image Details\
+Description:The human immunodeficiency virus (HIV-I) enters the T-lymphocyte where the virus loses its outer envelop, releasing its RNA and its reverse transcriptase. The reverse transcriptase builds a complimentary DNA strand from the viral RNA template. The DNA helix is inserted into the host genome. When this is transcribed by the infected cell, the new viral RNA and proteins are produced to form new viruses that then bud from the cell membrane, thus completing the life cycle of the virus. See artwork: GR-32.\
+Source: NCI Visuals Online\
+Image Details: https://visualsonline.cancer.gov/details.cfm?imageid=2284
