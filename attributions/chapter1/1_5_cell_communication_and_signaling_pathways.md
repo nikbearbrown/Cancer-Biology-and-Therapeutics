@@ -1,0 +1,4 @@
+Title: Molecular Pathways in Human Breast Cancer Cells: Image Details\
+Description:Human breast cancer cells (nuclei, blue) expressing pMAPKAPK2 (green) and beta-catenin (red). An understanding of how cells, both cancerous and normal, communicate with their environment is important in cancer research. Extracellular signals are transduced through transmembrane receptors and intracellular signaling cascades to alter cell behavior. Molecular signaling by p38/MAPKAPK2 and  beta-catenin are involved in the regulation of cell proliferation, gene expression, and cell motility. This image was taken to analyze the  activity of these specific molecular pathways.\
+Source: NCI Visuals Online\
+Image Details: https://visualsonline.cancer.gov/details.cfm?imageid=9913
