@@ -1,0 +1,4 @@
+Title: Cytoskeletal Proteins: Image Details\
+Description:This image shows HeLa cervical cancer cells stained for the cytoskeletal proteins actin (red) and tubulin (green). Cancer cells spread in the body with the help of mutated genes that drive changes in the cells' cytoskeleton -- the protein filaments and microtubules that control cell shape and contribute to cell movement. Examining how cancer cells use cytoskeletal proteins to move through the body may lead to targeted therapies that reverse these protein signals. Nuclear DNA in blue.\
+Source: NCI Visuals Online\
+Image Details: https://visualsonline.cancer.gov/details.cfm?imageid=10579
