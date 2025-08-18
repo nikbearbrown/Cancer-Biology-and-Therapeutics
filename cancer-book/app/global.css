@@ -1,0 +1,32 @@
+@import 'tailwindcss';
+@import 'fumadocs-ui/css/vitepress.css';
+@import 'fumadocs-ui/css/preset.css';
+
+@source '../node_modules/fumadocs-ui/dist/**/*.js';
+
+.ask-ai-button {
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+  background-color: var(--color-fd-secondary); /* Default bg color */
+  color: var(--color-fd-secondary-foreground); /* Default text color */
+  border: 1px solid var(--color-fd-border);
+}
+
+/* Hover effect only for Ask AI button */
+.ask-ai-button:hover {
+  background-color: var(--color-fd-accent); /* Soft blue accent from Vitepress theme */
+  color: var(--color-fd-accent-foreground);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Ensure proper visibility in dark mode */
+.dark .ask-ai-button {
+  background-color: var(--color-fd-background); /* Dark mode background */
+  color: var(--color-fd-text);
+  border: 1px solid var(--color-fd-border);
+}
+
+.dark .ask-ai-button:hover {
+  background-color: var(--color-fd-primary); /* Primary color from Fumadocs */
+  color: var(--color-fd-primary-foreground);
+  box-shadow: 0 4px 10px rgba(255, 255, 255, 0.1);
+}
