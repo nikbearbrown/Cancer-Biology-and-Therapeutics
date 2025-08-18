@@ -1,0 +1,4 @@
+Title: Mitochondria-Targeted, Copper-Depleting Nanoparticle (CDN) against Triple-Negative Breast Cancer (TNBC): Image Details\
+Description:Optical images showing a safe, less-toxic, mitochondria-targeted copper-depleting nanoparticle (CDN) taken up by triple-negative breast cancer (TNBC cells) towards intracellular copper depletion followed by apoptosis. Bottom panel shows control CCL-1 bioluminescence imaging depicting intracellular labile copper. Addition of CDN decreased the labile copper concentration as indicated by a lower bioluminescent signal from CCL-1. Extra copper supply rescued the depleting effect, while the copper-starved group with excess EDTA showed the highest CDN fluorescence and the lowest CCL-1 luminescence.\
+Source: NCI Visuals Online\
+Image Details: https://visualsonline.cancer.gov/details.cfm?imageid=13089
