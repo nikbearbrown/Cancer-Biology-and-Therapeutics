@@ -1,0 +1,4 @@
+Title: Ciliary Pocket Membrane: Image Details\
+Description:Understanding the mechanisms regulating transport of signaling molecules to and from the cilia is important for developing drugs targeted against ciliary-associated cancer pathways. The ciliary membrane is continuous with the plasma membrane through a specialized pocket-like  membrane referred to as the ciliary pocket. Here, structured illumination microscopy (SIM) imaging of RPE cells shows the ciliary membrane and ciliary pocket. The membrane reshaping protein EHD1 (green) specifically accumulates at the ciliary pocket membrane while the Hedgehog pathways receptor Smoothened localizes to the ciliary membrane (red). The base of the cilia is marked by the mother centriole distal appendage protein CEP164 (pink) and nuclei (blue).\
+Source: NCI Visuals Online\
+Image Details: https://visualsonline.cancer.gov/details.cfm?imageid=9916
