@@ -1,0 +1,4 @@
+Title: Stress Fibers and Microtubules in Human Breast Cancer Cells 1: Image Details\
+Description:Image acquired with fluorescence microscopy showing stress fibers (red) and microtubules (green) in human breast cancer cells (nuclei, blue). Microtubules and actin-containing stress fibers are important structures of a cell's cytoskeleton.  Microtubules extend throughout the cell and are invovled in the transport of large protein assemblies, vesicles, and cell organelles. Stress fibers are contractile bundles made up of actin and myosin. Contraction of actin-myosin bundles enables cells to move. Analyzing the cytoskeleton of cells helps scientists to study aspects of cancer metastasis such as the migratory phenotypes of migrating and invasive tumor cells.\
+Source: NCI Visuals Online\
+Image Details: https://visualsonline.cancer.gov/details.cfm?imageid=9908
