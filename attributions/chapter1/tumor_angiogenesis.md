@@ -1,0 +1,4 @@
+Title: Ovarian Tumor Microenvironment: Image Details\
+Description:In this image from a mouse model of ovarian cancer, optically cleared tumor excised from a murine SKOV tumor seeded with CD63+ cells reveals a high-resolution landscape of the three-dimensional tumor-stromal interfaces that comprise the tumor microenvironment (TME). Second harmonic signal (blue) and autofluorescent /GFP signals (green) demonstrates the interplay of collagen II fibrils and vessels generated from angiogenesis. The use of optical tissue clearing has the potential to greatly improve researchers' ability to assess the anatomic, structural, and cellular constituents that govern metastatic colonization in the TME at a single-cell resolution.\
+Source: NCI Visuals Online\
+Image Details: https://visualsonline.cancer.gov/details.cfm?imageid=10615
