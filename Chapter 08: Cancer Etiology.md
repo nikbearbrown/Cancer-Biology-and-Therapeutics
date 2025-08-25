@@ -119,29 +119,25 @@ Hundreds of studies have clearly established the carcinogenic activity of UVR in
 
 ### 8.2.4 Dose-Response Relationships
 
-# Enhanced Cancer Etiology Subsections
-
-## 8.2.4 Dose-Response Relationships
-
-### Linear-Quadratic Model Framework
+#### Linear-Quadratic Model Framework
 
 The linear-quadratic (LQ) model represents the most widely accepted mathematical framework for describing radiation dose-response relationships in both experimental and clinical settings. The LQ model is expressed as S = exp(−αD − βD²), where S represents the surviving fraction, D is the radiation dose, and α and β are tissue-specific parameters.
 
 The α component represents cell death from single radiation hits causing double-strand DNA breaks, while the βD² term accounts for cell death from multiple single hits that accumulate to produce lethal damage. The α/β ratio serves as a critical parameter distinguishing tissue radiosensitivity, with values typically around 10 Gy for rapidly proliferating tumors and 3 Gy for late-responding normal tissues.
 
-### Clinical Applications and Validity
+#### Clinical Applications and Validity
 
 Extensive in vivo experimental data support the LQ model's validity across a wide dose range, including studies of late-response damage in rat spinal cord, acute skin reactions in mice, and early and late intestinal damage, demonstrating applicability up to 15-18 Gy per fraction. Recent analyses of early-stage non-small cell lung cancer patients treated with both conventional fractionated radiotherapy and stereotactic body radiotherapy (SBRT) have provided clinical validation of the model across diverse dose ranges.
 
 The model's clinical utility is particularly evident in prostate cancer, where the low α/β ratio (1.5-3.0 Gy) provides radiobiological justification for hypofractionated treatment regimens. Comparative dosimetric studies demonstrate potential increases of 7-64% in biological effective dose to prostate tissue using high-dose-rate brachytherapy compared to conventional external beam radiotherapy.
 
-### Low-Dose Extrapolation Challenges
+#### Low-Dose Extrapolation Challenges
 
 The linear no-threshold (LNT) model, derived from atomic bomb survivor studies, has been challenged by mounting evidence of threshold effects and adaptive responses at low radiation doses. Epidemiological studies consistently show no significant cancer increase at doses below 100-200 mSv, with some investigations identifying potential thresholds around 40-60 mSv.
 
 Recent mechanistic studies reveal complex dose-response relationships at low doses, including hormetic effects, bystander responses, and low-dose hypersensitivity phenomena that challenge simple linear extrapolation. Clinical evidence from over one million radiotherapy patients demonstrates that cancer incidence patterns are incompatible with LNT predictions, particularly at doses below 3 Gy cumulative exposure.
 
-### Model Limitations and Alternatives
+#### Model Limitations and Alternatives
 
 Systematic analysis of cell survival databases reveals that 7.5% of photon irradiation data and 29.8% of ion beam data result in negative β values when fitted to the LQ model, indicating fundamental limitations of the quadratic approximation. Advanced modeling approaches, including the linear-quadratic-linear (LQ-L) model, incorporate dose thresholds and demonstrate superior fit to clinical data, particularly for hypofractionated treatments.
 
