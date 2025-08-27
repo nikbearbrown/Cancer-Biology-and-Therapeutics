@@ -6,10 +6,10 @@ Choose the best answer for each question. Each question tests understanding of k
 ---
 
 **Question 1:** Which of the following best describes the tumor microenvironment (TME)?
-a) A simple collection of cancer cells grouped together
-b) A complex, dynamic ecosystem of cancer cells, immune cells, fibroblasts, blood vessels, and extracellular matrix
-c) Only the blood vessels that supply nutrients to tumors
-d) The space immediately surrounding individual cancer cells
+- a) A simple collection of cancer cells grouped together
+- b) A complex, dynamic ecosystem of cancer cells, immune cells, fibroblasts, blood vessels, and extracellular matrix
+- c) Only the blood vessels that supply nutrients to tumors
+- d) The space immediately surrounding individual cancer cells
 
 ---
 
