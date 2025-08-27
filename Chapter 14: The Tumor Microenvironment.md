@@ -97,7 +97,7 @@ Vascular casts of metastases in the rabbit liver reveal that tumors of up to 1 m
 
 **Angiogenic Factors and Signaling**
 
-VEGF-A expression is greatly stimulated by tissue hypoxia and, perhaps independently, by low tissue pH, conditions that are commonly present in the tumor microenvironment.
+VEGF-A (Vascular Endothelial Growth Factor-A) expression is greatly stimulated by tissue hypoxia and, perhaps independently, by low tissue pH, conditions that are commonly present in the tumor microenvironment.
 
 VEGF-A action induces endothelial cells to express increased amounts of tissue factor, urokinase, tissue plasminogen activator and matrix metalloproteases. Collectively, these endothelial cell products induce clotting and initiate fibrinolysis and degradation of collagen and other elements of preexisting matrix, all-important steps in angiogenesis and stroma generation.
 
