@@ -4,11 +4,63 @@
 
 Angiogenesis, the growth of new capillary blood vessels, is central to the growth of cancer. An understanding of the cellular and molecular basis of tumor angiogenesis is therefore important for clinicians who diagnose and treat cancer by whatever modalities. Angiogenesis is the growth of blood vessels from the existing vasculature. It occurs throughout life in both health and disease, beginning in utero and continuing on through old age. No metabolically active tissue in the body is more than a few hundred micrometers from a blood capillary, which is formed by the process of angiogenesis.
 
-### 12.1.1 The Angiogenic Switch
+## 12.1.1 The Angiogenic Switch 
 
 Consider a cancer cell that has progressed through a series of mutations so that by activation of certain oncogenes and by loss of specific suppressor genes, it has become self-sufficient in growth signals, insensitive to antigrowth signals, unresponsive to apoptotic signals, capable of limitless replicative potential, and tumorigenic. Are these neoplastic properties necessary and sufficient for such a cell to expand into a population that is clinically detectable, symptomatic, or lethal? Current evidence argues that these neoplastic properties may only be necessary but not sufficient for the cancer cell to become metastatic and lethal.
 
 The reported studies suggest that the microvascular endothelial cell dictates to a cancer cell whether it can grow a tumor to a clinically detectable size, metastasize, or kill its host. For a tumor to develop a metastatic or a lethal phenotype, it must first recruit and sustain its own private blood supply, a process called tumor angiogenesis. Tumors unable to induce angiogenesis remain dormant at a microscopic in situ size.
+
+### Molecular Basis of the Angiogenic Switch
+
+The term "angiogenic switch" refers to a time-restricted event during tumor progression where the balance between pro- and anti-angiogenic factors tilts toward a pro-angiogenic outcome, resulting in the transition from dormant avascularized hyperplasia to outgrowing vascularized tumor masses. This switch represents a critical regulatory step that determines whether microscopic tumors remain clinically indolent or progress to become life-threatening malignancies.
+
+### Tumor Dormancy and the Pre-Angiogenic State
+
+Experimental models demonstrate that human tumors can remain dormant for prolonged periods (>120 days) until they switch to rapid growth and become strongly angiogenic. During this dormant state, tumors maintain a balanced equilibrium between cell proliferation and cell death, with tumor size limited to approximately 0.2-2 mm in diameter (containing 10⁵-10⁶ cells). This size limitation reflects the diffusion distance for oxygen and nutrients from existing vasculature.
+
+Clinical and experimental evidence suggests that microscopic human cancers can persist for long periods as dormant lesions. The inability to complete the angiogenic switch may lead to delayed clinical manifestation of cancer, explaining phenomena such as:
+- Late cancer recurrence years after primary tumor resection
+- Occult micrometastases that remain undetected
+- Varying clinical presentations of histologically similar tumors
+
+### Molecular Regulators of the Switch
+
+**Pro-Angiogenic Factors**: The switch involves upregulation of multiple angiogenic stimulators, including:
+- Vascular endothelial growth factor (VEGF)
+- Fibroblast growth factors (FGFs)
+- Platelet-derived growth factors (PDGFs)
+- Angiopoietins
+- Transforming growth factors
+
+**Anti-Angiogenic Factors**: The dormant state is maintained by angiogenesis inhibitors such as:
+- Thrombospondin-1 (TSP-1): Down-regulation during the switch correlates with tumor progression
+- Angiostatin: Decreased sensitivity observed in switched tumors
+- Endostatin and other endogenous inhibitors
+
+### Transcriptional Reprogramming During the Switch
+
+Genome-wide transcriptional analysis reveals that dormant tumors undergo stable genetic reprogramming during their switch to the fast-growing phenotype. This reprogramming involves:
+- Activation of pathways not previously linked to tumor dormancy
+- Regulation of endothelial cell-specific molecule-1 (ESM-1)
+- Modulation of tissue inhibitor of metalloproteinase-3 (TIMP-3)
+- Activation of growth factor receptor signaling (epidermal growth factor receptor (EGFR), insulin-like growth factor receptor (IGFR))
+- Phosphatidylinositol 3-kinase (PI3K) pathway activation
+
+### Novel Dormancy Biomarkers
+
+Recent research has identified dormancy-specific biomarkers:
+- **H2BK**: Elevated in dormant tumors
+- **EphA5 (Eph receptor A5)**: Plasma levels correlate with disease stage in glioma patients
+- **Notch3**: Low levels associated with dormant state
+- **MKP-1**: Controlled by Notch3 through protein ubiquitination regulation
+
+### Clinical Implications
+
+Understanding the angiogenic switch provides opportunities for:
+- Early detection strategies targeting dormancy biomarkers
+- Dormancy-promoting therapeutic approaches to maintain tumor quiescence
+- Prevention of metastatic progression through switch inhibition
+
 
 ### 12.1.2 Normal versus Pathological Angiogenesis
 
@@ -64,15 +116,71 @@ Angiopoietin-2 (ANG2), a ligand of the TIE2 receptor, modulates endothelial cell
 
 The angiopoietins Ang1 (ANGPT1) and Ang2 (ANGPT2) are secreted factors that bind to the endothelial cell-specific receptor tyrosine kinase Tie2 (TEK) and regulate angiogenesis. Ang1 activates Tie2 to promote blood vessel maturation and stabilization. In contrast, Ang2, which is highly expressed by tumor-associated endothelium, can function as either an agonist or antagonist of Tie2 signaling, depending on the cellular context.
 
-### 12.2.3 Other Angiogenic Factors
 
-#### Fibroblast Growth Factors
+## 12.2.3 Other Angiogenic Factors 
+
+### Fibroblast Growth Factors
 
 Systemic administration of IFN-α reduces tumor cell growth in IFN-sensitive cells by directly regulating the expression of the angiogenic protein basic fibroblast growth factor (bFGF). IFN-α and IFN-β also downregulate bFGF in other human carcinomas. Interruption of the angiogenic signal by IFNs precedes the antiproliferative effect and is detectable between 24 to 48 h after tumor inoculation.
 
-#### Placental Growth Factor
+#### Fibroblast Growth Factor (FGF) Family
+
+The FGF family comprises 23 structurally related proteins, with 18 functioning as ligands for four receptor tyrosine kinases (RTKs): FGFR-1, FGFR-2, FGFR-3, and FGFR-4. FGFs and FGFRs are ubiquitously expressed and regulate normal cell growth, differentiation, and angiogenesis.
+
+**Key FGF Members in Angiogenesis:**
+- **FGF1 (acidic FGF)**: Originally identified as endothelial cell growth factor (ECGF)
+- **FGF2 (basic FGF)**: The first identified pro-angiogenic factor, isolated from chondrosarcoma
+- **FGF4 and FGF5**: Angiogenic factors delivered via adenovirus for coronary heart disease treatment
+- **FGF9**: Primarily targets mesenchyme rather than endothelium
+
+**Mechanisms of FGF Action:**
+FGFs function as upstream coordinators of angiogenesis by:
+- Promoting VEGF expression through Hedgehog pathway activation
+- Inducing secretion of matrix metalloproteinases (MMPs), plasminogen activator, and collagenase
+- Regulating endothelial metabolism through MYC-dependent glycolysis
+- Controlling blood and lymphatic vascular development
+
+**Clinical Significance:**
+FGF overexpression contributes to anti-VEGF therapy resistance. Activation of proangiogenic FGF signaling represents an escape mechanism from VEGF-targeted therapies, with FGF receptor inhibition restoring tumor sensitivity to anti-VEGF treatment.
+
+### Placental Growth Factor
 
 Transplantation of wild-type bone marrow rescued the impaired angiogenesis and collateral growth in PlGF −/− mice, indicating that PlGF might have contributed to vessel growth in the adult by mobilizing bone-marrow-derived cells. PlGF has been proposed to stimulate angiogenesis by displacing VEGF from the "VEGFR-1 sink," thereby increasing the fraction of VEGF available to activate VEGFR-2. Alternatively, PlGF might stimulate angiogenesis by transmitting intracellular signals through VEGFR-1.
+
+### Platelet-Derived Growth Factor (PDGF) Family
+
+The PDGF family consists of four heparin-binding members (PDGF-A, -B, -C, -D) that form homodimers (PDGF-AA, -BB, -CC, -DD) or heterodimers (PDGF-AB). These factors bind to PDGF receptors (PDGFRα and PDGFRβ) and activate intracellular signaling pathways including PI3K/AKT and MAPK pathways.
+
+**Functions in Angiogenesis:**
+- **Vessel maturation**: PDGF-B/PDGFRβ axis is essential for cardiovascular development and pericyte recruitment
+- **FGF2 interaction**: PDGF-BB promotes FGF2 release and FGFR1 activation in vascular smooth muscle cells (VSMCs)
+- **Reciprocal signaling**: FGF2 triggers PDGFR expression in endothelial cells (ECs), creating hyperresponsiveness to PDGF-BB
+- **Mural cell regulation**: Controls activity and behavior of pericytes and VSMCs
+
+**Synergistic Effects:**
+PDGF-BB and FGF2 synergistically promote tumor angiogenesis through reciprocal enhancement of their respective receptor responses, leading to disorganized neovascularization, accelerated tumor growth, and increased metastasis.
+
+### Transforming Growth Factor-α (TGF-α)
+
+TGF-α belongs to the epidermal growth factor (EGF) family and plays essential roles in cell growth, differentiation, migration, and survival. As an indirect regulator of angiogenesis, TGF-α activation of EGFR pathways results in upregulation of proangiogenic factors such as VEGF.
+
+### Matrix Metalloproteinases (MMPs)
+
+MMPs induce tumor angiogenesis by degrading extracellular matrix (ECM) and releasing angiogenic factors stored within the matrix. Key functions include:
+- **MMP-2 and MMP-9**: Proteolytically cleave and activate latent TGF-β
+- **MMP-2**: Direct transcriptional target of HIF-1α mediating EC migration under hypoxia
+- **ECM remodeling**: Essential for basement membrane degradation during sprouting angiogenesis
+
+### Tumor Necrosis Factor (TNF)
+
+TNF acts as a macrophage activating factor, stimulating these cells to secrete angiogenic factors. Released from macrophages, mast cells, and T-lymphocytes, TNF contributes to the inflammatory component of tumor angiogenesis.
+
+### Chemokines and Growth Factors
+
+**Stromal-Derived Factor-1 (SDF-1)**: Primary mechanism for recruiting bone marrow-derived cells to vasculogenesis sites, functioning through C-X-C chemokine receptor 4 (CXCR4). SDF-1 is a transcriptional target of HIF-1α.
+
+**Hepatocyte Growth Factor (HGF)**: Promotes angiogenesis and represents an escape mechanism during anti-VEGF therapy, with HGF/MET signaling playing crucial roles in increased invasiveness and drug resistance.
+
 
 ## 12.3 Role of Hypoxia in Angiogenesis
 
