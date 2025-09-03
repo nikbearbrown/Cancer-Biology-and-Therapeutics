@@ -177,7 +177,7 @@ CAFs can transfer functional mitochondria to prostate cancer cells. Much researc
 They demonstrated how CDE can sustain the rapidly dividing cancer cells under hypoxic conditions or when the normal oxidative mitochondrial function has been disabled. Additionally, the presence of CDEs can rescue prostate and pancreatic cancer cells from starvation by providing de novo-synthesized metabolites, such as amino acids.
 
 
-### Alanine Metabolism: A Critical Metabolic Bridge
+### 11.6.3 Alanine Metabolism: A Critical Metabolic Bridge
 
 **Fundamental Role in Pancreatic Cancer:**
 
