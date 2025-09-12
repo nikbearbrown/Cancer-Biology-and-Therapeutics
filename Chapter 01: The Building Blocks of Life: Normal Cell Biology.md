@@ -26,6 +26,12 @@ The nucleus is the most rigid and largest organelle in the cell, typically occup
 
 DNA carries the genetic code that directs enzyme production and other cellular proteins, ultimately determining both cell structure and function. Suspended within the nucleus is a nonstaining component called the "nuclear sap," which houses the nucleoli.
 
+<div align="center">
+<img src="images/chapter1-new/1-2-2.jpg" alt="Normal Cell" width="80%">
+</div>
+<p style="text-align: justify;"><em><strong> Figure 1.2:Normal Cell:</strong> A histological slide of a normal cell. The cell membrane, nucleus and the nucleolus are all distinguishable.
+ <small>Source: National Cancer Institute </small></em></p>
+
 ### 1.2.2 Ribosomes
 
 Ribosomes measure approximately 15 nm in diameter and exist in both attached and free, unbound forms. Many are tethered to the rough endoplasmic reticulum (rER), while others are dispersed throughout the cytoplasm. When found individually, these organelles are referred to as "monosomes," whereas groups of ribosomes are called "polyribosomes." Each ribosome consists of subunits made of RNA, which may be ribosomal (rRNA), messenger (mRNA), or transfer (tRNA) RNA.
