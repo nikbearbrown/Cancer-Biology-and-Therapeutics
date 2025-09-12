@@ -9,7 +9,7 @@ Nanotechnology has emerged as a transformative approach in cancer treatment, off
 **Enhanced Permeability and Retention Effect**
 
 <div align="center">
-<img src="images/chapter27/27-1-1.png" alt="Enhanced permeability and retention effect" width="80%">
+<img src="images/chapter27/27-1-1.svg" alt="Enhanced permeability and retention effect" width="80%">
   </div>
 <p style="text-align: justify;"><em><strong> Figure 27.1 Enhanced permeability and retention effect: </strong>  Nanocarriers can extravasate into the tumors through the gaps between endothelial cells and accumulate there due to poor lymphatic drainage.  <small> Source: Aditi M. Jhaveri and Vladimir P. Torchilin Front. Pharmacol., Volume 5 - 2014 | https://doi.org/10.3389/fphar.2014.00077 via Wikimedia Commons </small></em></p>
 
