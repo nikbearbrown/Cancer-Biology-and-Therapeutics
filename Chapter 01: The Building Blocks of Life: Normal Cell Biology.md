@@ -14,6 +14,12 @@ Eukaryotic cells, which are larger and more complex than prokaryotic cells, cont
 
 Just as the human body relies on specialized organs and tissues to function properly, cells contain distinct components called "organelles," each responsible for a specific function essential to cellular survival. Most cells are between 1 and 100 μm in diameter, and can be observed by light microscopy, as can some of the larger subcellular organelles, such as nuclei, chloroplasts, and mitochondria.
 
+<div align="center">
+<img src="images/chapter1-new/1-2.jpg" alt="cell structure" width="80%">
+</div>
+<p style="text-align: justify;"><em><strong> Figure 1.1: A generalized cell structure:</strong> consisting of three parts: the cell membrane, the nucleus, and, between the two, the cytoplasm. Within the cytoplasm lie intricate arrangements of fine fibers and hundreds or even thousands of miniscule but distinct structures called organelles. 
+ <small>Source: NIH NCI SEER training modules</small></em></p>
+
 ### 1.2.1 Nucleus
 
 The nucleus is the most rigid and largest organelle in the cell, typically occupying its central portion. During cell division, DNA molecules condense into short, rod-like structures called "chromosomes." Human cells typically contain 46 chromosomes, except for mature sex cells, which have a haploid set of 23 chromosomes.
