@@ -42,6 +42,11 @@ Liposomes are lipid spheres about 100 nanometers in diameter that have been synt
 * **Controlled release**: Permit continued drug release with increased precision in tumor-targeting
 * **Reduced toxicity**: Demonstrated clinical success in reducing systemic toxicity
 
+  <div align="center">
+<img src="images/chapter27/27-1-2.jpg" alt="ELiposomal drug delivery systems" width="80%">
+  </div>
+<p style="text-align: justify;"><em><strong> Figure 27.2 Schematic representation of the different types of liposomal drug delivery systems. </strong>   <small> Source: Sercombe, Veerati, Moheimani, Wu, Sood and Hua Front. Pharmacol., Volume 6 - 2015 | https://doi.org/10.3389/fphar.2015.00286 via Wikimedia Commons </small></em></p>
+
 *Clinical Applications*:
 Liposomes have been used to encapsulate anticancer drugs for the treatment of AIDS-related Kaposi's sarcoma. In melanoma models, phosphatidylethanolamine liposomal cisplatin was proven to have higher cytotoxicity than classic liposomes or free cisplatin, maintaining high intratumoral drug concentration for 72 hours and efficiently delivering 3.6-times more drug compared to the free drug.
 
