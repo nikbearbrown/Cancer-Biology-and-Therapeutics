@@ -79,7 +79,7 @@ The main tumor suppressor gene that plays a crucial role in maintaining the cell
 ## 1.4 DNA, RNA, and Protein Synthesis
 
 <div align="center">
-<img src="images/chapter1-new/1-4-4.jpg" alt="Protein synthesis" width="80%">
+<img src="images/chapter1-new/1-4.jpg" alt="Protein synthesis" width="80%">
 </div>
 <p style="text-align: justify;"><em><strong> Figure 1.1: Protein synthesis:</strong> Genes contain information to make proteins, and proteins control many important functions like cell growth. Genetic mutations can change how proteins function. Some types of genetic mutations change proteins in ways that cause healthy cells to become cancerous.
  <small> Soruce: National Cancer Institute (NCI)</small></em></p>
