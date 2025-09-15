@@ -51,7 +51,7 @@ Liposomes are lipid spheres about 100 nanometers in diameter that have been synt
 * **Reduced toxicity**: Demonstrated clinical success in reducing systemic toxicity
 
   <div align="center">
-<img src="images/chapter27/27-1-2.jpg" alt="ELiposomal drug delivery systems" width="80%">
+<img src="images/chapter27/27-1-2.jpg" alt="Liposomal drug delivery systems" width="80%">
   </div>
 <p style="text-align: justify;"><em><strong> Figure 27.2 Schematic representation of the different types of liposomal drug delivery systems. </strong>   <small> Source: Sercombe, Veerati, Moheimani, Wu, Sood and Hua Front. Pharmacol., Volume 6 - 2015 | https://doi.org/10.3389/fphar.2015.00286 via Wikimedia Commons </small></em></p>
 
@@ -138,6 +138,11 @@ Carbon-based nanoparticles are effective in melanoma cells. A single-walled carb
 
 *Gold Nanoparticles (GNPs)*:
 Gold nanoparticles are known as nontoxic, highly stable, easy to synthesize, and minimally interfering with the biological profile of melanoma tumor cells. Being of high atomic number and electron density, GNPs are optimal contrast agents for computed tomography.
+
+<div align="center">
+<img src="images/chapter27/27-1-2-2.svg" alt="Gold nanoparticles" width="50%">
+  </div>
+<p style="text-align: justify;"><em><strong> Figure 27.4 Gold nanoparticles have many properties that make them exciting objects of study in cancer research. For example, they are nontoxic, can carry a variety of therapeutic and diagnostic agents, and are small enough to reach targets in the body that other delivery systems can’t. This dark-field image shows the delivery of gold nanoparticles (yellow dots) into the cytosol of cells. </strong>  <small> Source: Veronika Sapozhnikova, Konstantin Sokolov, Rebecca Richards-Kortum, M.D. Anderson Cancer Center; Rice University NIH Image Gallery via Wikimedia Commons</small></em></p>
 
 *Mesoporous Silica Nanoparticles (MSNPs)*:
 Mesoporous silica nanoparticles have high drug loading due to high pore volume and surface area, multifunctionalization for targeted and controlled delivery, enhanced cellular uptake and delivers therapeutics at cellular levels in cancer.
