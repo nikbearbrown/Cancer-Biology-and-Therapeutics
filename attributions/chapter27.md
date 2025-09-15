@@ -9,12 +9,19 @@ Liposomal drug delivery systems
 Schematic representation of the different types of liposomal drug delivery systems.
 Source: Sercombe, Veerati, Moheimani, Wu, Sood and Hua Front. Pharmacol., Volume 6 - 2015 | https://doi.org/10.3389/fphar.2015.00286 via Wikimedia Commons
 
-# figure 27-1-2-2
+# Figure 27-1-2-2
 Micelle formation
 
 Drug-loaded polymeric micelle formed from self -assembly of amphiphilic block copolymers in aqueous media.
 
 Source: Aditi M. Jhaveri and Vladimir P. Torchilin Front. Pharmacol., Volume 5 - 2014 | https://doi.org/10.3389/fphar.2014.00077 via Wikimedia Commons 
+
+# Figure 27-1-2-3
+Gold nanoparticles 
+
+Gold nanoparticles have many properties that make them exciting objects of study in cancer research. For example, they are nontoxic, can carry a variety of therapeutic and diagnostic agents, and are small enough to reach targets in the body that other delivery systems can’t. This dark-field image shows the delivery of gold nanoparticles (yellow dots) into the cytosol of cells.
+
+Source: Veronika Sapozhnikova, Konstantin Sokolov, Rebecca Richards-Kortum, M.D. Anderson Cancer Center; Rice University NIH Image Gallery via Wikimedia Commons
 
 
 # Figure 27-1-4
