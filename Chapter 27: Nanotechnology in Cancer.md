@@ -187,7 +187,7 @@ Transferrin coated liposomes co-encapsulating Doxorubicin and Verapamil exhibite
 
 ### 27.1.4 Clinical Translation and Challenges
 
-Approved Nanotherapeutics**
+**Approved Nanotherapeutics**
 
 Several nanotechnology-based cancer drug therapies have been approved by the FDA and are already on the market. The true measure of nanotechnology success in medicine and oncology lies in effectively translating research discoveries into the clinic for improved disease diagnosis and treatment. In the past decade, sixteen nanoparticle (NP) formulations have gained Food and Drug Administration (FDA) approval and over 1000 new clinical trials have begun. Among the FDA approved nanoformulations, eight are clinically used for cancer imaging or therapy. Key approved nanotherapeutics include:
 
@@ -235,6 +235,11 @@ Abraxane was approved by the FDA in 2005 for breast cancer, 2010 for non-small c
 **The Blood-Brain Barrier (BBB)**
 
 The blood-brain barrier (BBB) constitutes a microvascular network responsible for excluding most drugs from the brain, representing one of the most formidable challenges in nanomedicine. The BBB is a barrier that separates the blood from the brain tissue and possesses unique characteristics that make the delivery of drugs to the brain a great challenge.
+
+<div align="center">
+<img src="images/chapter27/27-1-4.jpg" alt="The Blood-Brain Barrier" width="80%">
+  </div>
+<p style="text-align: justify;"><em><strong> Figure 27.3 The Blood-Brain Barrier </strong> This image shows a dense network of blood vessels (red) and nuclei (blue) obtained from mouse brain tissue that was optically cleared to look deeper into the tissue than otherwise possible. The brain’s blood vessels are nearly impermeable, allowing only the passage of key nutrients while blocking that of harmful substances. Unfortunately, this blood-brain barrier (BBB) also excludes most therapeutics. By designing drug-containing nanoparticles that can “hitchhike” across the BBB, researchers hope to finally penetrate the barrier, and deliver life-saving drugs to cancers in the brain. Pictured here is brain tissue before exposure to the experimental nanoparticles.  <small> Source: Emily Wyatt, Mark Davis, California Institute of Technology via NCI Visuals Online </small></em></p>
 
 *Structural and Functional Characteristics*:
 The BBB consists of brain endothelial cells connected by tight junctions (TJs) that restrict paracellular transport, along with specialized efflux pumps and limited transcytosis pathways. Because the brain is such a vital organ, the blood vessels surrounding the brain are much more restrictive than other blood vessels in the body, to keep out potentially harmful molecules. The fact that almost 98% of drugs are unable to overcome the BBB is the main reason for employment of nanocarriers in high-grade glioma treatment.
