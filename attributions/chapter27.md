@@ -9,6 +9,13 @@ Liposomal drug delivery systems
 Schematic representation of the different types of liposomal drug delivery systems.
 Source: Sercombe, Veerati, Moheimani, Wu, Sood and Hua Front. Pharmacol., Volume 6 - 2015 | https://doi.org/10.3389/fphar.2015.00286 via Wikimedia Commons
 
+# figure 27-1-2-2
+Micelle formation
+
+Drug-loaded polymeric micelle formed from self -assembly of amphiphilic block copolymers in aqueous media.
+
+Source: Aditi M. Jhaveri and Vladimir P. Torchilin Front. Pharmacol., Volume 5 - 2014 | https://doi.org/10.3389/fphar.2014.00077 via Wikimedia Commons 
+
 
 # Figure 27-1-4
 The Blood-Brain Barrier
