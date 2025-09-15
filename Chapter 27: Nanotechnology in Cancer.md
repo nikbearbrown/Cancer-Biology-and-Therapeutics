@@ -140,7 +140,7 @@ Carbon-based nanoparticles are effective in melanoma cells. A single-walled carb
 Gold nanoparticles are known as nontoxic, highly stable, easy to synthesize, and minimally interfering with the biological profile of melanoma tumor cells. Being of high atomic number and electron density, GNPs are optimal contrast agents for computed tomography.
 
 <div align="center">
-<img src="images/chapter27/27-1-2-3.svg" alt="Gold nanoparticles" width="50%">
+<img src="images/chapter27/27-1-2-3.jpg" alt="Gold nanoparticles" width="50%">
   </div>
 <p style="text-align: justify;"><em><strong> Figure 27.4 Gold nanoparticles have many properties that make them exciting objects of study in cancer research. For example, they are nontoxic, can carry a variety of therapeutic and diagnostic agents, and are small enough to reach targets in the body that other delivery systems can’t. This dark-field image shows the delivery of gold nanoparticles (yellow dots) into the cytosol of cells. </strong>  <small> Source: Veronika Sapozhnikova, Konstantin Sokolov, Rebecca Richards-Kortum, M.D. Anderson Cancer Center; Rice University NIH Image Gallery via Wikimedia Commons</small></em></p>
 
