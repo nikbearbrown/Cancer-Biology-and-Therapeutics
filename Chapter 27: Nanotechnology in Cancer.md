@@ -87,7 +87,14 @@ Due to their nature, they make possible the customization of many properties, su
 - Ability to deliver both hydrophilic and hydrophobic drugs
 - Stimuli-responsive capabilities including pH, temperature hydrolysis, oxidation, reduction, light, and so on
 
-**Polymeric Micelles**: Self-assembled structures from amphiphilic block copolymers that provide:
+**Polymeric Micelles**: 
+
+<div align="center">
+<img src="images/chapter27/27-1-2-2.svg" alt="Micelle formation" width="50%">
+  </div>
+<p style="text-align: justify;"><em><strong> Figure 27.3 Micelle formation </strong>  Drug-loaded polymeric micelle formed from self -assembly of amphiphilic block copolymers in aqueous media. <small> Source: Aditi M. Jhaveri and Vladimir P. Torchilin Front. Pharmacol., Volume 5 - 2014 | https://doi.org/10.3389/fphar.2014.00077 via Wikimedia Commons</small></em></p>
+
+Self-assembled structures from amphiphilic block copolymers that provide:
 
 - Enhanced solubilization of hydrophobic drugs
 - Core-shell architecture for drug encapsulation
