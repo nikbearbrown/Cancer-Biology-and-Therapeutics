@@ -545,7 +545,7 @@ Some metals, such as gold (Au) and Gadolinium (Gd), can have antitumor activity 
 Red blood cells are attached to iron oxide nanoparticles pre-coated with chlorine e6, a photosensitizer, and then loaded with a chemotherapeutic drug, doxorubicin, to enable imaging-guided combined photodynamic and chemotherapy of cancer. The characteristic properties of nanoparticles result in their theranostic potential allowing for simultaneous detection of and treatment of the disease, particularly through magnetic hyperthermia therapy combined with MRI guidance.
 
 <div align="center">
-<img src="images/chapter27/27-3-2.jpg" alt="Carbon-Coated FeCo Nanoparticles as Sensitive Magnetic-Particle-Imaging Tracers with Photothermal and Magnetothermal Properties" width="80%">
+<img src="images/chapter27/27-3-2.jpg" alt="Carbon-Coated FeCo Nanoparticles as Sensitive Magnetic-Particle-Imaging Tracers with Photothermal and Magnetothermal Properties" width="40%">
   </div>
 <p style="text-align: justify;"><em><strong> Figure 27.4 Carbon-Coated FeCo Nanoparticles as Sensitive Magnetic-Particle-Imaging Tracers with Photothermal and Magnetothermal Properties </strong> Infrared thermal images of tumor-bearing mouse injected with carbon-coated iron-cobalt (FeCo) nanoparticles for in vivo magnetic hyperthermia therapy. <small> Source: Song G, Kenney M, Chen YS, Zheng X, Deng Y, Chen Z, Wang SX, Gambhir SS, Dai H, Rao J. Carbon-coated FeCo nanoparticles as sensitive magnetic-particle-imaging tracers with photothermal and magnetothermal properties. Nat Biomed Eng. 2020 Mar;4(3):325-334. doi: 10.1038/s41551-019-0506-0. Epub 2020 Feb 3. PMID: 32015409; PMCID: PMC7071985. via NCI Visuals Online </small></em></p>
 
