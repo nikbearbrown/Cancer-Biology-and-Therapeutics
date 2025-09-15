@@ -17,7 +17,7 @@ Nanotechnology has emerged as a transformative approach in cancer treatment, off
 **Enhanced Permeability and Retention Effect**
 
 <div align="center">
-<img src="images/chapter27/27-1-1.svg" alt="Enhanced permeability and retention effect" width="80%">
+<img src="images/chapter27/27-1-1.svg" alt="Enhanced permeability and retention effect" width="60%">
   </div>
 <p style="text-align: justify;"><em><strong> Figure 27.1 Enhanced permeability and retention effect: </strong>  Nanocarriers can extravasate into the tumors through the gaps between endothelial cells and accumulate there due to poor lymphatic drainage.  <small> Source: Aditi M. Jhaveri and Vladimir P. Torchilin Front. Pharmacol., Volume 5 - 2014 | https://doi.org/10.3389/fphar.2014.00077 via Wikimedia Commons </small></em></p>
 
@@ -51,7 +51,7 @@ Liposomes are lipid spheres about 100 nanometers in diameter that have been synt
 * **Reduced toxicity**: Demonstrated clinical success in reducing systemic toxicity
 
   <div align="center">
-<img src="images/chapter27/27-1-2.jpg" alt="Liposomal drug delivery systems" width="80%">
+<img src="images/chapter27/27-1-2.jpg" alt="Liposomal drug delivery systems" width="50%">
   </div>
 <p style="text-align: justify;"><em><strong> Figure 27.2 Schematic representation of the different types of liposomal drug delivery systems. </strong>   <small> Source: Sercombe, Veerati, Moheimani, Wu, Sood and Hua Front. Pharmacol., Volume 6 - 2015 | https://doi.org/10.3389/fphar.2015.00286 via Wikimedia Commons </small></em></p>
 
@@ -249,9 +249,9 @@ Abraxane was approved by the FDA in 2005 for breast cancer, 2010 for non-small c
 The blood-brain barrier (BBB) constitutes a microvascular network responsible for excluding most drugs from the brain, representing one of the most formidable challenges in nanomedicine. The BBB is a barrier that separates the blood from the brain tissue and possesses unique characteristics that make the delivery of drugs to the brain a great challenge.
 
 <div align="center">
-<img src="images/chapter27/27-1-4.jpg" alt="The Blood-Brain Barrier" width="80%">
+<img src="images/chapter27/27-1-4.jpg" alt="The Blood-Brain Barrier" width="50%">
   </div>
-<p style="text-align: justify;"><em><strong> Figure 27.3 The Blood-Brain Barrier </strong> This image shows a dense network of blood vessels (red) and nuclei (blue) obtained from mouse brain tissue that was optically cleared to look deeper into the tissue than otherwise possible. The brain’s blood vessels are nearly impermeable, allowing only the passage of key nutrients while blocking that of harmful substances. Unfortunately, this blood-brain barrier (BBB) also excludes most therapeutics. By designing drug-containing nanoparticles that can “hitchhike” across the BBB, researchers hope to finally penetrate the barrier, and deliver life-saving drugs to cancers in the brain. Pictured here is brain tissue before exposure to the experimental nanoparticles.  <small> Source: Emily Wyatt, Mark Davis, California Institute of Technology via NCI Visuals Online </small></em></p>
+<p style="text-align: justify;"><em><strong> Figure 27.5 The Blood-Brain Barrier </strong> This image shows a dense network of blood vessels (red) and nuclei (blue) obtained from mouse brain tissue that was optically cleared to look deeper into the tissue than otherwise possible. The brain’s blood vessels are nearly impermeable, allowing only the passage of key nutrients while blocking that of harmful substances. Unfortunately, this blood-brain barrier (BBB) also excludes most therapeutics. By designing drug-containing nanoparticles that can “hitchhike” across the BBB, researchers hope to finally penetrate the barrier, and deliver life-saving drugs to cancers in the brain. Pictured here is brain tissue before exposure to the experimental nanoparticles.  <small> Source: Emily Wyatt, Mark Davis, California Institute of Technology via NCI Visuals Online </small></em></p>
 
 *Structural and Functional Characteristics*:
 The BBB consists of brain endothelial cells connected by tight junctions (TJs) that restrict paracellular transport, along with specialized efflux pumps and limited transcytosis pathways. Because the brain is such a vital organ, the blood vessels surrounding the brain are much more restrictive than other blood vessels in the body, to keep out potentially harmful molecules. The fact that almost 98% of drugs are unable to overcome the BBB is the main reason for employment of nanocarriers in high-grade glioma treatment.
@@ -559,7 +559,7 @@ Red blood cells are attached to iron oxide nanoparticles pre-coated with chlorin
 <div align="center">
 <img src="images/chapter27/27-3-2.jpg" alt="Carbon-Coated FeCo Nanoparticles as Sensitive Magnetic-Particle-Imaging Tracers with Photothermal and Magnetothermal Properties" width="40%">
   </div>
-<p style="text-align: justify;"><em><strong> Figure 27.4 Carbon-Coated FeCo Nanoparticles as Sensitive Magnetic-Particle-Imaging Tracers with Photothermal and Magnetothermal Properties </strong> Infrared thermal images of tumor-bearing mouse injected with carbon-coated iron-cobalt (FeCo) nanoparticles for in vivo magnetic hyperthermia therapy. <small> Source: Song G, Kenney M, Chen YS, Zheng X, Deng Y, Chen Z, Wang SX, Gambhir SS, Dai H, Rao J. Carbon-coated FeCo nanoparticles as sensitive magnetic-particle-imaging tracers with photothermal and magnetothermal properties. Nat Biomed Eng. 2020 Mar;4(3):325-334. doi: 10.1038/s41551-019-0506-0. Epub 2020 Feb 3. PMID: 32015409; PMCID: PMC7071985. via NCI Visuals Online </small></em></p>
+<p style="text-align: justify;"><em><strong> Figure 27.6 Carbon-Coated FeCo Nanoparticles as Sensitive Magnetic-Particle-Imaging Tracers with Photothermal and Magnetothermal Properties </strong> Infrared thermal images of tumor-bearing mouse injected with carbon-coated iron-cobalt (FeCo) nanoparticles for in vivo magnetic hyperthermia therapy. <small> Source: Song G, Kenney M, Chen YS, Zheng X, Deng Y, Chen Z, Wang SX, Gambhir SS, Dai H, Rao J. Carbon-coated FeCo nanoparticles as sensitive magnetic-particle-imaging tracers with photothermal and magnetothermal properties. Nat Biomed Eng. 2020 Mar;4(3):325-334. doi: 10.1038/s41551-019-0506-0. Epub 2020 Feb 3. PMID: 32015409; PMCID: PMC7071985. via NCI Visuals Online </small></em></p>
 
 *Mesoporous Silica Theranostics*:
 Multifunctional mesoporous silica nanoparticles (M-MSNs) were designed and synthesized, then the photosensitizer chlorin e6 (Ce6) and antitumor drug doxorubicin (Dox) were adsorbed onto the M-MSNs. The cores of bifunctional Fe3O4-Au nanoparticles in the multifunctional nanocomposites enabled dual-modal MR and CT imaging.
