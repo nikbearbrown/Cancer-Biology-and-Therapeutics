@@ -1,38 +1,55 @@
-## Interactive Learning Platform with Intelligent Tutoring
+# The Next Generation of Oncology Education
 
-**The most comprehensive online textbook** that combines the depth of traditional medical education with the power of personalized AI tutoring. Instead of reading through hundreds of pages to find relevant information, get instant, contextual answers tailored to your specific questions and knowledge level.
+**Stop sifting through hundreds of pages.** Start learning with the most comprehensive online cancer textbook that combines the depth of traditional medical knowledge with the power of **personalized AI tutoring**.
 
-**AI Tutoring vs Traditional Methods:** Get immediate, personalized explanations instead of searching through static content. Ask follow-up questions, request clarification, and receive adaptive responses that match your learning pace.
+Get instant, contextual answers tailored to your specific questions and knowledge level.
 
-### Built on Authoritative Sources
-Our AI tutor is trained exclusively on trusted medical resources:
-- **NCBI Bookshelf** - Comprehensive medical texts
-- **PubMed** - Peer-reviewed research articles
-- Continuously updated with latest oncology research
+---
 
-### Two Ways to Learn
+## Intelligent Tutoring vs. Static Text
 
-**🤖 Ask the AI Tutor**
-Get personalized, instant answers to your specific questions. The AI adapts explanations to your knowledge level and provides relevant examples.
+Our platform moves beyond static content to deliver a truly **adaptive learning experience**:
 
-**📚 Browse the Table of Contents**
-Navigate through structured chapters and sections like a traditional textbook, with enhanced search and cross-referencing.
+* **Immediate, Personalized Explanations:** Get instant answers, clarifications, and follow-up support that matches your learning pace.
+* **Adaptive Responses:** The AI assesses your knowledge and adjusts its explanations and examples in real-time.
 
-### Smart Navigation
-The auto-switch feature intelligently jumps to the most relevant section of the textbook based on your questions, seamlessly connecting AI responses with comprehensive chapter content.
+---
 
+## Built on Unquestionable Authority
 
-### Getting Started
+Our AI tutor is trained *exclusively* on **trusted, authoritative medical resources** to ensure accuracy:
 
-Ready to experience the future of medical education? 
+* **NCBI Bookshelf** - Comprehensive medical texts
+* **PubMed** - Peer-reviewed research articles
+* **Continuously updated** with the latest oncology research
 
-- **Tutorial** - Step-by-step guide coming soon
-- **Browse Chapters** - Start with any topic that interests you
-- **Ask Questions** - Jump right in with the AI tutor
+---
 
+## Two Powerful Ways to Learn
 
-### Important Disclaimer
+| Mode | Description |
+| :--- | :--- |
+| **🤖 Ask the AI Tutor** | Get personalized, instant answers to your specific questions. The AI adapts explanations to your knowledge level and provides relevant examples. |
+| **📚 Browse the Textbook** | Navigate through structured chapters and sections like a traditional textbook, with enhanced search and cross-referencing. |
 
-This is a beta version of our cancer textbook. The content is continuously being expanded and refined. While our AI is trained on authoritative medical sources, AI systems can make mistakes. This platform is designed for educational purposes and should not replace professional medical advice, diagnosis, or treatment decisions.
+### Smart Navigation: Auto-Switch
 
-Always consult with qualified healthcare professionals for clinical decisions and verify critical information with primary sources.
+Experience a seamless flow between personalized tutoring and structured content. Our **auto-switch feature** intelligently jumps to the most relevant textbook section based on your AI questions, providing a quick link from instant answer to comprehensive chapter context.
+
+---
+
+## Getting Started
+
+Ready to experience the future of medical education?
+
+* **Browse Chapters** - Start with any topic that interests you.
+* **Ask Questions** - Jump right in with the AI tutor.
+* *(Tutorial - Step-by-step guide coming soon)*
+
+---
+
+## Important Disclaimer (Beta Version)
+
+This is a **beta version** of our cancer textbook. Content is continuously being expanded and refined. While our AI is trained on authoritative medical sources, AI systems can make mistakes.
+
+**This platform is designed for educational purposes only and should not replace professional medical advice, diagnosis, or treatment decisions.** Always consult with qualified healthcare professionals for clinical decisions and verify critical information with primary sources.
