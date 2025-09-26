@@ -2,13 +2,7 @@
 
 **Stop sifting through hundreds of pages.** Start learning with the most comprehensive online cancer textbook that combines the depth of traditional medical knowledge with the power of **personalized AI tutoring**.
 
-Get instant, contextual answers tailored to your specific questions and knowledge level.
-
----
-
-## Intelligent Tutoring vs. Static Text
-
-Our platform moves beyond static content to deliver a truly **adaptive learning experience**:
+Get instant, contextual answers tailored to your specific questions and knowledge level. Our platform moves beyond static content to deliver a truly **adaptive learning experience**:
 
 * **Immediate, Personalized Explanations:** Get instant answers, clarifications, and follow-up support that matches your learning pace.
 * **Adaptive Responses:** The AI assesses your knowledge and adjusts its explanations and examples in real-time.
