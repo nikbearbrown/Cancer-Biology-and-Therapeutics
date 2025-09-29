@@ -54,5 +54,7 @@ This is a **beta version** of our cancer textbook. Content is continuously being
 
 
 **Content:** Textbook content is derived from public domain resources provided by the National Institutes of Health (NIH), including NCBI Bookshelf and PubMed articles.
+
 **Images:** All images are open source, Creative Commons Share-Alike licensed, or public domain, with appropriate attribution provided.
+
 **If you use our content:** Please attribute both this platform (Cancer Biology and Therapeutics - AI Interactive Textbook) and the original NIH sources. For images, follow their original license requirements.
