@@ -1,4 +1,4 @@
-# Cancer biology and Theraoeutics
+# Cancer Biology and Therapeutics 
 ## An Interactive, Personalized Textbook
 
 
