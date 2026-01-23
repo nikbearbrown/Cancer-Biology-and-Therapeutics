@@ -19,13 +19,13 @@ d) 90% or more
 
 **Question 2:** The four discrete phases of the eukaryotic cell cycle are:
 
-a) G1, G2, S, and Prophase
+a) G1 (Gap 1), G2(Gap 2), S (Synthesis), and Prophase
 
-b) M, G1, S, and G2
+b) M (Mitosis), G1 (Gap 1), S (Synthesis), and G2 (Gap 2)
 
 c) Interphase, Prophase, Metaphase, and Anaphase
 
-d) G0, G1, G2, and M
+d) G0 (Gap 0), G1 (Gap 1), G2 (Gap 2), and M (Mitosis)
 
 ---
 
@@ -129,7 +129,7 @@ d) Normal cells cannot undergo mutations
 
 1. **c)** 70% or more
 
-2. **b)** M, G1, S, and G2
+2. **b)** M (Mitosis), G1 (Gap 1), S (Synthesis), and G2 (Gap 2)
 
 3. **a)** About 4% (1 hour)
 
