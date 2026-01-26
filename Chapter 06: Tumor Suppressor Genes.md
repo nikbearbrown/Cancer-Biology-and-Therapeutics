@@ -104,7 +104,27 @@ The molecular mechanisms driving epigenetic silencing include:
 
 #### Chromatin Remodeling
 
-This review will focus on how epigenetic alterations contribute to the silencing of tumour suppressor coding and non-coding genes with particular emphasis on recent discoveries. Molecular changes that are involved in carcinogenesis, such as aberrant division, immortality, genomic instability, metastasis, metabolic reprogramming and tumour plasticity will be analysed, highlighting genes silenced through epigenetic mechanisms.
+Beyond DNA methylation and histone modifications, chromatin remodeling complexes play critical roles in tumor suppressor gene silencing through their ability to alter nucleosome positioning and chromatin accessibility. Chromatin remodeling involves ATP-dependent enzymatic complexes that reorganize nucleosome structure, thereby modulating access of transcriptional machinery to DNA and influencing gene expression.
+
+**SWI/SNF Chromatin Remodeling Complexes:**
+
+The SWI2/SNF2 family of chromatin remodeling enzymes represents a major class of factors involved in both gene activation and repression. These ATP-dependent complexes use energy from ATP hydrolysis to disrupt histone-DNA contacts, slide nucleosomes along DNA, or evict nucleosomes entirely, thereby altering chromatin structure. Importantly, histone-modifying and chromatin-remodeling genes themselves can function as tumor suppressor genes, and their inactivation through genetic mutations or epigenetic alterations during cancer pathogenesis causes perturbation of broad or genome-wide gene expression profiles.
+
+**HELLS (Helicase, Lymphoid-Specific):**
+
+One example of a chromatin remodeling enzyme implicated in tumor suppressor silencing is HELLS, an SWI2/SNF2 family member that is remarkably overexpressed in hepatocellular carcinoma. Overexpression of HELLS correlates with more aggressive clinicopathological features and poorer patient prognosis. Mechanistically, up-regulation of HELLS confers transcription factor SP1 hyperactivation, leading to epigenetic silencing of multiple tumor suppressor genes through altered chromatin accessibility and nucleosome positioning. HELLS alters nucleosome occupancy at putative enhancers and modulates binding of lineage-specific transcription factors, thereby regulating the chromatin landscape in ways that can silence tumor suppressors.
+
+**Interconnection of Chromatin Remodeling with Other Epigenetic Mechanisms:**
+
+Chromatin remodeling does not occur in isolation but rather functions in concert with DNA methylation and histone modifications to establish and maintain gene silencing. Transcriptional activators and repressors recruit both histone-modifying and chromatin-remodeling complexes that can remodel chromatin, ultimately changing the transcriptional activity of genes. For example:
+
+- Chromatin remodeling complexes facilitate access of DNA methyltransferases (DNMTs) to target promoters
+- Histone-modifying enzymes (histone deacetylases, histone methyltransferases) are recruited alongside chromatin remodelers to establish repressive chromatin states
+- The coordinated action of chromatin remodeling, histone modifications, and DNA methylation creates stable epigenetic silencing of tumor suppressor genes
+
+**Clinical Implications:**
+
+The recognition that chromatin regulators possess tumor suppressor properties and are frequently disrupted in human cancers has opened therapeutic avenues. Drugs targeting chromatin remodeling machinery, including inhibitors of specific histone-modifying enzymes and chromatin remodeling factors, are being developed as novel cancer therapies. Understanding how chromatin structure changes contribute to tumor suppressor silencing provides opportunities for epigenetic therapies that can potentially reverse these alterations and restore tumor suppressor function.
 
 ### 6.2.4 Viral Mechanisms of Inactivation
 
