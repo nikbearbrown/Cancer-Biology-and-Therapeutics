@@ -133,7 +133,7 @@ d) About 500
 
 3. **c)** Mutation, gene amplification, and chromosome rearrangements
 
-4. **c)** About 30%
+4. **b)** About 15%
 
 5. **d)** 90%
 
