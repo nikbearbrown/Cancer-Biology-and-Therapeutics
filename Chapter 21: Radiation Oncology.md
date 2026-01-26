@@ -50,8 +50,6 @@ Tissues that undergo rapid cell growth and mitosis under normal conditions are m
 
 ## 21.2 Types of Radiation Therapy
 
-21.2 Types of Radiation Therapy
-
 Radiation therapy encompasses diverse delivery methods, each with distinct physical characteristics, biological effects, and clinical applications. Understanding the spectrum of available radiation modalities enables clinicians to select optimal approaches for individual patients, balancing tumor control objectives with normal tissue preservation. The fundamental classification of radiation therapy is based on the source location relative to the patient: external beam radiation therapy (EBRT) where radiation originates outside the body, brachytherapy where radioactive sources are placed within or immediately adjacent to tumors, and systemic radioisotope therapy where radiopharmaceuticals are administered internally to target specific tissues.
 
 ### 21.2.1 External Beam Radiation Therapy
