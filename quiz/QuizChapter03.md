@@ -21,9 +21,9 @@ d) 25 million new cases and 12 million deaths
 
 a) Breast cancer
 
-b) Colorectal cancer
+b) Lung cancer 
 
-c) Lung cancer
+c) Colorectal cancer
 
 d) Prostate cancer
 
@@ -31,13 +31,13 @@ d) Prostate cancer
 
 **Question 3:** What percentage of the global population resides in Asia, and what proportion of global cancer cases occurred there in 2022?
 
-a) 45% of population; 35% of cases
+a) 49% of population; 45% of cases
 
-b) 50% of population; 45% of cases
+b) 59% of population; 49% of cases
 
-c) 59% of population; 49% of cases
+c) 60% of population; 50% of cases
 
-d) 65% of population; 60% of cases
+d) 69% of population; 50% of cases
 
 ---
 
@@ -81,11 +81,11 @@ d) More than 10,000 chemicals; at least 100 carcinogens
 
 a) Only breast and colorectal cancer
 
-b) Breast, endometrial, colorectal, kidney, and esophageal cancer
+b) Only stomach and pancreatic cancer
 
 c) Only lung and liver cancer
 
-d) Only stomach and pancreatic cancer
+d) Breast, endometrial, colorectal, kidney, and esophageal cancer
 
 ---
 
@@ -115,11 +115,11 @@ d) 40%
 
 **Question 10:** Which racial/ethnic group in the United States has the highest death rates for many cancer types, despite having slightly lower incidence rates for some cancers like breast cancer?
 
-a) Hispanic/Latino populations
+a) Black/African American populations
 
 b) Asian American populations
 
-c) Black/African American populations
+c) Hispanic/Latino populations
 
 d) Native American populations
 
@@ -129,9 +129,9 @@ d) Native American populations
 
 1. **c)** 20 million new cases and 9.7 million deaths
 
-2. **c)** Lung cancer
+2. **b)** Lung cancer
 
-3. **c)** 59% of population; 49% of cases
+3. **b)** 59% of population; 49% of cases
 
 4. **c)** 70-90%
 
@@ -139,10 +139,10 @@ d) Native American populations
 
 6. **c)** More than 7,000 chemicals; at least 60-70 carcinogens
 
-7. **b)** Breast, endometrial, colorectal, kidney, and esophageal cancer
+7. **d)** Breast, endometrial, colorectal, kidney, and esophageal cancer
 
 8. **c)** 415
 
 9. **c)** 20%
 
-10. **c)** Black/African American populations
+10. **a)** Black/African American populations
