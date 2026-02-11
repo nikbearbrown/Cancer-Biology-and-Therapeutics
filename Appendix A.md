@@ -63,10 +63,7 @@ In contrast, transformed cancer cells can grow without attachment. "This propert
 
 Critical considerations for cell culture include:
 
-- **Kary
-
-otype analysis**: Cells may develop "abnormal chromosomal number or structure (karyotype)" with passage<sup>2</sup>
-
+- **Karyotype analysis**: Cells may develop "abnormal chromosomal number or structure (karyotype)" with passage<sup>2</sup>
 - **Mycoplasma testing**: Essential to prevent contamination
 - **Cell line authentication**: Verify identity through STR profiling
 - **Passage number tracking**: "Hayflick index" - normal diploid cells have limited lifespan (~50-60 doublings)<sup>2</sup>
