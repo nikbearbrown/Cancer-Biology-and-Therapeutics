@@ -598,3 +598,14 @@ Modern cancer research requires:
 5. Continuous refinement of models as technology advances
 
 By thoughtfully selecting and combining experimental approaches, researchers can build a comprehensive understanding of cancer biology that ultimately leads to better therapies for patients.
+
+## References
+
+1. Experimental Models for Preclinical Research in Hepatocellular Carcinoma. In: Hepatocellular Carcinoma. NCBI Bookshelf; 2019.
+2. What Makes a Cancer Cell a Cancer Cell? In: Holland-Frei Cancer Medicine. 6th edition. NCBI Bookshelf; 2003.
+3. Jin F, Jin-Lee HJ, Johnson AJ. Mouse Models of Experimental Glioblastoma. In: Gliomas. NCBI Bookshelf; 2021.
+4. Investigating Metastasis Using In Vitro Platforms. In: Madame Curie Bioscience Database. NCBI Bookshelf.
+5. Pre-Clinical Models and Potential Novel Therapies for Glioblastomas. In: Gliomas. NCBI Bookshelf; 2021.
+6. How the Hedgehog Outfoxed the Crab. In: Madame Curie Bioscience Database. NCBI Bookshelf.
+7. Studying Gene Expression and Function. In: Molecular Biology of the Cell. 4th edition. NCBI Bookshelf; 2002.
+8. Using Model Animals to Assess and Understand Developmental Toxicity. In: Scientific Frontiers in Developmental Toxicology and Risk Assessment. NCBI Bookshelf; 2000.
