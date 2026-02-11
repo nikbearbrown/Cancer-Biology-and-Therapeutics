@@ -3573,7 +3573,7 @@
 <summary><strong>Introduction</strong></summary>
 <br>
 
-- [Understanding Cancer Through Models](#)
+- Understanding Cancer Through Models
 
 </details>
 
@@ -3581,10 +3581,10 @@
 <summary><strong>Part 1: In Vitro Cell Culture Models</strong></summary>
 <br>
 
-- **A.1** [Two-Dimensional (2D) Cell Culture Systems](#)
+- **A.1** Two-Dimensional (2D) Cell Culture Systems
   - A.1.1 Fundamentals of 2D Culture
   - A.1.2 Colony Formation Assays
-- **A.2** [Three-Dimensional (3D) Cell Culture Systems](#)
+- **A.2** Three-Dimensional (3D) Cell Culture Systems
   - A.2.1 Spheroids and Organoids
   - A.2.2 Matrix-Based 3D Cultures
 
@@ -3594,22 +3594,22 @@
 <summary><strong>Part 2: In Vivo Mouse Models</strong></summary>
 <br>
 
-- **A.3** [Overview of Mouse Models in Cancer Research](#)
-- **A.4** [Xenograft Models](#)
+- **A.3** Overview of Mouse Models in Cancer Research
+- **A.4** Xenograft Models
   - A.4.1 Cell Line-Derived Xenografts (CDX)
   - A.4.2 Patient-Derived Xenografts (PDX)
-- **A.5** [Syngeneic and Allograft Models](#)
+- **A.5** Syngeneic and Allograft Models
   - A.5.1 Principles of Syngeneic Models
-- **A.6** [Genetically Engineered Mouse Models (GEMMs)](#)
+- **A.6** Genetically Engineered Mouse Models (GEMMs)
   - A.6.1 Overview and Rationale
   - A.6.2 Cre-LoxP System
   - A.6.3 Inducible Systems
   - A.6.4 Specific GEMM Examples
-- **A.7** [Carcinogen-Induced Models](#)
+- **A.7** Carcinogen-Induced Models
   - A.7.1 Chemical Carcinogenesis
-- **A.8** [Metastasis Models](#)
+- **A.8** Metastasis Models
   - A.8.1 Experimental Metastasis Models
-- **A.9** [Alternative Animal Models](#)
+- **A.9** Alternative Animal Models
   - A.9.1 Zebrafish Models
   - A.9.2 Drosophila Models
   - A.9.3 C. elegans
@@ -3620,8 +3620,8 @@
 <summary><strong>Part 3: Model Selection Guide</strong></summary>
 <br>
 
-- **A.10** [Choosing the Right Model](#)
-- **A.11** [Comparative Analysis of Major Models](#)
+- **A.10** Choosing the Right Model
+- **A.11** Comparative Analysis of Major Models
 
 </details>
 
@@ -3629,8 +3629,8 @@
 <summary><strong>Part 4: Practical Considerations</strong></summary>
 <br>
 
-- **A.12** [Ethical Considerations and Animal Welfare](#)
-- **A.13** [Practical Tips for Beginners](#)
+- **A.12** Ethical Considerations and Animal Welfare
+- **A.13** Practical Tips for Beginners
 
 </details>
 
@@ -3638,9 +3638,9 @@
 <summary><strong>Part 5: Resources and Databases</strong></summary>
 <br>
 
-- **A.14** [Cell Line Resources](#)
-- **A.15** [Mouse Model Resources](#)
-- **A.16** [Protocol Resources](#)
+- **A.14** Cell Line Resources
+- **A.15** Mouse Model Resources
+- **A.16** Protocol Resources
 
 </details>
 
@@ -3648,6 +3648,6 @@
 <summary><strong>Conclusion</strong></summary>
 <br>
 
-- [Integrated Approach to Cancer Modeling](#)
+- Integrated Approach to Cancer Modeling
 
 </details>
