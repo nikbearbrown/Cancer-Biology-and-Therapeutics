@@ -3651,3 +3651,508 @@
 - Integrated Approach to Cancer Modeling
 
 </details>
+## Appendix B: Essential Techniques and Assays in Cancer Research
+
+<details>
+<summary><strong>Introduction</strong></summary>
+<br>
+
+- From Models to Measurements
+
+</details>
+
+<details>
+<summary><strong>Part 1: Cell Viability and Proliferation Assays</strong></summary>
+<br>
+
+- **B.1** Metabolic Activity Assays
+  - B.1.1 MTT Assay
+  - B.1.2 Alternative Metabolic Assays
+- **B.2** DNA Content-Based Assays
+  - B.2.1 Flow Cytometry for Cell Cycle Analysis
+  - B.2.2 BrdU/EdU Incorporation
+  - B.2.3 Ki-67 Staining
+- **B.3** Membrane Integrity Assays
+  - B.3.1 Principles of Dead Cell Detection
+  - B.3.2 Trypan Blue Exclusion
+  - B.3.3 Propidium Iodide (PI) Staining
+  - B.3.4 Lactate Dehydrogenase (LDH) Release
+
+</details>
+
+<details>
+<summary><strong>Part 2: Cell Death Assays</strong></summary>
+<br>
+
+- **B.4** Apoptosis Detection Methods
+  - B.4.1 Annexin V Staining
+  - B.4.2 Caspase Activity Assays
+  - B.4.3 TUNEL Assay
+- **B.5** Clonogenic Survival Assay
+
+</details>
+
+<details>
+<summary><strong>Part 3: Migration and Invasion Assays</strong></summary>
+<br>
+
+- **B.6** Migration Assays
+  - B.6.1 Scratch/Wound Healing Assay
+  - B.6.2 Transwell Migration Assay (Boyden Chamber)
+- **B.7** Invasion Assays
+  - B.7.1 Matrigel Invasion Assay
+  - B.7.2 3D Invasion Assays
+
+</details>
+
+<details>
+<summary><strong>Part 4: Tumor-Specific Measurements</strong></summary>
+<br>
+
+- **B.8** Tumor Volume Measurement in Mice
+  - B.8.1 Caliper Measurements
+  - B.8.2 Bioluminescence Imaging
+  - B.8.3 MRI and Micro-CT
+
+</details>
+
+<details>
+<summary><strong>Part 5: Molecular Biology Techniques</strong></summary>
+<br>
+
+- **B.9** CRISPR/Cas9 Gene Editing
+  - B.9.1 Basic Principles
+  - B.9.2 Gene Knockout
+  - B.9.3 Gene Knock-in
+  - B.9.4 CRISPR Screens
+- **B.10** RNA Interference (RNAi)
+
+</details>
+
+<details>
+<summary><strong>Part 6: Practical Experimental Design</strong></summary>
+<br>
+
+- **B.11** Statistical Considerations
+  - B.11.1 Sample Size and Replication
+  - B.11.2 Controls
+- **B.12** Common Pitfalls and How to Avoid Them
+  - B.12.1 Cell Culture Artifacts
+  - B.12.2 Assay-Specific Issues
+
+</details>
+
+<details>
+<summary><strong>Part 7: Data Analysis and Presentation</strong></summary>
+<br>
+
+- **B.13** Quantification Methods
+  - B.13.1 Image Analysis
+  - B.13.2 Flow Cytometry Analysis
+- **B.14** Statistical Analysis
+
+</details>
+
+<details>
+<summary><strong>Part 8: Quality Control and Reproducibility</strong></summary>
+<br>
+
+- **B.15** Ensuring Reproducible Results
+  - B.15.1 Documentation
+  - B.15.2 Validation
+- **B.16** Troubleshooting Guide
+
+</details>
+
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
+
+- Integrated Approach to Cancer Research Techniques
+
+</details>
+
+## Appendix C: Advanced Imaging and Photodynamic Therapy in Cancer Research
+
+<details>
+<summary><strong>Introduction</strong></summary>
+<br>
+
+- Visualizing and Treating Cancer
+
+</details>
+
+<details>
+<summary><strong>Part 1: Advanced Flow Cytometry and FACS</strong></summary>
+<br>
+
+- **C.1** Principles of Flow Cytometry
+  - C.1.1 How Flow Cytometry Works
+- **C.2** Antibody-Based Detection
+  - C.2.1 Surface Marker Analysis
+  - C.2.2 Immunoconjugate Binding Assays
+  - C.2.3 Sample Preparation for Flow Cytometry
+- **C.3** Fluorescence-Activated Cell Sorting (FACS)
+  - C.3.1 FACS Principles
+
+</details>
+
+<details>
+<summary><strong>Part 2: Fluorescence Microscopy Techniques</strong></summary>
+<br>
+
+- **C.4** Basic Fluorescence Microscopy
+  - C.4.1 Principles of Fluorescence
+  - C.4.2 Green Fluorescent Protein (GFP)
+- **C.5** Advanced Microscopy Techniques
+  - C.5.1 Confocal Microscopy
+  - C.5.2 Two-Photon Microscopy
+  - C.5.3 Super-Resolution Microscopy
+- **C.6** Activatable Fluorescent Probes
+  - C.6.1 Principles of Activatable Fluorophores
+
+</details>
+
+<details>
+<summary><strong>Part 3: In Vivo Optical Imaging</strong></summary>
+<br>
+
+- **C.7** Bioluminescence Imaging (BLI)
+  - C.7.1 Principles and Applications
+  - C.7.2 BLI Protocol for Tumor Imaging
+  - C.7.3 Data Analysis
+- **C.8** Fluorescence Imaging in Vivo
+  - C.8.1 Fluorescence vs. Bioluminescence
+  - C.8.2 Near-Infrared Fluorescence Imaging
+- **C.9** Multi-Modal Imaging
+  - C.9.1 Combining Imaging Modalities
+
+</details>
+
+<details>
+<summary><strong>Part 4: Photodynamic Therapy (PDT)</strong></summary>
+<br>
+
+- **C.10** PDT Principles and Mechanism
+  - C.10.1 Basic Mechanism
+  - C.10.2 Photosensitizers
+  - C.10.3 ALA-Based PDT
+- **C.11** Light Dosimetry
+  - C.11.1 Critical Parameters
+  - C.11.2 Drug-Light Reciprocity
+  - C.11.3 Light Delivery Techniques
+  - C.11.4 Threshold Effects
+- **C.12** PDT Protocols for Cancer Research
+  - C.12.1 In Vitro PDT Cytotoxicity
+  - C.12.2 Measuring PDT-Induced Cell Death
+
+</details>
+
+<details>
+<summary><strong>Part 5: Orthotopic Tumor Models for PDT</strong></summary>
+<br>
+
+- **C.13** Orthotopic Oral Cancer Models
+  - C.13.1 Rationale for Orthotopic Models
+  - C.13.2 Establishing Orthotopic Oral Cancer Models
+- **C.14** PDT Treatment in Orthotopic Models
+  - C.14.1 Photosensitizer Administration
+  - C.14.2 Light Delivery to Orthotopic Oral Tumors
+  - C.14.3 Monitoring Treatment Response
+- **C.15** Photosensitizer Distribution Studies
+  - C.15.1 Ex Vivo Fluorescence
+  - C.15.2 In Vivo Fluorescence Imaging
+
+</details>
+
+<details>
+<summary><strong>Part 6: Specialized Applications</strong></summary>
+<br>
+
+- **C.16** Photoimmunotherapy (PIT)
+  - C.16.1 Concept
+- **C.17** Combination Imaging-Therapy Platforms
+  - C.17.1 Theranostic Nanoparticles
+
+</details>
+
+<details>
+<summary><strong>Part 7: Practical Protocols</strong></summary>
+<br>
+
+- **C.18** Setting Up PDT Experiments
+  - C.18.1 In Vitro PDT Protocol Template
+  - C.18.2 In Vivo PDT Protocol for Orthotopic Oral Cancer
+- **C.19** Light Safety and Photosensitivity
+  - C.19.1 Protecting Patients/Animals
+
+</details>
+
+<details>
+<summary><strong>Part 8: Troubleshooting and Optimization</strong></summary>
+<br>
+
+- **C.20** Common Issues in PDT Research
+- **C.21** Optimizing Light Dosimetry
+  - C.21.1 Fluence Rate Effects
+
+</details>
+
+<details>
+<summary><strong>Part 9: Data Analysis and Reporting</strong></summary>
+<br>
+
+- **C.22** Quantifying PDT Response
+  - C.22.1 In Vitro Analysis
+  - C.22.2 In Vivo Tumor Response Criteria
+  - C.22.3 Survival Analysis
+
+</details>
+
+<details>
+<summary><strong>Part 10: Emerging Technologies</strong></summary>
+<br>
+
+- **C.23** Advanced Imaging Modalities
+  - C.23.1 Fluorescence Lifetime Imaging (FLIM)
+  - C.23.2 Intravital Microscopy
+- **C.24** Clinical Translation Considerations
+  - C.24.1 Preclinical to Clinical PDT
+
+</details>
+
+<details>
+<summary><strong>Part 11: Quality Control and Standardization</strong></summary>
+<br>
+
+- **C.25** Ensuring Reproducible Results
+  - C.25.1 Light Source Calibration
+  - C.25.2 Photosensitizer Quality Control
+
+</details>
+
+<details>
+<summary><strong>Part 12: Quick Reference Guides</strong></summary>
+<br>
+
+- **C.26** Flow Cytometry Quick Start
+- **C.27** PDT Quick Reference
+- **C.28** Imaging Troubleshooting
+
+</details>
+
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
+
+- Integration of Imaging and Therapeutic Approaches
+
+</details>
+
+## Appendix D: Molecular Biology Techniques - Protein and Gene Expression Analysis
+
+<details>
+<summary><strong>Introduction</strong></summary>
+<br>
+
+- From Genes to Proteins
+
+</details>
+
+<details>
+<summary><strong>Part 1: Western Blot Analysis</strong></summary>
+<br>
+
+- **D.1** Principles and Overview
+- **D.2** Sample Preparation and Protein Extraction
+  - D.2.1 Principles of Protein Extraction
+  - D.2.2 Lysis Buffer Components
+  - D.2.3 Protein Extraction Protocol
+  - D.2.4 Protein Quantification
+- **D.3** SDS-PAGE (Gel Electrophoresis)
+  - D.3.1 Sample Preparation for Loading
+  - D.3.2 Gel Electrophoresis
+- **D.4** Protein Transfer to Membrane
+  - D.4.1 Transfer Principles
+- **D.5** Blocking and Antibody Incubation
+  - D.5.1 Blocking Step
+  - D.5.2 Primary Antibody Incubation
+  - D.5.3 Secondary Antibody Incubation
+- **D.6** Detection and Analysis
+  - D.6.1 Detection Methods
+  - D.6.2 Data Analysis and Quantification
+- **D.7** Controls and Troubleshooting
+  - D.7.1 Essential Controls
+  - D.7.2 Common Problems and Solutions
+
+</details>
+
+<details>
+<summary><strong>Part 2: Enzyme-Linked Immunosorbent Assay (ELISA)</strong></summary>
+<br>
+
+- **D.8** ELISA Principles
+  - D.8.1 Overview
+  - D.8.2 ELISA Formats
+- **D.9** ELISA Protocol (Sandwich Format)
+  - D.9.1 Plate Coating
+  - D.9.2 Blocking
+  - D.9.3 Standards and Samples
+  - D.9.4 Detection
+  - D.9.5 Data Analysis
+- **D.10** Multiplex ELISA
+  - D.10.1 Simultaneous Detection of Multiple Analytes
+
+</details>
+
+<details>
+<summary><strong>Part 3: Immunohistochemistry (IHC)</strong></summary>
+<br>
+
+- **D.11** IHC Principles and Applications
+  - D.11.1 Overview
+  - D.11.2 Clinical Relevance in Cancer
+  - D.11.3 Common IHC Applications in Cancer
+- **D.12** IHC Protocol Overview
+  - D.12.1 Tissue Preparation
+  - D.12.2 Antigen Retrieval
+  - D.12.3 Staining Procedure
+  - D.12.4 Scoring and Interpretation
+- **D.13** IHC vs. Immunofluorescence
+  - D.13.1 Immunofluorescence (IF)
+  - D.13.2 Important Consideration
+
+</details>
+
+<details>
+<summary><strong>Part 4: Gene Expression Analysis by PCR</strong></summary>
+<br>
+
+- **D.14** PCR Fundamentals
+  - D.14.1 Basic PCR Principles
+- **D.15** Reverse Transcription PCR (RT-PCR)
+  - D.15.1 From RNA to cDNA
+  - D.15.2 RNA Extraction Considerations
+- **D.16** Quantitative PCR (qPCR/Real-Time PCR)
+  - D.16.1 Principles
+  - D.16.2 Detection Methods
+  - D.16.3 Quantification Cycle (Cq or Ct)
+  - D.16.4 Data Analysis Methods
+- **D.17** RT-qPCR Protocol
+  - D.17.1 One-Step vs. Two-Step
+  - D.17.2 Reaction Setup
+  - D.17.3 Cycling Conditions
+- **D.18** Controls and Validation
+  - D.18.1 Reference Genes
+  - D.18.2 Primer Design
+- **D.19** Troubleshooting qPCR
+
+</details>
+
+<details>
+<summary><strong>Part 5: Comparing Techniques</strong></summary>
+<br>
+
+- **D.20** When to Use Which Method
+- **D.21** Complementary Use of Techniques
+
+</details>
+
+<details>
+<summary><strong>Part 6: Quality Control and Best Practices</strong></summary>
+<br>
+
+- **D.22** Antibody Validation
+  - D.22.1 Critical Importance
+- **D.23** Reagent Storage and Handling
+  - D.23.1 General Guidelines
+- **D.24** Documentation and Reproducibility
+  - D.24.1 What to Record
+
+</details>
+
+<details>
+<summary><strong>Part 7: Advanced Applications</strong></summary>
+<br>
+
+- **D.25** Protein-Protein Interaction Studies
+  - D.25.1 Co-Immunoprecipitation (Co-IP)
+- **D.26** Phospho-Protein Detection
+  - D.26.1 Signaling Pathway Analysis
+
+</details>
+
+<details>
+<summary><strong>Part 8: Clinical Applications</strong></summary>
+<br>
+
+- **D.27** Diagnostic IHC in Cancer
+  - D.27.1 Tumor Classification
+  - D.27.2 Predictive Biomarkers
+
+</details>
+
+<details>
+<summary><strong>Part 9: Practical Guides for Beginners</strong></summary>
+<br>
+
+- **D.28** Western Blot Quick Start
+- **D.29** ELISA Quick Start
+- **D.30** qPCR Quick Start
+
+</details>
+
+<details>
+<summary><strong>Part 10: Troubleshooting Guide</strong></summary>
+<br>
+
+- **D.31** Western Blot Problems
+- **D.32** ELISA Problems
+- **D.33** qPCR Problems
+
+</details>
+
+<details>
+<summary><strong>Part 11: Quality Standards</strong></summary>
+<br>
+
+- **D.34** Assay Validation
+  - D.34.1 Performance Metrics
+  - D.34.2 Clinical Laboratory Standards
+
+</details>
+
+<details>
+<summary><strong>Part 12: Emerging Techniques</strong></summary>
+<br>
+
+- **D.35** Digital PCR (dPCR)
+  - D.35.1 Droplet Digital PCR
+- **D.36** Multiplex Immunofluorescence
+  - D.36.1 Multi-Color IHC
+
+</details>
+
+<details>
+<summary><strong>Part 13: Integration with Other Appendices</strong></summary>
+<br>
+
+- **D.37** Connecting Techniques
+
+</details>
+
+<details>
+<summary><strong>Conclusion</strong></summary>
+<br>
+
+- Building Your Molecular Toolkit
+
+</details>
+
+<details>
+<summary><strong>Quick Reference</strong></summary>
+<br>
+
+- Common Buffer Recipes
+
+</details>
