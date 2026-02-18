@@ -1,0 +1,19 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        - cd physics-book
+        - yarn install --frozen-lockfile
+    build:
+      commands:
+        - cd physics-book
+        - export NODE_OPTIONS="--max-old-space-size=16384"
+        - yarn build
+  artifacts:
+    baseDirectory: physics-book/build
+    files:
+      - '**/*'
+  cache:
+    paths:
+      - physics-book/node_modules/**/*
